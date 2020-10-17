@@ -1,0 +1,28 @@
+/*========================================*/
+/*------------- [_Divider] ---------------*/
+/*========================================*/
+.text-divider {
+	.large-text {
+		font-size: 48px;
+		line-height: 1.2;
+		text-transform: uppercase;
+	}
+}
+.call-us-now {
+	position: absolute;
+	bottom: 15px;
+	right: 15px;
+	background: $bg-gradient-color;
+	padding: 30px 40px;
+	border-radius: 12px;
+}
+.call-us-now:before {
+	position: inherit;
+	content: "\f18e";
+	font-family: "Flaticon";
+	color: #fff;
+	font-size: 92px;
+	left: 30px;
+	top: 50px;
+	opacity: 0.2;
+}

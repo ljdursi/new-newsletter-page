@@ -1,0 +1,57 @@
+/*========================================*/
+/*---------- [_Section_Icon_Box] ---------*/
+/*========================================*/
+
+.icon-box-block {
+	background-color: #ffffff;
+	border-radius: 12px;
+	text-align: center;
+	border: 1px solid #f0f0f0;
+	padding: 30px 25px 30px 25px;
+	z-index: 1;
+	position: relative;
+	overflow: hidden;
+	@include box-shadow(0px 0px 16px 4px rgba(0,0,0,.1));
+	&:after {
+		background: url(../images/service/1.png);
+		background-size: cover;
+		position: absolute;
+		height: 100%;
+		width: 100%;
+		bottom: -35px;
+		background-repeat: no-repeat;
+		left: 0;
+		z-index: -1;
+		content: "";
+		@include transition(all 300ms ease-out 0s);
+	}
+	img {
+		@include transition(all 400ms ease-out 0s);
+	}
+	&:hover {
+		img {
+			@include transform(scale(-1) rotate(180deg));
+		}
+		&:after {
+			@include transform(scale(1.08) translate(0px, -8px));
+		}
+	}
+}
+.icon-box-two {
+	.icon {
+		background: $bg-primary-color;
+		border-radius: 6px;
+		width: 84px;
+		height: 84px;
+		line-height: 84px;
+		float: left;
+		text-align: center;
+		span:before {
+			font-size: 48px;
+			color: #fff;
+		}
+	}
+	.icon-details  {
+		margin-left: 110px;
+	}
+}

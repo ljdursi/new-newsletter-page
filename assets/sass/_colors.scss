@@ -1,0 +1,48 @@
+// =======================//
+// primary-color:FD8369;
+// secondary-color:4E4E91;
+// =======================//
+
+/*========================================*/
+/*-------------- [_Colors] ---------------*/
+/*========================================*/
+
+/*========== Background Colors ==========*/
+.bg-primary-color {
+	background: $bg-primary-color;
+}
+.bg-secondary-color {
+	background: $bg-secondary-color;
+}
+
+/*========== Text Color ==========*/
+.text-primary-color {
+	color: $text-primary-color;
+}
+.text-primary-color2 {
+	color: $text-primary-color2;
+}
+.text-primary-color3 {
+	color: $text-primary-color3;
+}
+.text-secondary-color {
+	color: $text-secondary-color;
+}
+.text-secondary-color2 {
+	color: $text-secondary-color2;
+}
+.heading-text-color {
+	color: $heading-text-color;
+}
+.bg-gradient-color {
+	background: $bg-gradient-color;
+}
+.bg-light-gradient-color {
+	background: $bg-light-gradient-color;
+}
+.bg-light-gradient-color-with-img {
+	background: url(../images/bg/abs-bg3.png), $bg-light-gradient-color;
+}
+.bg-light-gradient-color-with-img2 {
+	background: url(../images/bg/abs-bg4.png), $bg-gradient-color;
+}

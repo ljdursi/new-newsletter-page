@@ -1,0 +1,67 @@
+/*========================================*/
+/*---------- [_Section_Funfact] ----------*/
+/*========================================*/
+.funfact {
+	background: $bg-silver-light;
+	padding: 40px 40px 40px;
+	position: relative;
+	.icon {
+		margin-bottom: 30px;
+		position: absolute;
+		top: 45px;
+		right: 15px;
+		@include transition(all 0.4s ease-in-out);
+		span {
+			&:before {
+				font-size: 54px;
+				color: $text-primary-color;
+			}
+		}
+	}
+	.counter {
+		font-size: 48px;
+		margin-bottom: 20px;
+		z-index: 1;
+		position: relative;
+	}
+	.title {
+		color: #747b87;
+		position: relative;
+		z-index: 2;
+	}
+	&::before {
+		content: "";
+		background: $bg-gradient-color;
+		height: 100%;
+		width: 100%;
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		opacity: 0.05;
+		@include transform(translate(10px, 10px));
+		@include transition(all 0.4s ease-in-out);
+	}
+	&:hover {
+		.icon {
+			top: 55px;
+		}
+		&::before {
+			left: 5px;
+			top: 6px;
+			opacity: 0.08;
+		}
+	}
+}
+.funfact-normal .icon span:before {
+	color: #fff;
+	font-size: 48px;
+}
+.funfact-normal .counter {
+	color: $bg-primary-color;
+	font-size: 56px;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+.funfact-normal .title {
+	color: #fff;
+}

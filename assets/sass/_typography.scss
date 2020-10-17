@@ -1,0 +1,142 @@
+/*========================================*/
+/*-------------- [_Utility] -----===------*/
+/*========================================*/
+
+body {
+	color: $body-font-color;
+	font-family: $body-font;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 26px;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+p {
+	margin: 0 0 20px;
+	line-height: 1.8em;
+}
+h1, h2, h3, h4, h5, h6 {
+	color: $heading-text-color;
+	margin: 0;
+	font-family: $heading-font;
+}
+h1, h2 {
+	font-weight: 800;
+}
+h3, h4 {
+	font-weight: 700;
+}
+h5, h6 {
+	font-weight: 600;
+}
+h1 {
+	font-size: 48px;
+	line-height: 56px;
+}
+h2 {
+	font-size: 42px;
+	line-height: 48px;
+}
+h3 {
+	font-size: 28px;
+	line-height: 1.25;
+	letter-spacing: -.02em;
+}
+h4 {
+	font-size: 22px;
+	line-height: 32px;
+}
+h5 {
+	font-size: 18px;
+	line-height: 24px;
+}
+h6 {
+	font-size: 16px;
+	line-height: 26px;
+}
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+	color: inherit;
+}
+b, strong {
+	color: $heading-text-color;
+}
+iframe {
+	border: none;
+}
+
+a,b,div,ul,li {
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+	-webkit-tap-highlight-color: transparent;
+	-moz-outline-: none;
+}
+input, select,
+textarea,
+input[type="text"],
+input[type="date"],
+input[type="url"],
+input[type="email"],
+input[type="password"],
+input[type="tel"],
+button,
+button[type="submit"] {
+	-moz-appearance: none;
+	box-shadow: none !important;
+}
+
+img:not([draggable]),
+embed,
+object,
+video {
+	max-width: 100%;
+	height: auto; }
+
+a {
+	transition: all 0.3s ease 0s;
+	text-decoration:none;
+	cursor:pointer;
+	color:#049AD3;
+}
+a:hover,a:focus,a:visited{
+	text-decoration:none;
+}
+a:hover {
+	color: $bg-primary-color;
+	text-decoration: none;
+}
+ul, ol {
+	list-style: outside none none;
+	margin: 0;
+	padding: 0;
+}
+img {
+	border: none;
+	max-width: 100%;
+}
+.clear-both:before,
+.clear-both:after {
+	display: table;
+	content: "";
+	clear: both;
+}
+.block-quote {
+	padding: 30px;
+	background: #F4F5F8;
+	border-left: 5px solid $bg-primary-color;
+	position: relative;
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+.block-quote:after {
+	position: absolute;
+	content: "\ea70";
+	font-family: 'webexicon' !important;
+	font-size: 17rem;
+	top: 50px;
+	right: -15px;
+	opacity: 0.08;
+}
+.block-quote p {
+	font-size: 20px;
+	color: #555362;
+}

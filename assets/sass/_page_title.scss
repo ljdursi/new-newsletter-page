@@ -1,0 +1,37 @@
+/*========================================*/
+/*-------------- [_Page_Title] -----------*/
+/*========================================*/
+.page-title-section {
+	background-color: #f8f8f8;
+	background-image: url(../images/bg/page-title-bg.jpg);
+	color: #fff;
+}
+.page-title-content {
+	display: flex;
+	align-items: center;
+	position: relative;
+	height: 320px;
+}
+.page-title-content .title {
+	font-size: 54px;
+	letter-spacing: 1px;
+}
+.page-title-content nav {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}
+.page-title-content nav ol {
+	margin: 0;
+	border-radius: 0;
+	background: rgba(11,18,30,0.6);
+}
+.page-title-content .breadcrumb-item a {
+	color: #FDE428;
+}
+.page-title-content .breadcrumb-item.active {
+	color: #ffffff;
+}
+.page-title-content .breadcrumb-item+.breadcrumb-item::before {
+	content: "|";
+}

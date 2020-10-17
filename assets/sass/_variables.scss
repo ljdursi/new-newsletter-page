@@ -1,0 +1,43 @@
+//======= Bg Color Variables ========//
+$body-font-color: #3e3e3e;
+$bg-white: #ffffff;
+$bg-light-pink: #faf3f3;
+$bg-silver: #ECF1F8;
+$bg-silver-light: #F7F8FC;
+$bg-silver-deep: #ecdaee;
+$bg-gray: #f7f7f7;
+$bg-primary-color: #0c59db;
+$bg-primary-color2: #3032A2;
+$bg-primary-color3: #FDE428;
+$bg-secondary-color: #17305e;
+$bg-secondary-color2: #002448;
+$bg-dark-color: #0B0C26;
+$bg-blue-color: #571bcd;
+$gradient-color1: #0088d3;
+$gradient-color2: #04b87f;
+$bg-gradient-color: linear-gradient(45deg, #0E90D5, #3032A2) !important;
+$bg-gradient-reverse-color: linear-gradient(-20deg, #0E90D5, #3032A2) !important;
+// $bg-gradient-reverse-color: linear-gradient(-20deg, #b2531f, #c32b1a) !important;
+$bg-light-gradient-color: linear-gradient(200deg, #fffdfd, rgba(168,122,33,0.15)) !important;
+//======= Text Color Variables ========//
+$text-white: #ffffff;
+$text-light-gray: #a7a8b4;
+$text-silver: #f5f3f1;
+$text-gray: #a4a4aa;
+$text-gray-light: #CCCCCC;
+$text-dark-light: #808093;
+$text-primary-color: $bg-primary-color;
+$text-primary-color2: $bg-primary-color2;
+$text-primary-color3: $bg-primary-color3;
+$text-secondary-color: $bg-secondary-color;
+$text-secondary-color2: $bg-secondary-color2;
+$heading-text-color :#151a33;
+//========== Font Family ========== //
+$poppins-font: 'Poppins', sans-serif;
+$caladea-font: 'Caladea', serif;
+
+$body-font: $poppins-font;
+$heading-font: $poppins-font;
+
+$f-family1: $poppins-font;
+$f-family2: $caladea-font;

@@ -1,0 +1,48 @@
+/*========================================*/
+/*----------- [_Section_Title] -----------*/
+/*========================================*/
+.section-title {
+	margin-bottom: 60px;
+	.sub-title {
+		margin-bottom: 5px;
+		font-size: 16px;
+	}
+}
+.section-title-left-part {
+	position: relative;
+	padding-left: 30px;
+}
+.section-title-left-part:before {
+	content: "";
+	position: absolute;
+	background: $bg-primary-color;
+	height: 100%;
+	width: 8px;
+	top: 0;
+	left: 0;
+}
+.section-title-left-part:after {
+	content: "\f180";
+	font-family: Flaticon;
+	position: absolute;
+	top: 17px;
+	left: 45px;
+	font-size: 7rem;
+	color: #1677bf;
+	opacity: 0.1;
+	animation: heartbeat 1s infinite alternate;
+}
+.title-box-center {
+	position: relative;
+}
+.shadow-text {
+	position: relative;
+	font-size: 152px;
+	opacity: 0.05;
+	left: 0;
+	right: 0;
+	top: 15px;
+	color: #3751ca;
+	font-weight: 800;
+	animation: heartbeat 1s infinite alternate;
+}

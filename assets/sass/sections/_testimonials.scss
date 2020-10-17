@@ -1,0 +1,47 @@
+/*========================================*/
+/*-------- [_Section_testimonials] -------*/
+/*========================================*/
+.testimonial-item {
+	background: #f8f8fa;
+	padding: 35px;
+	position: relative;
+	border-radius: 12px;
+	overflow: hidden;
+	text-align: center
+}
+.testimonial-thumb {
+	display: inline-block;
+	padding: 3px;
+	border-radius: 50%;
+	margin-bottom: 5px;
+	background: #c1cad5;
+}
+.testimonial-thumb img {
+	border-radius: 50%;
+}
+.testimonial-content .comments {
+	font-style: italic;
+}
+.client-designation {
+	font-size: 16px;
+	color: #a6a4a4;
+	letter-spacing: 0px;
+	font-weight: 400;
+	margin-bottom: 20px;
+}
+.star-rating li i {
+	font-size: 18px;
+}
+.client-name {
+	margin-bottom: 0px;
+}
+.quote-icon:before {
+	position: absolute;
+	right: 40px;
+	text-align: center;
+	z-index: 1;
+	font-size: 3.2rem;
+	@include transform(translateY(50%) rotate(-180deg));
+	color: $bg-primary-color;
+	top: 10px;
+}

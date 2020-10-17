@@ -1,0 +1,71 @@
+/*=================================================*/
+/*----------- [_Section_Pricing_Tables] -----------*/
+/*=================================================*/
+.price-table {
+	position: relative;
+	display: block;
+	background: #F4F5F8;
+	padding-bottom: 45px;
+	border-radius: 8px;
+	@include transition(all 300ms ease-out 0s);
+	.table-header {
+		position: relative;
+		display: block;
+		.pricing-plan-name {
+			position: relative;
+			display: block;
+			font-size: 24px;
+			line-height: 40px;
+			color: #ffffff;
+			font-weight: 600;
+			padding: 15px 0;
+			background: $bg-gradient-color;
+			border-radius: 8px 8px 0 0;
+		}
+		.price {
+			font-size: 64px;
+			line-height: 64px;
+			color: #0B2239;
+			font-weight: 600;
+			background: #fff;
+			padding: 45px 0 20px;
+			border: 1px solid #edf1f9;
+			.price-currency {
+		    font-size: 36px;
+		    margin-right: 10px;
+		    vertical-align: text-bottom;
+		    font-weight: 600;
+			}
+			.price-duration {
+				font-size: 15px;
+				letter-spacing: .3px;
+				font-weight: 500;
+			}
+		}
+	}
+	.table-content {
+		position: relative;
+		display: block;
+		padding: 45px;
+		.list-items li {
+			padding: 8px 0;
+		}
+	}
+	&.active {
+		@include box-shadow(0 10px 26px rgba(0, 0, 0, 0.2));
+		@include transform(scale(1.05));
+	}
+	.recommended {
+		position: absolute;
+		top: -20px;
+		right: 0;
+		left: 0;
+		padding: 3px;
+		background: #b62b7d;
+		margin: 0 auto;
+		width: 40%;
+		border-radius: 30px;
+		color: #fff;
+		font-size: 13px;
+	}
+}

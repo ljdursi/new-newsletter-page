@@ -1,0 +1,124 @@
+/*========================================*/
+/*---------------- [_widget] -------------*/
+/*========================================*/
+
+/*Widget Search*/
+.sidebar-widget {
+	padding: 30px;
+	margin-bottom: 30px;
+	background: #edf0fa;
+	border-radius: 8px;
+}
+.widget-title {
+	position: relative;
+	&:after {
+		position: absolute;
+		content: "";
+		height: 4px;
+		width: 58px;
+		left: 0;
+		bottom: -15px;
+		background: $bg-gradient-color;
+		border-radius: 6px;
+	}
+}
+.single-blog-widget-title {
+	background: $bg-gradient-reverse-color;
+	color: #fff;
+	padding: 8px 24px;
+}
+.news-sidebar-widget {
+	.widget-search {
+		.search-form {
+			position: relative;
+			label {
+				display: block;
+				margin-bottom: 0;
+			}
+			input {
+				height: 50px;
+				padding: 6px 15px;
+				border: 1px solid #eeeeee;
+				width: 100%;
+				display: block;
+				outline: 0;
+				-webkit-transition: 0.5s;
+				transition: 0.5s;
+			}
+			button {
+				position: absolute;
+				right: 0;
+				outline: 0;
+				bottom: 0;
+				height: 50px;
+				width: 50px;
+				z-index: 1;
+				border: none;
+				color: #ffffff;
+				background-color: $bg-primary-color;
+				-webkit-transition: 0.5s;
+				transition: 0.5s;
+				cursor: pointer;
+			}
+		}
+	}
+	.widget-popular-posts {
+		.post-date {
+			font-size: 14px;
+		}
+	}
+	.widget-categories, .widget-archives {
+		ul {
+			li {
+				display: inherit;
+				padding: 5px 0;
+				a {
+					color: #565151;
+					&:hover {
+						color: $bg-primary-color;
+					}
+				}
+				&:first-child {
+					padding-top: 0;
+				}
+			}
+		}
+	}
+	.widget-tags {
+		ul {
+			li {
+				a {
+					background: #fafcfe;
+					color: #565151;
+					font-size: 14px;
+					margin-right: 10px;
+					margin-bottom: 14px;
+					padding: 8px 16px 8px 16px;
+					border-radius: 6px;
+					display: inline-block;
+					&:hover {
+						color: #fff;
+						background: $bg-gradient-color;
+					}
+				}
+			}
+		}
+	}
+}
+
+.news-sidebar-widget .widget-categories ul li:last-child,
+.news-sidebar-widget .widget-archives ul li:last-child {
+	border-bottom: none;
+	padding-bottom: 0;
+}
+.single-post {
+	border-bottom: 1px solid #dbdde1;
+	padding-bottom: 20px;
+}
+.single-post:last-child {
+	border-bottom: none;
+	padding-bottom: 0;
+}
+.single-post .post-image img {
+	border-radius: 50%;
+}

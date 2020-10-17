@@ -1,0 +1,63 @@
+/*========================================*/
+/*-------------- [_Accordion] ------------*/
+/*========================================*/
+.accordion {
+	.accordion-item {
+		margin-bottom: 15px;
+		float: left;
+		width: 100%;
+		.accordion-header {
+			position: relative;
+			&.active {
+				.title {
+					background: $bg-gradient-reverse-color;
+					color: #fff;
+				}
+				span {
+					background: #fff !important;
+					&:before {
+						content: "\f063";
+						color: $bg-primary-color;
+					}
+				}
+			}
+			.title {
+				cursor: pointer;
+				color: #253c61;
+				position: relative;
+				background: #edf0fa;
+				margin: 0;
+				padding: 24px 20px 20px 70px;
+				font-size: 18px;
+			}
+			span {
+				position: absolute;
+				left: 20px;
+				top: 20px;
+				height: 30px;
+				width: 30px;
+				color: #ffffff;
+				background: $bg-gradient-reverse-color;
+				text-align: center;
+				line-height: 30px;
+				font-size: 13px;
+				border-radius: 80%;
+			}
+		}
+		.accordion-body {
+			padding: 20px;
+			background: #edf0fa;
+			display: none;
+			p {
+				font-size: 15px;
+				color: #444444;
+				margin: 0px;
+			}
+		}
+		&:nth-child(1) {
+			.accordion-body {
+				display: block;
+			}
+		}
+	}
+}

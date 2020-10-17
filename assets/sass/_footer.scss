@@ -1,0 +1,37 @@
+/*========================================*/
+/*-------------- [_Footer] ---------------*/
+/*========================================*/
+.footer-main-area {
+	background: #222935;
+	padding: 100px 0 60px;
+}
+.footer-bottom-area {
+	background: #303743;
+	padding: 20px 0;
+}
+.footer-widget {
+	margin-bottom: 40px;
+	display: inline-block;
+}
+.footer-widget-list {
+	li {
+		display: inherit;
+		margin-bottom: 10px;
+		a {
+			color: $text-light-gray;
+			position: relative;
+			padding-left: 25px;
+			&:before {
+				position: absolute;
+				content: '\f105';
+				left: 0px;
+				top: -3px;
+				font-family: "Font Awesome 5 Free";
+				font-weight: 900;
+			}
+			&:hover {
+				color: $bg-primary-color;
+			}
+		}
+	}
+}

@@ -1,0 +1,23 @@
+/*=================================================*/
+/*---------- [_Section_Single_Project] ------------*/
+/*=================================================*/
+.project-info-list {
+	li {
+		padding: 8px 0;
+		color: #677286;
+		display: inherit;
+		span {
+			color: #233d63;
+			font-weight: 600;
+			margin-right: 5px;
+			i {
+				color: $bg-primary-color;
+				font-size: 18px;
+				margin-right: 10px;
+			}
+		}
+		a {
+			color: #677286;
+		}
+	}
+}

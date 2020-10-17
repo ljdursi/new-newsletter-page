@@ -1,0 +1,95 @@
+/*========================================*/
+/*---------- [_Section_About] ------------*/
+/*========================================*/
+.about-image-block {
+	position: relative;
+}
+.about-image-block-2 {
+	position: relative;
+	padding-right: 45px;
+}
+.about-image-block-2 img {
+	border-radius: 10px;
+}
+.about-image-block-3 {
+    position: relative;
+    margin-bottom: -145px;
+}
+.signature img {
+	width: 125px;
+}
+.about-image-block:after {
+	position: absolute;
+	content: "";
+	height: 270px;
+	width: 255px;
+	background: #8090c7;
+	z-index: -1;
+	right: 90px;
+	margin: 0 auto;
+	top: 45px;
+	opacity: 0.15;
+	animation: heartbeat 1s infinite alternate;
+}
+.feature-box {
+	text-align: center;
+}
+.feature-thumb {
+	overflow: hidden;
+}
+.feature-thumb img {
+	@include border-radius ( 10px 10px 0 0px );
+	@include transition ( all 900ms ease );
+}
+.feature-box:hover .feature-thumb img {
+	@include transform ( scale(1.2) rotate(3deg) );
+}
+.feature-content {
+	padding: 30px 25px 45px;
+	background: #fff;
+	border-radius: 0px 0px 10px 10px;
+	position: relative;
+	@include transition(all 400ms ease-out 0s);
+}
+.feature-box:hover .feature-content {
+	@include box-shadow ( 0 0 16px 10px rgba(0, 0, 0, 0.06) );
+}
+.feature-content:after {
+	border-radius: 15px;
+	position: absolute;
+	background: $bg-primary-color;
+	height: 3px;
+	width: 0;
+	left: 0;
+	bottom: 0;
+	content: "";
+	right: 0;
+	margin: 0 auto;
+	@include transition(all 400ms ease-out 0s);
+	opacity: 0.6;
+	z-index: 0;
+}
+.feature-box:hover .feature-content:after {
+	width: 85%;
+}
+.feature-content .title {
+	margin-bottom: 15px;
+}
+.feature-box .link a {
+	position: absolute;
+	background: $bg-gradient-color;
+	color: #fff;
+	height: 45px;
+	width: 85px;
+	line-height: 45px;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	bottom: -20px;
+	border-radius: 30px;
+	z-index: 1;
+	@include transition(all 400ms ease-out 0s);
+}
+.feature-box .link a:hover {
+	width: 110px;
+}

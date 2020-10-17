@@ -1,0 +1,104 @@
+---
+---
+// jekyll needs the dashes to process the sass file
+
+/*============================================================
+ # Template Name: Fapster - Business Consulting HTML5 Template
+ # Template URI: https://webextheme.com/html/fapster-html/
+ # Description: Business Consulting HTML5 Template
+ # Author: Fapster
+ # Author URI: https://themeforest.net/user/webextheme
+ # Version: 1.0
+/*============================================================
+
+============================================
+------------ [CSS_INDEXING_START] ----------
+============================================
+## [_Google_Fonts]
+## [_Imported_CSS_Plugins]
+## [_Colors]
+## [_Reset_Styles]
+## [_Accordion]
+## [_Faqs]
+## [_Buttons]
+## [_Typography]
+## [_Global]
+## [_Header]
+## [_Footer]
+## [_Form]
+## [_widget]
+## [_Home_Slider]
+## [_Section_Title]
+## [_Title_Lines]
+## [_Page_Title]
+## [_Section_About]
+## [_Section_Service]
+## [_Section_Single_Service]
+## [_Section_Portfolio]
+## [_Section_Project]
+## [_Section_Single_Project]
+## [_Section_Funfact]
+## [_Section_Icon_Box]
+## [_Section_News]
+## [_Section_Team]
+## [_Section_Testimonials]
+## [_Section_Pricing_Tables]
+## [_Section_Case_Study]
+## [_Divider]
+## [_Utility]
+===========================================
+---------- [CSS_INDEXING_END] -------------
+===========================================
+*/
+
+/*========================================*/
+/*----------- [_Google_Fonts] ------------*/
+/*========================================*/
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900|Caladea:400,700');
+/*========================================*/
+/*-------- [_Imported_CSS_Plugins] -------*/
+/*========================================*/
+@import url('/assets/css/bootstrap.min.css');
+@import url('/assets/fonts/webexflaticon/flaticon.css');
+@import url('/assets/fonts/fontawesome/css/all.css');
+@import url('/assets/fonts/webexicon/style.css');
+@import url('/assets/css/owl.carousel.min.css');
+@import url('/assets/css/magnific-popup.css');
+@import url('/assets/css/animate.css');
+@import url('/assets/css/custom-animation.css');
+@import url('/assets/css/meanmenu.min.css');
+
+@import "_variables";
+@import "_mixin";
+@import "_colors";
+@import "_reset";
+@import "_accordion";
+@import "_faqs";
+@import "_buttons";
+@import "_typography";
+@import "_global";
+@import "_header";
+@import "_footer";
+@import "_form";
+@import "_widget";
+@import "_home_slider";
+@import "_section_title";
+@import "_title_lines";
+@import "_page_title";
+@import "sections/_about";
+@import "sections/_service";
+@import "sections/_single_service";
+@import "sections/_project";
+@import "sections/_single_project";
+@import "sections/_funfact";
+@import "sections/_icon_box";
+@import "sections/_news";
+@import "sections/_single_news";
+@import "sections/_team";
+@import "sections/_testimonials";
+@import "sections/_pricing_tables";
+@import "sections/_case_study";
+@import "sections/_Divider";
+@import "_utility";
+
+@import "custom";

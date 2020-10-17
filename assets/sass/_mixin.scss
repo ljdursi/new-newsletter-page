@@ -1,0 +1,79 @@
+@mixin border-radius ($border-radius) {
+	-moz-border-radius: $border-radius;
+	-webkit-border-radius: $border-radius;
+	-ms-border-radius: $border-radius;
+	-o-border-radius: $border-radius;
+	border-radius: $border-radius;
+}
+
+@mixin transition ($transition) {
+	-moz-transition: $transition;
+	-webkit-transition: $transition;
+	-ms-transition: $transition;
+	-o-transition: $transition;
+	transition: $transition;
+}
+
+@mixin transform($transforms) {
+	-moz-transform: $transforms;
+	-o-transform: $transforms;
+	-ms-transform: $transforms;
+	-webkit-transform: $transforms;
+	transform: $transforms;
+}
+
+// translate
+//@include translate($x, $y);
+@mixin translate ($x, $y) {
+	@include transform(translate($x, $y));
+}
+
+// ScaleX
+//@include transform(scaleY($x));
+@mixin scaleX ($x) {
+	@include transform(scaleX($x));
+}
+
+// Scale
+//@include transform(scaleY($value));
+@mixin scale ($value) {
+	@include transform(scale($value));
+}
+
+// ScaleY
+//@include transform(scaleY($y));
+@mixin scaleY ($y) {
+	@include transform(scaleY($y));
+}
+
+// rotate
+//@include rotate($deg); //only rotate
+//@include transform(scale(value) rotate($deg)); //rotate and scale together
+@mixin rotate ($deg) {
+	@include transform(rotate(#{$deg}deg));
+}
+
+@mixin box-shadow ($box-shadow) {
+	-webkit-box-shadow: $box-shadow;
+	-khtml-box-shadow: $box-shadow;
+	-moz-box-shadow: $box-shadow;
+	-ms-box-shadow: $box-shadow;
+	-o-box-shadow: $box-shadow;
+	box-shadow: $box-shadow;
+}
+@mixin animation-delay ($animation-delay) {
+	-webkit-animation-delay: $animation-delay;
+	-khtml-animation-delay: $animation-delay;
+	-moz-animation-delay: $animation-delay;
+	-ms-animation-delay: $animation-delay;
+	-o-animation-delay: $animation-delay;
+	animation-delay: $animation-delay;
+}
+@mixin animation ($animation) {
+	-webkit-animation: $animation;
+	-khtml-animation: $animation;
+	-moz-animation: $animation;
+	-ms-animation: $animation;
+	-o-animation: $animation;
+	animation: $animation;
+}

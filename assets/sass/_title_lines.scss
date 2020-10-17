@@ -1,0 +1,98 @@
+/*========================================*/
+/*------------- [_Title_Lines] -----------*/
+/*========================================*/
+.title-under-line {
+	position: relative;
+}
+.title-under-line:before {
+	content: "";
+	background: $bg-gradient-color;
+	position: absolute;
+	height: 10px;
+	width: 72px;
+	bottom: -35px;
+	left: 0;
+}
+.title-under-line:after {
+	background: #ffffff;
+	position: absolute;
+	content: "";
+	height: 2px;
+	width: 30px;
+	bottom: -31px;
+	left: 0px;
+}
+.line-both-side {
+	position: relative;
+	display: inline-block;
+}
+.line-both-side:before {
+	content: "";
+	position: absolute;
+	height: 2px;
+	width: 45px;
+	top: 12px;
+	right: -55px;
+	background: #fff;
+}
+.line-both-side:after {
+	position: absolute;
+	background: #fff;
+	height: 2px;
+	width: 45px;
+	content: "";
+	left: -55px;
+	top: 12px;
+}
+.line-both-side.gradient-color:before {
+	background: $bg-gradient-color;
+}
+.line-both-side.gradient-color:after {
+	background: $bg-gradient-color;
+}
+.sub-title-side-line {
+	position: relative;
+	padding-left: 60px;
+	display: inline-block;
+}
+.sub-title-side-line:before {
+	position: absolute;
+	background: $bg-gradient-color;
+	height: 2px;
+	width: 50px;
+	content: "";
+	top: 15px;
+	left: 0;
+}
+.line-top-center {
+	position: relative;
+}
+.line-top-center:before {
+	content: "";
+	position: absolute;
+	background: $bg-gradient-color;
+	height: 3px;
+	width: 36px;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	bottom: -15px;
+}
+.side-line {
+	position: relative;
+}
+.side-line:before {
+	position: absolute;
+	content: "";
+	background: $bg-gradient-color;
+	height: 3px;
+	width: 40px;
+	top: 12px;
+	left: -15px;
+	z-index: -1;
+	@include transition(all 500ms ease-out 0s);
+}
+.case-study-item:hover .side-line:before {
+	width: 65px;
+	left: -30px;
+}

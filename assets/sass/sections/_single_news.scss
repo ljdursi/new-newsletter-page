@@ -1,0 +1,133 @@
+/*========================================*/
+/*------------ [_Section_News] -----------*/
+/*========================================*/
+.blog-single-news {
+	.single-news-details {
+		.single-news-content {
+			.entry-meta {
+				font-size: 15px;
+				color: #888;
+				font-weight: 500;
+				margin: 25px 0px 10px 0px;
+				i {
+					font-size: 16px;
+					margin-right: 5px;
+					vertical-align: middle;
+					color: $text-primary-color;
+				}
+				.admin {
+					background: #f6e1eb;
+					padding: 4px 8px 6px 8px;
+					color: $bg-primary-color;
+					border-radius: 3px;
+					font-size: 13px;
+				}
+			}
+			.single-news-tag-social-area {
+				margin: 45px 0 30px;
+				border-top: 1px solid #eee;
+				padding: 30px 0;
+				border-bottom: 1px solid #eeee;
+				.single-news-tags {
+					ul {
+						li {
+							a {
+								padding: 10px 10px;
+								background: #EDF0FA;
+								font-size: 13px;
+								color: #333;
+								border-radius: 5px;
+								margin-right: 5px;
+								&:hover {
+									color: #fff;
+									background-color: $bg-primary-color;
+								}
+							}
+						}
+					}
+				}
+				.single-news-share {
+					.social-icons {
+						li {
+							display: inline-block;
+							a {
+								display: block;
+								color: #0c59db;
+								text-align: center;
+								font-size: 18px;
+								margin-left: 15px;
+								&:hover {
+									color: $bg-primary-color;
+								}
+							}
+						}
+					}
+				}
+			}
+			.comments-area {
+				background: #F4F5F8;
+				padding: 30px 30px;
+				margin-top: 30px;
+				.comment-list {
+					.comment {
+						.children {
+							margin-left: 45px;
+						}
+						.comment-body {
+							padding-top: 30px;
+							display: inline-block;
+							border-bottom: 1px solid #e6e6e6;
+							.comment-author-thumb {
+								margin-top: 5px;
+								margin-right: 28px;
+								img {
+									border-radius: 50%;
+								}
+							}
+							.comment-content {
+								margin-left: 95px;
+								position: relative;
+								overflow: hidden;
+								.comment-author {
+									margin-bottom: 5px;
+									font-size: 18px;
+								}
+								.comment-text {
+									margin-bottom: 35px;
+								}
+								.comment-meta {
+									.comment-metadata {
+										margin-bottom: 10px;
+										span {
+											font-size: 14px;
+											color: #8b8b8b;
+										}
+									}
+								}
+								.reply {
+									position: absolute;
+									top: 10px;
+									right: 0;
+									.comment-reply-link {
+										padding: 8px 24px;
+										font-size: 13px;
+										color: #fff;
+										border-radius: 8px;
+										background: $bg-primary-color;
+										border: 1px solid transparent;
+										@include transition(all 200ms ease-out 0s);
+										&:hover {
+											background: $bg-primary-color2;
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+

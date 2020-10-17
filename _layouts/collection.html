@@ -1,0 +1,83 @@
+---
+layout: default
+---
+{%
+  include hero.html
+
+  title=page.title
+  headline=page.headline
+  links=page.links
+  video=page.video
+  diagonal=page.diagonal
+  release-note=page.release-note
+%}
+
+<section class="collection-section">
+  <div class="container-fluid">
+    {%- assign itemName = page.name | remove: ".md" -%}
+    {%- assign collection = site[itemName] | sort: 'order' -%}
+    {% for item in collection %}
+    {% capture iteration %}{% cycle 'odd', 'even' %}{% endcapture %}
+      <div class="row {% if iteration == 'even' %} bg-light {% endif %}">
+        <div class="container">
+          <div class="row">
+            {%- if iteration == "even" -%}
+            <div class="col-lg-6 align-self-center d-none d-lg-block mt-5 mb-lg-5">
+              {% if item.image %} <img src="{{item.image}}" alt="{{itemName}}" class="img-fluid"> {% endif %}
+            </div>
+            {% endif %}
+            <!-- {%- if iteration == "odd" -%}
+            <div class="col-lg-6 align-self-center d-lg-none mt-5">
+              {% if item.image %} <img src="{{item.image}}" alt="{{itemName}}" class="img-fluid"> {% endif %}
+            </div>
+            {% endif %} -->
+            <div class="col-lg-6 mb-5 mt-5">
+              <div class="markdown-content">
+                {{item.content | markdownify}}
+              </div>
+              <div>
+                {% for link in item.links %}
+                <a class="btn btn-primary" href="{{link.url}}">{{link.title}}</a>
+                {% endfor %}
+              </div>
+            </div>
+            {%- if iteration == "odd" -%}
+            <div class="col-lg-6 align-self-center mt-lg-5 mb-5">
+              {% if item.image %} <img src="{{item.image}}" alt="{{itemName}}" class="img-fluid"> {% endif %}
+            </div>
+            {% endif %}
+            {%- if iteration == "even" -%}
+            <div class="col-lg-6 align-self-center d-lg-none mb-5">
+              {% if item.image %} <img src="{{item.image}}" alt="{{itemName}}" class="img-fluid"> {% endif %}
+            </div>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</section>
+
+{% if page.testimonials %}
+
+<section id="testimonials-section" class="bg-light pt-5">
+  <h2 class="text-center mb-5">What Our Students Say</h2>
+  <div class="container">
+    <div class="row d-flex justify-content-center">
+      {% for testimonial in page.testimonials %}
+      <div class="col-md-8 mb-5" >
+        {%
+          include testimonial-item.html
+
+          image=testimonial.image
+          fullname=testimonial.fullname
+          title=testimonial.title
+          text=testimonial.text
+        %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+{%endif %}

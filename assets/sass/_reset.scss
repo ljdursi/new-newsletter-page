@@ -1,0 +1,32 @@
+/*========================================*/
+/*------------ [_Reset_Styles] -----------*/
+/*========================================*/
+* {
+	margin:0px;
+	padding:0px;
+	border:none;
+	outline:none !important;
+}
+::-moz-selection {
+	background:$bg-primary-color;
+	color:#fff;
+	text-shadow:none
+}
+::-webkit-scrollbar{
+    background-color: #ccc;
+    width: 8px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: $bg-primary-color;
+}
+::selection{
+	background:$bg-primary-color;
+	color:#fff;
+	text-shadow:none
+}
+ul li {
+  display: inline;
+}
+.img-full {
+	width: 100%;
+}

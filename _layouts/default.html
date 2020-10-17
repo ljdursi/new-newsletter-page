@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  {% include head.html %}
+
+  <body>
+    {% include navigation.html %}
+    <main role="main">
+      {{ content }}
+    </main>
+    	<!-- BACK TO TOP SECTION -->
+	<div class="back-to-top bg-gradient-color">
+		<i class="fab fa-angle-up"></i>
+	</div>
+    {% include footer.html %}
+    {% include scripts.html %}
+  </body>
+</html>

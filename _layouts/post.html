@@ -1,0 +1,39 @@
+---
+layout: default
+pagination:
+  enabled: true
+comments: true
+---
+
+{%
+  include hero.html
+  headline=""
+%}
+<div class="container mt-5">
+  <div class="row d-flex justify-content-center mb-5">
+    <div class="col-md-10">
+      <p>{{page.date | date: "%B %d, %Y"}}</p>
+      <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+      <p>
+        {% if page.author %} Posted by {{page.author}} {% endif %}
+        {% if page.comments %} 
+          | <a href="{{ page.url }}#disqus_thread" data-disqus-identifier="{{page.url | absolute_url}}">Comments</a> 
+        {% endif %}
+      </p>
+      <p>{{content}}</p>
+      <div class="mt-5 mb-5">
+        {% if page.previous.url %}
+        <a class="btn btn-secondary" href="{{ page.previous.url }}">
+          <i class="fas fa-long-arrow-alt-left"></i> {{page.previous.title}}</a>
+        {% endif %}
+        {% if page.next.url %}
+        <a class="btn btn-secondary" href="{{ page.next.url }}">
+          {{page.next.title}} <i class="fas fa-long-arrow-alt-right"></i></a>
+        {% endif %}
+        <a class="btn btn-light" href="/blog.html">
+          Back to Blog</a>
+      </div>
+      {% include disquss.html %}
+    </div>
+  </div>
+</div>

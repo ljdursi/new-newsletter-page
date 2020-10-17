@@ -1,0 +1,84 @@
+/*========================================*/
+/*------ [_Section_Single_Service] -------*/
+/*========================================*/
+
+.service-description {
+	margin-left: 30px;
+}
+.service-description .title {
+	margin-bottom: 10px;
+}
+.service-link-list li a {
+	display: block;
+	background: #edf0fa;
+	color: #40436a;
+	padding: 24px 40px;
+	font-size: 16px;
+	font-weight: normal;
+	font-weight: 600;
+	margin-bottom: 10px;
+	@include transition(all 300ms ease-out 0s);
+	position: relative;
+	overflow: hidden;
+	border-radius: 8px;
+}
+.service-link-list li a:after,
+.service-link-list li.active a:after {
+	position: absolute;
+	content: "";
+	height: 100%;
+	background: #2a65c9;
+	left: -7px;
+	width: 22px;
+	top: 0;
+	opacity: 0;
+	@include transition(all 300ms ease-out 0s);
+	@include transform(skewX(6deg));
+}
+.service-link-list li a:hover:after,
+.service-link-list li.active a:after {
+	opacity: 1;
+}
+.service-link-list li.active a {
+	color: #ffffff;
+	padding-left: 50px;
+	background: $bg-gradient-reverse-color;
+}
+.service-link-list li a:hover {
+	background: $bg-gradient-reverse-color;
+	color: #fff;
+	padding-left: 50px;
+}
+.service-link-list li a i {
+	margin-right: 10px;
+	font-size: 13px;
+}
+.service-link-list li.active a i {
+	margin-right: 12px;
+}
+.service-link-list li a:hover i {
+	margin-right: 12px;
+}
+.service-section-title-area {
+	background: $bg-blue-color;
+	padding: 90px 0 240px;
+	margin: 0 110px;
+	margin-top: -180px;
+}
+.service-section-content {
+	margin-top: -180px;
+}
+.service-features-icon {
+	margin-right: 25px;
+}
+.service-features-icon span {
+	background: $bg-gradient-color;
+	padding: 15px;
+	display: inline-block;
+	border-radius: 8px;
+}
+.service-features-icon span:before {
+	font-size: 42px;
+	line-height: 42px;
+	color: #fff;
+}
