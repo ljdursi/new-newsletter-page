@@ -6,7 +6,7 @@ layout: default
 %}
 
 <!-- About Section Start -->
-<section class="about-section anim-object2 anim-top-right pdt-110 pdb-110">
+<section class="about-section anim-object2 anim-top-right pdt-150 pdb-150">
 	<div class="container">
 		<div class="row align-items-center">
 			<div class="col-md-12 col-xl-6">
@@ -16,8 +16,8 @@ layout: default
 				</div>
 			</div>
 			<div class="col-md-12 col-xl-6"><div></div>
-				<h3 class="title-under-line mrb-70">Newsletter <span class="f-weight-400">for research computing decision makers and managers</span></h3>
-				<h5 class="mrb-30 text-primary-color">{{page.about.title}}</h5>
+				<h3 class="title-under-line mrb-70">{{page.about.title.boldText}}&#x20;<span class="f-weight-400">{{page.about.title.regularText}}</span></h3>
+				<h5 class="mrb-30 text-primary-color">{{page.about.subtitle}}</h5>
 				<p class="mrb-40 text-justify">{{page.about.description}}</p>
 				<!-- <div class="signature mrb-30"><img src="assets/images/about/signature.png" alt=""></div> -->
 				<a href="/about" class="cs-btn-one btn-gradient-color">Read More</a>
@@ -38,6 +38,9 @@ layout: default
 
 <!-- Service Section Start -->
 {% include services.html 
+	title=page.services.title
+	description=page.services.description
+	subtitle=page.services.subtitle
 	items=page.services.items 
 %}
 <!-- Service Section End -->

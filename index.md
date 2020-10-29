@@ -5,7 +5,7 @@
 layout: home
 slider:
     -   title: Research Computing Teams <br>Newsletter
-        description: The RCT Newsletter started in Jan 2020, and covers <br>all aspects of managing research computing teams.
+        description: The RCT Newsletter started in Jan 2020, and it covers <br>all aspects of managing research computing teams.
         background: /assets/images/slider/using-mac.jpg
     -   title: A newesletter intended <br> for those
         description: interested in topics about <br> managing or designing R&D computing teams or efforts
@@ -15,10 +15,16 @@ slider:
         background: /assets/images/slider/people-discussing-indoors.jpg
 
 about:
-    title: What is this about
+    title:
+        boldText: Newsletter 
+        regularText: for research computing decision makers and managers  
+    subtitle: What is this about
     description: Research Computing is a tough field that combines the challenges of many disciplines. Like academia, we often work with team members who are trainees, not employees; like nonprofits we are called on to enact real changes with ongoing programmes or products while funded only by budgets dependent on multiple short-term grants. The newsletter is about the genuinely hard day-to-day work of designing, building and managing R&D computing teams, projects, and software.
 
 services:
+    title: Topics
+    subtitle: Newsletter
+    description: Feedback from subscribers will greatly shape the topics we cover. Likely early topics will be about the following&#58;
     items:
         -   icon: meeting
             title: Hiring 
