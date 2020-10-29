@@ -1,3 +1,5 @@
 ---
-- url: "/products.html"
-  text: products
+- url: "/"
+  name: Home
+- url: "/about"
+  name: About
