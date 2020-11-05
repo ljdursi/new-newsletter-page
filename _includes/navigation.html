@@ -1,18 +1,20 @@
-	<!-- header Start -->
-	<header class="header-style-two">
-		<div class="header-wrapper">
-			<div class="header-top-area bg-gradient-color d-none d-lg-block">
-				<div class="container">
-					<div class="row">
-						<div class="col-lg-6 header-top-left-part">
-							<!-- <span class="address"><i class="webexflaticon flaticon-placeholder-1"></i> 121 King Street, Melbourne</span> -->
-							<span class="phone pl-0"><i class="webexflaticon flaticon-send"></i> {{site.email}}</span>
-						</div>
-						<div class="col-lg-6 header-top-right-part text-right">
-							<ul class="social-links">
-								{% include social-links.html %}
-							</ul>
-							<!-- <div class="language">
+<!-- header Start -->
+<header class="header-style-two">
+  <div class="header-wrapper">
+    <div class="header-top-area bg-gradient-color d-none d-lg-block">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6 header-top-left-part">
+            <!-- <span class="address"><i class="webexflaticon flaticon-placeholder-1"></i> 121 King Street, Melbourne</span> -->
+            <span class="phone pl-0"
+              ><i class="webexflaticon flaticon-send"></i> {{site.email}}</span
+            >
+          </div>
+          <div class="col-lg-6 header-top-right-part text-right">
+            <ul class="social-links">
+              {% include social-links.html %}
+            </ul>
+            <!-- <div class="language">
 								<a class="language-btn" href="#"><i class="webexflaticon flaticon-internet"></i> English</a>
 								<ul class="language-dropdown">
 									<li><a href="#">English</a></li>
@@ -22,20 +24,28 @@
 									<li><a href="#">Arabic</a></li>
 								</ul>
 							</div> -->
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="bt_blank_nav"></div>
-			<div class="header-navigation-area two-layers-header header-middlee bt_stick bt_sticky">
-				<div class="container">
-					<div class="row">
-						<div class="col-md-12">
-							<a class="navbar-brand logo f-left" href="index.html">
-								<img id="logo-image" class="img-center" src="assets/images/logo.png" alt=""> <h6 class="ml-3 d-inline">RCT Newsletter</h6>
-							</a>
-							 <div class="mobile-menu-right"></div>
-							<!--<div class="header-searchbox-style-two d-none d-xl-block">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="bt_blank_nav"></div>
+    <div
+      class="header-navigation-area two-layers-header header-middlee bt_stick bt_sticky"
+    >
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <a class="navbar-brand logo f-left" href="index.html">
+              <img
+                id="logo-image"
+                class="img-center"
+                src="/assets/images/logo.png"
+                alt=""
+              />
+              <h6 class="ml-3 d-inline">RCT Newsletter</h6>
+            </a>
+            <div class="mobile-menu-right"></div>
+            <!--<div class="header-searchbox-style-two d-none d-xl-block">
 								<div class="side-panel side-panel-trigger text-right d-none d-lg-block">
 									<span class="bar1"></span>
 									<span class="bar2"></span>
@@ -61,7 +71,7 @@
 								</div>
 								<div class="side-panel-logo mrb-30">
 									<a href="index.html">
-										<img src="assets/images/logo-sidebar-dark.png" alt="" />
+										<img src="/assets/images/logo-sidebar-dark.png" alt="" />
 									</a>
 								</div>
 								<div class="side-info mrb-30">
@@ -93,13 +103,13 @@
 									<li><a href="#"><i class="fab fa-google-plus"></i></a></li>
 								</ul>
 							</div> -->
-							<div class="main-menu f-right">
-								<nav id="mobile-menu-right">
-									<ul>
-										{% for item in site.data.navigation %}
-											<li><a href="{{item.url}}">{{item.name}}</a></li>
-										{% endfor %}
-										<!-- <li class="has-sub">
+            <div class="main-menu f-right">
+              <nav id="mobile-menu-right">
+                <ul>
+                  {% for item in site.data.navigation %}
+                  <li><a href="{{item.url}}">{{item.name}}</a></li>
+                  {% endfor %}
+                  <!-- <li class="has-sub">
 											<a href="#">Home</a>
 											<ul class="sub-menu">
 												<li><a href="index.html">Home Layout 1</a></li>
@@ -162,13 +172,13 @@
 												<li><a href="page-single-news.html">Single News</a></li>
 											</ul>
 										</li> -->
-									</ul>
-								</nav>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</header>
-	<!-- header End -->
+                </ul>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+<!-- header End -->

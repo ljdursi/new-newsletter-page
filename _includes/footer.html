@@ -1,57 +1,84 @@
-	<!-- Footer Area Start -->
-	<footer class="footer">
-		<div class="footer-main-area pdt-130 pdb-100" data-background="assets/images/footer-bg.png">
-			<div class="container">
-				<div class="row">
-					<div class="col-xl-4 col-lg-6 col-md-6">
-						<div class="widget footer-widget">
-							<img src="assets/images/logo_dark.png" height="210" width="210" alt="">
-							<ul class="social-list">
-								{% include social-links.html %}
-							</ul>
-						</div>
-					</div>
-					<div class="col-xl-8 col-lg-6 col-md-6">
-						<div class="widget footer-widget">
-							<h2 class=" text-white mrb-30" id="subscribe">{{site.title}}</h2>
-							<p class="text-light-gray">
-								Receive weekly link roundups with occasional longer posts
-								,short emails with links, and reply to any message directly 
-								to me with thoughts, comments, and feedback
-							</p>
-							<form action="https://buttondown.email/api/emails/embed-subscribe/ljdursi" method="post" target="popupwindow" 
-							onsubmit="window.open('https://newsletter.researchcomputingteams.org', 'popupwindow')" 
-							class="embeddable-buttondown-form">
-								<div class="row align-items-center">
-									<div class="col-xl-8">
-										<input type="text" class="form-control" placeholder="Enter Your Email">
-										
-									</div>
-									<div class="col-xl-4">
-										<button type="submit" class="cs-btn-one btn-gradient-color btn-sm has-icon 
-										mt-4 mt-xl-0 btn-md text-left text-xl-right">
-											<i class="webexflaticon flaticon-send"></i>Subscribe
-										</button>
-									</div>
-								</div>
-							  </form>
-							
-							
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="footer-bottom-area">
-			<div class="container">
-				<div class="row">
-					<div class="col-xl-12">
-						<div class="text-center">
-							<span class="text-light-gray">Copyright © 2020 by <a class="text-primary-color" target="_blank" href="https://themeforest.net/user/webextheme"> WebexTheme</a> | All rights reserved </span>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</footer>
-	<!-- Footer Area End -->
+<!-- Footer Area Start -->
+<footer class="footer">
+  <div
+    class="footer-main-area pdt-130 pdb-100"
+    data-background="/assets/images/footer-bg.png"
+  >
+    <div class="container">
+      <div class="row">
+        <div class="col-xl-4 col-lg-6 col-md-6">
+          <div class="widget footer-widget">
+            <img
+              src="/assets/images/logo_dark.png"
+              height="210"
+              width="210"
+              alt=""
+            />
+            <ul class="social-list">
+              {% include social-links.html %}
+            </ul>
+          </div>
+        </div>
+        <div class="col-xl-8 col-lg-6 col-md-6">
+          <div class="widget footer-widget">
+            <h2 class="text-white mrb-30" id="subscribe">{{site.title}}</h2>
+            <p class="text-light-gray">
+              Receive weekly link roundups with occasional longer posts ,short
+              emails with links, and reply to any message directly to me with
+              thoughts, comments, and feedback
+            </p>
+            <form
+              action="https://buttondown.email/api/emails/embed-subscribe/ljdursi"
+              method="post"
+              target="popupwindow"
+              onsubmit="window.open('https://newsletter.researchcomputingteams.org', 'popupwindow')"
+              class="embeddable-buttondown-form"
+            >
+              <div class="row align-items-center">
+                <div class="col-xl-8">
+                  <input
+                    id="bd-email"
+                    name="email"
+                    type="text"
+                    class="form-control"
+                    placeholder="Enter Your Email"
+                  />
+                </div>
+                <div class="col-xl-4">
+                  <button
+                    type="submit"
+                    class="cs-btn-one btn-gradient-color btn-sm has-icon mt-4 mt-xl-0 btn-md text-left text-xl-right"
+                  >
+                    <i class="webexflaticon flaticon-send"></i>Subscribe
+                  </button>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="footer-bottom-area">
+    <div class="container">
+      <div class="row">
+        <div class="col-xl-12">
+          <div class="text-center">
+            <span class="text-light-gray"
+              >Copyright © 2020 by
+              <a
+                class="text-primary-color"
+                target="_blank"
+                href="https://themeforest.net/user/webextheme"
+              >
+                WebexTheme</a
+              >
+              | All rights reserved
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- Footer Area End -->

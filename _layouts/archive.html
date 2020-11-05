@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+{% include hero.html title=page.title %}
+
+<div class="container my-100">
+  {{content}}
+
+  <div class="sidebar-right mb-5">
+    <div class="news-sidebar-widget">
+      <div class="widget sidebar-widget widget-search mrb-30">
+        <form class="search-form">
+          <label>
+            <input
+              type="search"
+              id="archive-search"
+              class="search-field"
+              placeholder="Search by subject or body..."
+            />
+          </label>
+          <button type="submit" id="search-btn">
+            <i class="fa fa-search"></i>
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>
+  <div id="email-list"></div>
+</div>

@@ -3,3 +3,5 @@
   name: Home
 - url: "/about"
   name: About
+- url: "/archive"
+  name: Archive
