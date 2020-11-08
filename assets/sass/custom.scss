@@ -77,6 +77,7 @@ html {
 .logo-limit-w,
 img:not([draggable]).logo-limit-w {
   max-width: 600px;
+  width: 100%;
 }
 
 .page-title-section {
