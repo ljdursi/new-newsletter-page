@@ -1,16 +1,16 @@
 <!-- FAQ Section Start -->
 <section
   class="request-a-call-back pdt-135 pdb-130"
-  data-background="{{include.background}}"
+  data-background="{{include.props.background}}"
 >
   <div class="container">
     <div class="row">
       <div class="col-lg-5">
         <h5 class="sub-title-side-line text-primary-color mrt-0 mrb-15">
-          {{include.subtitle}}
+          {{include.props.subtitle}}
         </h5>
-        <h2 class="faq-title mrb-30">{{include.title}}</h2>
-        <p class="mrb-40">{{include.description}}</p>
+        <h2 class="faq-title mrb-30">{{include.props..title}}</h2>
+        <p class="mrb-40">{{include.props.description}}</p>
         <a
           href="mailto:{{site.email}}"
           class="cs-btn-one btn-gradient-color mrb-lg-60"
@@ -19,7 +19,7 @@
       </div>
       <div class="col-lg-7">
         <div class="faq-block">
-          {% include accordion.html items=include.items %}
+          {% include accordion.html items=include.props.items %}
         </div>
       </div>
     </div>

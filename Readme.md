@@ -74,19 +74,40 @@ The blocks include accepts the following parameters:
 Like mentioned in the section above, for the description markdown to be used in an include, it needs to be captured like so:
 
 ```markdown
-{% capture desc %} # Lorem ipsum formatted markdown text
+{% capture desc %}
+
+###### Lorem ipsum formatted markdown text
+
 {% endcapture %}
 ```
 
 The same goes for the markdown which will become an array of items using the special separator:
 
 ```markdown
-{% capture blocks %} # Lorem ipsum formatted markdown text
-----{break}---- # Lorem ipsum formatted markdown text
-----{break}---- # Lorem ipsum formatted markdown text
-----{break}---- # Lorem ipsum formatted markdown text
-----{break}---- # Lorem ipsum formatted markdown text
-----{break}---- # Lorem ipsum formatted markdown text
+{% capture blocks %}
+
+###### Lorem ipsum formatted markdown text
+
+----{break}----
+
+###### Lorem ipsum formatted markdown text
+
+----{break}----
+
+###### Lorem ipsum formatted markdown text
+
+----{break}----
+
+###### Lorem ipsum formatted markdown text
+
+----{break}----
+
+###### Lorem ipsum formatted markdown text
+
+----{break}----
+
+###### Lorem ipsum formatted markdown text
+
 {% endcapture %}
 ```
 
@@ -212,6 +233,15 @@ faq:
       answer: TNo. I’ll use it only for sending you my thoughts on R&D computing teams, and when you no longer care to continue hearing those thoughts, unsubscribe at any time, and I’ll remove the unsubscribed member’s information routinely. No one other than me and whatever tool I’m using at the time to send out the newsletter will ever have access to your email address.
     - question: How much tracking is being done in the emails?
       answer: None; I’ve turned off all tracking and analytics for the emails. That means the only way I find out if you’re reading them, liked what you read, and were interested in some parts more than others is when you email me to tell me! So please at any time just hit reply (the email will only go to me) and tell me your opinions about what you’ve read or what you’d like to see more of.
+```
+
+Then you can pass these objects to the includes:
+
+```markdown
+{% include slider.html items=page.slider %}
+{% include features.html props=page.features %}
+{% include services.html props=page.services %}
+{% include faq.html props=page.faq %}
 ```
 
 ### Bootstrap utilities:
