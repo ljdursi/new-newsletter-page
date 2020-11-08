@@ -1,5 +1,9 @@
 Markdown guide: https://www.markdownguide.org/basic-syntax/
 
+### Naviagtion
+
+The list of navbar items can be changed in the \_data/navigation.yml file where url is the route the link will lead to and name is the text displayed on the navbar. To lead to a different webpage just write its absolute url.
+
 ### Use includes with markdown
 
 All includes are located in the \_includes folder. The following ones can be used on any page:
