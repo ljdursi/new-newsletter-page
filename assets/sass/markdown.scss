@@ -1,10 +1,14 @@
-.markdown-body {
-  max-width: 900px;
-}
 .markdown-body .octicon {
   display: inline-block;
   fill: currentColor;
   vertical-align: text-bottom;
+}
+
+.invert-text-color.markdown-body {
+  color: #eee;
+}
+.invert-text-color.markdown-body p > * {
+  color: #eee;
 }
 
 .markdown-body .anchor {
@@ -27,6 +31,14 @@
   color: #1b1f23;
   vertical-align: middle;
   visibility: hidden;
+}
+.invert-text-color.markdown-body h1,
+.invert-text-color.markdown-body h2,
+.invert-text-color.markdown-body h3,
+.invert-text-color.markdown-body h4,
+.invert-text-color.markdown-body h5,
+.invert-text-color.markdown-body h6 {
+  color: #fff;
 }
 
 .markdown-body h1:hover .anchor,
@@ -64,8 +76,7 @@
   -webkit-text-size-adjust: 100%;
   line-height: 1.5;
   color: #24292e;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
-    sans-serif, Apple Color Emoji, Segoe UI Emoji;
+  font-family: $body-font;
   font-size: 16px !important;
   line-height: 1.5;
   word-wrap: break-word;
@@ -196,6 +207,9 @@
   border: 1px solid #d1d5da;
   border-radius: 3px;
   box-shadow: inset 0 -1px 0 #d1d5da;
+}
+.invert-text-color.markdown-body kbd {
+  color: #ddd;
 }
 
 .markdown-body h1,
@@ -519,6 +533,12 @@
   color: #032f62;
 }
 
+.invert-text-color.markdown-body .pl-mi,
+.invert-text-color.markdown-body .pl-mb,
+.invert-text-color.markdown-body .pl-corl {
+  color: #ddd;
+}
+
 .markdown-body .mb-0 {
   margin-bottom: 0 !important;
 }
@@ -610,6 +630,10 @@
   box-shadow: inset 0 -1px 0 #d1d5da;
 }
 
+.invert-text-color.markdown-body kbd {
+  color: #c7c9ca;
+}
+
 .markdown-body:after,
 .markdown-body:before {
   display: table;
@@ -659,6 +683,10 @@
   border-left: 0.25em solid #dfe2e5;
 }
 
+.invert-text-color.markdown-body blockquote {
+  color: #b4b4b4;
+}
+
 .markdown-body blockquote > :first-child {
   margin-top: 0;
 }
@@ -674,9 +702,10 @@
 .markdown-body h5,
 .markdown-body h6 {
   margin-top: 24px;
-  margin-bottom: 16px;
+  margin-bottom: 16px !important;
   font-weight: 600;
   line-height: 1.25;
+  font-family: $heading-font;
 }
 
 .markdown-body h1 {
@@ -707,6 +736,9 @@
 .markdown-body h6 {
   font-size: 0.85em !important;
   color: #6a737d;
+}
+.invert-text-color.markdown-body h6 {
+  color: #dfdfdf;
 }
 
 .markdown-body ol,
@@ -850,6 +882,10 @@
   color: #444d56;
 }
 
+.invert-text-color.markdown-body .commit-tease-sha {
+  color: #eee;
+}
+
 .markdown-body .full-commit .btn-outline:not(:disabled):hover {
   color: #005cc5;
   border-color: #005cc5;
@@ -888,6 +924,10 @@
   color: rgba(27, 31, 35, 0.6);
 }
 
+.invert-text-color.markdown-body .blob-num:hover {
+  color: rgba(224, 224, 224, 0.6);
+}
+
 .markdown-body .blob-num:before {
   content: attr(data-line-number);
 }
@@ -907,6 +947,10 @@
   color: #24292e;
   word-wrap: normal;
   white-space: pre;
+}
+
+.invert-text-color.markdown-body .blob-code-inner {
+  color: #eee;
 }
 
 .markdown-body .pl-token.active,

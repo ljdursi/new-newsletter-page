@@ -55,9 +55,12 @@ html {
 }
 
 .navbar-brand {
-  padding: 20px 0;
+  padding: 23px 0;
 }
 @media only screen and (max-width: 769px) {
+  .page-title-content .title {
+    font-size: 24px;
+  }
 }
 @media only screen and (max-width: 993px) {
   .navbar-brand {
@@ -85,7 +88,72 @@ img:not([draggable]).logo-limit-w {
   margin-bottom: 100px;
 }
 
-.markdown-width {
+.max-w-900 {
   max-width: 900px;
-  margin: 0 auto;
+}
+
+#table-of-contents {
+  position: sticky;
+  top: 0;
+}
+
+.error-inner p {
+  max-width: unset;
+}
+
+.bg-secondary-color2 {
+  background-color: $bg-secondary-color2;
+}
+.bg-dark-color {
+  background-color: #303a4a;
+}
+
+.py-100 {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.py-200 {
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+.block-box.service-box:hover {
+  transform: unset;
+}
+.block-box.service-box {
+  text-align: left;
+  height: 100%;
+  padding: 1.5rem;
+}
+.block-box.service-box:after,
+.block-box.service-box:before {
+  display: none;
+}
+
+.block-box:hover.service-box:hover::before {
+  opacity: 0;
+}
+
+.blue-overlay:before {
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 100%;
+  background: -webkit-linear-gradient(-180deg, rgba(22, 3, 1, 0), #09334f 150%);
+  top: 0px;
+  right: 0px;
+  z-index: 1;
+}
+.blue-overlay {
+  position: relative;
+  z-index: 0;
+}
+.blue-overlay > * {
+  position: relative;
+  z-index: 2;
+}
+
+[data-overlay-dark]::before {
+  background: #081526;
 }

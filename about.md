@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about
-bgColor: #2c5cae
+bgColor: "#2F35A3"
 ---
 
 Research Computing is a tough field that combines the challenges of many disciplines.

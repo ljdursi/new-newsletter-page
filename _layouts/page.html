@@ -2,10 +2,8 @@
 layout: default
 ---
 
-{% include hero.html 
-    title=page.title 
-%}
+{% include hero.html title=page.title bgColor=page.bgColor bgImg=page.bgImg %}
 
-<div class="container my-100">
-    {{content}}
+<div class="{% unless page.customized %}my-100 container{% endunless %}">
+  <div class="markdown-body">{{content}}</div>
 </div>

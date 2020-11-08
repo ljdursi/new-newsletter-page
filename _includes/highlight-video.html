@@ -1,0 +1,46 @@
+<!-- Divider Section Start -->
+
+{% assign subs = include.props.subtitle | split: "| " %}
+
+<section
+  class="pdt-110 pdb-60"
+  style="
+  {% if include.bgImage %}
+    background-image: url('{{include.props.bgImage}}')
+  {% elsif include.bgColor %}
+    background-color: {{include.props.bgColor}}
+  {% else %}
+  background-image: url('/assets/images/bg/6.jpg')
+  {% endif %}
+  "
+  data-overlay-dark="8"
+>
+  <div class="section-content">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-md-12 col-xl-6">
+          <div class="about-image-block-3 mrr-30 mrb-lg-60">
+            <img class="img-full" src="{{include.props.thumbnail}}" alt="" />
+          </div>
+        </div>
+        <div class="col-md-12 col-xl-6">
+          <h5 class="mrb-15 text-white sub-title-side-line">
+            {{include.props.title}}Why Choose Us?
+          </h5>
+          <h2 class="text-white mrb-30">
+            {{subs[0]}}
+            <br /><span class="f-weight-400">{{subs[1]}}</span>
+            {{subs[2]}}
+          </h2>
+          <p class="text-white mrb-60">{{include.props.description}}</p>
+          <div class="video-popup-left mrb-lg-60">
+            <a class="popup-youtube-left" href="{{include.props.video}}"
+              ><i class="fas fa-play"></i
+            ></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- Divider Section End -->

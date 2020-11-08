@@ -2,10 +2,10 @@
 layout: default
 ---
 
-{% include hero.html title=page.title %}
-
+{% include hero.html title=page.title bgColor=page.bgColor bgImg=page.bgImg %}
+{%- comment -%} archive.js fetches content {%- endcomment -%}
 <div class="container my-100">
-  {{content}}
+  <div class="markdown-body">{{content}}</div>
 
   <div class="sidebar-right mb-5">
     <div class="news-sidebar-widget">

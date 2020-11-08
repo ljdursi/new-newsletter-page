@@ -118,32 +118,15 @@ $(function () {
     $("#email-list").html(`
     Loading Emails...
     `);
-    fetch("https://api.buttondown.email/v1/emails", {
-      headers: {
-        "Content-Type": "application/json",
-        Authorization: "Token 7ef5b76f-403a-4c06-a080-271812ca5b6a",
-      },
-    })
+    let url = "https://dursi-consulting-server.herokuapp.com/api/emails";
+    if (filter) url = `${url}?search=${filter}`;
+    fetch(url)
       .then((response) => response.json())
       .then((data) => {
         $("#email-list").html("");
-        data.results
-          .sort((a, b) => new Date(b.publish_date) - new Date(a.publish_date))
-          .filter((email) => {
-            if (filter) {
-              return (
-                String(email.subject)
-                  .toLowerCase()
-                  .includes(String(filter).toLowerCase()) ||
-                String(email.body)
-                  .toLowerCase()
-                  .includes(String(filter).toLowerCase())
-              );
-            } else return true;
-          })
-          .forEach((email) => {
-            appendEmail(email);
-          });
+        data.forEach((email) => {
+          appendEmail(email);
+        });
       });
   }
 

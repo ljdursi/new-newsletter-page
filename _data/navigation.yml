@@ -1,7 +1,15 @@
 ---
 - url: "/"
   name: Home
-- url: "/about"
-  name: About
+- url: "/decision-makers"
+  name: Decision makers
+- url: "/managers"
+  name: Managers
+- url: "/jobs"
+  name: Jobs
+- url: "/resources"
+  name: Resources
 - url: "/archive"
   name: Archive
+- url: "/about"
+  name: About

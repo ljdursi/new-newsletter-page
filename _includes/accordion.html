@@ -1,13 +1,13 @@
 <div class="accordion">
-    {% for item in include.items %}
-    <div class="accordion-item">
-        <div class="accordion-header {% if forloop.first %}active {% endif %}">
-            <h5 class="title">{{item.question}}</h5>
-            <span class="fas fa-arrow-right"></span>
-        </div>
-        <div class="accordion-body">
-            <p>{{item.answer}}</p>
-        </div>
+  {% for item in include.items %}
+  <div class="accordion-item">
+    <div class="accordion-header {% if forloop.first %}active {% endif %}">
+      <h5 class="title">{{item.question}}</h5>
+      <span class="fas fa-arrow-right"></span>
     </div>
-    {% endfor %} 
+    <div class="accordion-body">
+      <p>{{item.answer}}</p>
+    </div>
+  </div>
+  {% endfor %}
 </div>

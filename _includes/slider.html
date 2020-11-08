@@ -1,13 +1,26 @@
-	<!-- Home Slider Start -->
-	<section class="banner-section">
-		<div class="home-carousel owl-theme owl-carousel">
-			{% for item in include.items %}
-                {% include slider-item.html 
-                    background=item.background 
-                    title=item.title 
-                    description=item.description
-                %}
-            {% endfor %} 
-		</div>
-	</section>
-	<!-- Home Slider End -->
+<!-- Home Slider Start -->
+<section class="banner-section">
+  <div class="home-carousel owl-theme owl-carousel">
+    {% for item in include.items %}
+    <div class="slide-item text-center">
+      <div class="image-layer" data-background="{{item.background}}"></div>
+      <div class="auto-container">
+        <div class="row clearfix">
+          <div class="col-xl-12 col-lg-12 col-md-12 content-column">
+            <div class="content-box">
+              <h1>{{item.title}}</h1>
+              <p>{{item.description}}</p>
+              <div class="btn-box">
+                <a href="#subscribe" class="cs-btn-one btn-gradient-color"
+                  >Subscribe</a
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+<!-- Home Slider End -->

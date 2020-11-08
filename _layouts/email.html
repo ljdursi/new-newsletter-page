@@ -2,18 +2,19 @@
 layout: default
 ---
 
+{%- comment -%} emailpost.js fetches content {%- endcomment -%}
 <section class="page-title-section"">
   <div class="container">
     <div class="row">
-      <div class="col-xl-12 text-center">
-        <div class="page-title-content">
-          <h3 class="title text-white" id="email-title"></h3>
+      <div class="col-xl-12">
+        <div class="page-title-content justify-content-start">
+          <h3 class="title text-white" id="email-title">
+          </h3>
           <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
               <li class="breadcrumb-item"><a href="/">Home</a></li>
               <li class="breadcrumb-item"><a href="/archive">Archive</a></li>
               <li id="breadcrumb-email" class="breadcrumb-item active" aria-current="page">
-                
               </li>
             </ol>
           </nav>
@@ -23,5 +24,5 @@ layout: default
   </div>
 </section>
 
-<div class="container my-100">{{content}}
-<div id="email-content" class="markdown-body"></div></div>
+<div class="container my-100">
+<div id="email-content" class="markdown-body max-w-900"></div></div>
