@@ -3,7 +3,7 @@ layout: page
 customized: true
 title: Conference
 bgColor: "#108AD2"
-bgImg: "/assets/images/pages/decisionmakers.png"
+bgImg: "{{ site.baseurl }}/assets/images/pages/decisionmakers.png"
 highlight-video:
   bgColor: "#3e3e3e"
   bgImg: ""
@@ -13,7 +13,7 @@ highlight-video:
     "Distinctively exploit optimal alignments for intuitive. Quickly 
     coordinate business applications through revolutionary cataly 
     technologies rather than development optimal alignments for intuitive."
-  thumbnail: "/assets/images/speech.jpg"
+  thumbnail: "{{ site.baseurl }}/assets/images/speech.jpg"
   video: "https://player.vimeo.com/video/464624326"
 ---
 

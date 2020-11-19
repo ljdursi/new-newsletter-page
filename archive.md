@@ -3,5 +3,5 @@ layout: archive
 permalink: /archive
 title: Archive
 bgColor: "#274CB0"
-bgImg: "/assets/images/pages/archive.png"
+bgImg: "{{ site.baseurl }}/assets/images/pages/archive.png"
 ---
