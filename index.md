@@ -1,4 +1,5 @@
 ---
+---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
@@ -6,13 +7,13 @@ layout: home
 slider:
   - title: Research Computing Teams <br>Newsletter
     description: The RCT Newsletter started in Jan 2020, and it covers <br>all aspects of managing research computing teams.
-    background: /assets/images/slider/using-mac.jpg
+    background: {{ site.baseurl }}/assets/images/slider/using-mac.jpg
   - title: A newesletter intended <br> for those
     description: interested in topics about <br> managing or designing R&D computing teams or efforts
-    background: /assets/images/slider/group-at-desk.jpg
+    background: {{ site.baseurl }}/assets/images/slider/group-at-desk.jpg
   - title: Get your questions <br> answered
     description: Follow up on the newsletter topics and <br> ask me directly what you would like to know
-    background: /assets/images/slider/people-discussing-indoors.jpg
+    background: {{ site.baseurl }}/assets/images/slider/people-discussing-indoors.jpg
 
 about:
   title:
@@ -62,7 +63,7 @@ features:
       description: Occasional (no more than weekly) short emails with links
     - title: Direct messaging
       description: Reply to any message (it’ll go directly to me and only to me) with thoughts, comments, and feedback
-  background: /assets/images/slider/person-typing.jpg
+  background: {{ site.baseurl }}/assets/images/slider/person-typing.jpg
 
 faq:
   background: img/bg/6.jpg
