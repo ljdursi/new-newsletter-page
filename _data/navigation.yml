@@ -1,15 +1,15 @@
 ---
-- url: "/"
+- url: "{{ site.baseurl }}/"
   name: Home
-- url: "/decision-makers"
+- url: "{{ site.baseurl }}/decision-makers"
   name: Decision makers
-- url: "/managers"
+- url: "{{ site.baseurl }}/managers"
   name: Managers
-- url: "/jobs"
+- url: "{{ site.baseurl }}/jobs"
   name: Jobs
-- url: "/resources"
+- url: "{{ site.baseurl }}/resources"
   name: Resources
-- url: "/archive"
+- url: "{{ site.baseurl }}/archive"
   name: Archive
-- url: "/about"
+- url: "{{ site.baseurl }}/about"
   name: About
