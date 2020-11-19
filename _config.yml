@@ -23,7 +23,7 @@ email: jonathan@researchcomputingteams.org
 description: >- # this means to ignore newlines until "baseurl:"
   Newsletter about the genuinely hard day-to-day work of designing, 
   building and managing R&D computing teams, projects, and software.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/new-newsletter-page" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
