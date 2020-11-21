@@ -20,7 +20,7 @@
       <div class="row align-items-center">
         <div class="col-md-12 col-xl-6">
           <div class="about-image-block-3 mrr-30 mrb-lg-60">
-              <img class="img-full" src="{{ site.baseurl }}{{include.props.thumbnail}}" alt="" />
+            <img class="img-full" src="{{include.props.thumbnail}}" alt="" />
           </div>
         </div>
         <div class="col-md-12 col-xl-6">
