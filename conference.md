@@ -3,7 +3,7 @@ layout: page
 customized: true
 title: Conference
 bgColor: "#108AD2"
-bgImg: "{{ site.baseurl }}/assets/images/pages/decisionmakers.png"
+bgImg: "/assets/images/pages/decisionmakers.png"
 highlight-video:
   bgColor: "#3e3e3e"
   bgImg: ""
