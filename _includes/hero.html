@@ -3,7 +3,7 @@
   class="page-title-section {% if include.bgImg %} blue-overlay {% endif %}"
   style="background-color: {{include.bgColor}};
   {% if include.bgImg %}
-    background-image: url('{{include.bgImg}}');
+    background-image: url('{{ site.baseurl }}{{include.bgImg}}');
     background-position: bottom;
     background-size: cover;
 

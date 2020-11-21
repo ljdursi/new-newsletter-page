@@ -3,7 +3,7 @@ layout: page
 customized: true
 title: Managers
 bgColor: "#1873C5"
-bgImg: "{{ site.baseurl }}/assets/images/pages/managers.png"
+bgImg: "/assets/images/pages/managers.png"
 ---
 
 {% capture content1 %}

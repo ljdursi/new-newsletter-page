@@ -65,7 +65,7 @@ features:
   background: "{{ site.baseurl }}/assets/images/slider/person-typing.jpg"
 
 faq:
-  background: img/bg/6.jpg
+  background: assets/images/bg/6.jpg
   subtitle: Frequently Asked Questions
   title: Have Any Questions?
   description: Distinctively exploit revolutionary catalysts for chang the Seamlessly optimal rather than just in web & apps development optimal alignments for intuitive.

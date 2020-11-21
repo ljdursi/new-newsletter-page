@@ -13,7 +13,7 @@ highlight-video:
     "Distinctively exploit optimal alignments for intuitive. Quickly 
     coordinate business applications through revolutionary cataly 
     technologies rather than development optimal alignments for intuitive."
-  thumbnail: "{{ site.baseurl }}/assets/images/speech.jpg"
+  thumbnail: "/assets/images/speech.jpg"
   video: "https://player.vimeo.com/video/464624326"
 ---
 

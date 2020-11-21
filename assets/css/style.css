@@ -529,15 +529,15 @@ section.anim-object {
 }
 
 .slide-bg-1 {
-  background-image: url(../images/bg/bg1.jpg);
+  background-image: url(../images/bg/abs-bg1.png);
 }
 
 .slide-bg-2 {
-  background-image: url(../images/bg/bg2.jpg);
+  background-image: url(../images/bg/abs-bg2.png);
 }
 
 .slide-bg-3 {
-  background-image: url(../images/bg/bg3.jpg);
+  background-image: url(../images/bg/abs-bg3.png);
 }
 
 .homepage-slides .owl-nav button.owl-prev,
@@ -4032,7 +4032,7 @@ select {
 
 .service-box:after {
   position: absolute;
-  background: url(../images/bg/1.jpg);
+  background: url(../images/bg/abs-bg1.png);
   height: 100%;
   width: 100%;
   left: 0;

@@ -1,3 +1,5 @@
+---
+---
 <!-- header Start -->
 <header class="header-style-two">
   <div class="header-wrapper">
@@ -35,7 +37,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <a class="navbar-brand logo f-left" href="index.html">
+              <a class="navbar-brand logo f-left" href="{{ site.baseurl }}/index.html">
               <img
                 id="logo-image"
                 class="img-center"
@@ -107,7 +109,7 @@
               <nav id="mobile-menu-right">
                 <ul>
                   {% for item in site.data.navigation %}
-                  <li><a href="{{item.url}}">{{item.name}}</a></li>
+                  <li><a href="{{ site.baseurl }}{{item.url}}">{{item.name}}</a></li>
                   {% endfor %}
                   <!-- <li class="has-sub">
 											<a href="#">Home</a>
