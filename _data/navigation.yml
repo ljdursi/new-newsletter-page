@@ -1,15 +1,21 @@
 ---
-- url: "/"
-  name: Home
-- url: "/decision-makers"
-  name: Decision makers
-- url: "/managers"
-  name: Managers
+- name: How this helps
+  url: /how-this-helps
+  sublinks:
+  - url: "/decision-makers"
+    name: Decision makers
+  - url: "/managers"
+    name: Managers
 - url: "/jobs"
   name: Jobs
 - url: "/resources"
   name: Resources
 - url: "/archive"
-  name: Archive
+  name: Newsletter Archive
+  sublinks:
+    - fullurl: https://newsletter.researchcomputingteams.org/archive
+      name: All issues
+    - url: /archive
+      name: Search the archives
 - url: "/about"
   name: About

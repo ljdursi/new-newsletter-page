@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<script src="https://files.stork-search.net/stork.js"></script>
 
 {% include hero.html title=page.title bgColor=page.bgColor bgImg=page.bgImg %}
 {%- comment -%} archive.js fetches content {%- endcomment -%}
@@ -12,19 +13,15 @@ layout: default
       <div class="widget sidebar-widget widget-search mrb-30">
         <form class="search-form">
           <label>
-            <input
-              type="search"
-              id="archive-search"
-              class="search-field"
-              placeholder="Search by subject or body..."
-            />
+            <input data-stork="newsletter" />
           </label>
-          <button type="submit" id="search-btn">
-            <i class="fa fa-search"></i>
-          </button>
         </form>
       </div>
     </div>
+    <div data-stork="newsletter-output"></div>
   </div>
-  <div id="email-list"></div>
 </div>
+
+<script>
+  stork.register("newsletter", "{{ site.baseurl }}/assets/index/index.st");
+</script>

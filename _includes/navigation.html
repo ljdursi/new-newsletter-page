@@ -1,5 +1,3 @@
----
----
 <!-- header Start -->
 <header class="header-style-two">
   <div class="header-wrapper">
@@ -108,40 +106,26 @@
             <div class="main-menu f-right">
               <nav id="mobile-menu-right">
                 <ul>
-                  {% for item in site.data.navigation %}
-                  <li><a href="{{ site.baseurl }}{{item.url}}">{{item.name}}</a></li>
-                  {% endfor %}
+                	{% for item in site.data.navigation %}
+				  		{% if item.sublinks %}
+							<li class="has-sub"><a href="{{ site.baseurl }}{{item.url}}">{{item.name}}</a>
+								<ul class="sub-menu">
+								{% for sublink in item.sublinks %}
+									<li>
+									{% if sublink.fullurl %}
+										<a href="{{ sublink.fullurl }}">{{ sublink.name }}</a>
+									{% else %}
+										<a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.name }}</a>
+									{% endif %}
+									</li>
+								{% endfor %}
+								</ul>
+							</li>
+							{% else %}
+							<li><a href="{{ site.baseurl }}{{item.url}}">{{item.name}}</a></li>
+						{% endif %}
+				    {% endfor %}
                   <!-- <li class="has-sub">
-											<a href="#">Home</a>
-											<ul class="sub-menu">
-												<li><a href="index.html">Home Layout 1</a></li>
-												<li><a href="index2.html">Home Layout 2</a></li>
-												<li><a href="index3.html">Home Layout 3</a></li>
-												<li><a href="index4.html">Home Layout 4</a></li>
-												<li><a href="index-onepage.html">Home One Page</a></li>
-												<li class="has-sub-child">
-													<a href="#">Header Styles</a>
-													<ul class="sub-menu">
-														<li><a href="page-header-style-one.html">Header Style One</a></li>
-														<li><a href="page-header-style-two.html">Header Style Two</a></li>
-													</ul>
-												</li>
-											</ul>
-										</li>
-										<li><a href="page-about.html">About</a></li>
-										<li class="has-sub">
-											<a href="#">Page</a>
-											<ul class="sub-menu">
-												<li class="has-sub-child">
-													<a href="#">Our Team</a>
-													<ul class="sub-menu right-view">
-														<li><a href="page-our-team.html">All Members</a></li>
-														<li><a href="page-single-team.html">Team Details</a></li>
-													</ul>
-												</li>
-												<li><a href="page-pricing.html">Pricing</a></li>
-												<li><a href="page-testimonials.html">Testimonials</a></li>
-												<li><a href="page-contact-us.html">Contact Us</a></li>
 												<li><a href="page-faqs.html">FAQs</a></li>
 												<li><a href="404.html">Eror Page</a></li>
 											</ul>
