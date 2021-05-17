@@ -34,23 +34,23 @@ services:
       title: Managing
       description: One-on-Ones, giving feedback, coaching and training, distributed teams.
     - icon: meeting-1
-      title: Managing upwards
+      title: Managing upwards, outwards
       description: Building and sustaining support for projects, shepharding multi-institution collaborations, communications.
     - icon: target-1
       title: Career paths
       description: for our team members and ourselves.
     - icon: degree
-      title: R&D computing and academic credit
-      description: We always provide people a complete solution focused of any business.
+      title: Computing, data, and academic credit
+      description: Supporting research communities and crediting your team members efforts.
     - icon: efficiency
       title: Automation and reproducibility
-      description: We always provide people a complete solution focused of any business.
+      description: Reducing toil and writing machine-readable documentation.
     - icon: graphic
       title: Lifecycle of development
-      description: R&D Software planning and development throughout the lifecycle.
+      description: R&D software and systems planning and development throughout the lifecycle.
     - icon: benchmark
       title: Grants and Sustainability
-      description: We always provide people a complete solution focused of any business.
+      description: How to sustain the research computing and data products you're building.
 
 features:
   title: The newsletter format
