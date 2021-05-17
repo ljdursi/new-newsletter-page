@@ -6,11 +6,9 @@ toc: true
 bgColor: "#2356B6"
 ---
 
-My suggestion would be to start with one-on-ones. Here is a quickstart guide ([PDF]({{ site.baseurl }}/assets/pdfs/howto-one-on-ones.pdf),
+My suggestion would be to start with one-on-ones. Here is my quickstart guide ([PDF]({{ site.baseurl }}/assets/pdfs/howto-one-on-ones.pdf),
 [epub]({{ site.baseurl }}/assets/pdfs/howto-one-on-ones.epub)) to getting starting with one-on-ones.  It lists out daily steps and resources
 to get one-on-ones up and running over the course of a month.
-
-Other resources presesnted in the talk are below -
 
 # One-on-Ones
 
@@ -19,6 +17,9 @@ Other resources presesnted in the talk are below -
 - re:Work @ Google [one-on-one guide](https://rework.withgoogle.com/guides/managers-coach-managers-to-coach/steps/hold-effective-1-1-meetings/)
 - [An online list](https://github.com/ajahne/one-on-ones) of good one-on-one resources.
 - [Huge list of potential questions](https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list)
+- My quickstart to starting one-on-ones ([PDF]({{ site.baseurl }}/assets/pdfs/howto-one-on-ones.pdf),
+[epub]({{ site.baseurl }}/assets/pdfs/howto-one-on-ones.epub)) 
+- My one-on-one meeting template: [letter](https://docs.google.com/document/d/1uNC2UakkIqiZL22B1J6E2YroSVyQ8rzuiUPQ40dOeU8/edit), [A4](https://docs.google.com/document/d/1z_K_LvnMd5kfLqqqCxkZrOuFe3bitsvOgeKX2epraAU/edit)
 
 # Specific feedback
 

@@ -1,11 +1,6 @@
 ---
-- name: How this helps
-  url: /how-this-helps
-  sublinks:
-  - url: "/decision-makers"
-    name: Decision makers
-  - url: "/managers"
-    name: Managers
+- name: How RCT Can Help
+  url: /managers
 - url: "/jobs"
   name: Jobs
 - url: "/resources"

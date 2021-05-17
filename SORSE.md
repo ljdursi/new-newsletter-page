@@ -26,7 +26,7 @@ Other resources presesnted in the talk are below -
 - re:Work @ Google [one-on-one guide](https://rework.withgoogle.com/guides/managers-coach-managers-to-coach/steps/hold-effective-1-1-meetings/)
 - [An online list](https://github.com/ajahne/one-on-ones) of good one-on-one resources.
 - [Huge list of potential questions](https://www.peoplebox.ai/t/one-on-one-meeting-template-manager-questions-list)
-- My [quickstart guide for remote one-on-ones](https://www.dursi.ca/assets/quickstart-one-on-ones/quickstart-one-on-one.pdf) early in the pandemic
+- My one-on-one meeting template: [letter](https://docs.google.com/document/d/1uNC2UakkIqiZL22B1J6E2YroSVyQ8rzuiUPQ40dOeU8/edit), [A4](https://docs.google.com/document/d/1z_K_LvnMd5kfLqqqCxkZrOuFe3bitsvOgeKX2epraAU/edit)
 
 ### Specific feedback
 
