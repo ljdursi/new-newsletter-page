@@ -24,8 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Newsletter about the genuinely hard day-to-day work of designing, 
   building and managing R&D computing teams, projects, and software.
 
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://new-newsletter-page.pages.dev" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://new-newsletter-page.pages.dev/" # the subpath of your site, e.g. /blog
 
 # Build settings
 plugins:

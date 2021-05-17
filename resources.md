@@ -6,10 +6,6 @@ toc: true
 bgColor: "#2356B6"
 ---
 
-My suggestion would be to start with one-on-ones. Here is my quickstart guide ([PDF]({{ site.baseurl }}/assets/pdfs/howto-one-on-ones.pdf),
-[epub]({{ site.baseurl }}/assets/pdfs/howto-one-on-ones.epub)) to getting starting with one-on-ones.  It lists out daily steps and resources
-to get one-on-ones up and running over the course of a month.
-
 # One-on-Ones
 
 - [Manager-Tools basics podcasts](https://manager-tools.com/manager-tools-basics)

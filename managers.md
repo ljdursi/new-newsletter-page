@@ -21,15 +21,17 @@ and helping them deliver for researchers doesn't have to be stressful or mysteri
 
 
 {% capture blocks-description %}
-Foo Bar baz
+Research Computing Teams aims to help people thinking of getting into management, managers, directors, and VPRs by providing current news and approaches, curated resources, and one-on-one help, support, and
+facilitation for research computing and data teams.
+
 {% endcapture %}
 
 ### The Newsletter
 
 Get the latest from Jonathan, and a weekly roundup of news relevant to research computing
 and data managers or those thinking of managing --- latest in management techniques, 
-research computing and data technology, and product management and research community engagement
-approaches.
+research computing and data technology, product management, research community engagement, 
+and funding approaches.
 
 ----{break}----
 

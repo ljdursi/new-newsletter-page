@@ -71,11 +71,9 @@ faq:
   description: Distinctively exploit revolutionary catalysts for chang the Seamlessly optimal rather than just in web & apps development optimal alignments for intuitive.
   items:
     - question: So you are an expert on this stuff, right?
-      answer: Absolutely not. I do have a lot of experience in this area from a lot of different perspectives, but more importantly I continue trying to learn and improve, and anyone interested is welcome to join as I write my way through that process..
-    - question: Will the posts be archived anywhere?
-      answer: That wasn’t originally the intention, but people seem to prefer it; the archives can currently be found here.
+      answer: Nobody is, but we can all get better. I do have a lot of experience in this area from a lot of different perspectives and in a lot of different disciplines, and have seen research computing teams succeed and struggle.
     - question: Will my email address get sold/used for anything else?
-      answer: TNo. I’ll use it only for sending you my thoughts on R&D computing teams, and when you no longer care to continue hearing those thoughts, unsubscribe at any time, and I’ll remove the unsubscribed member’s information routinely. No one other than me and whatever tool I’m using at the time to send out the newsletter will ever have access to your email address.
-    - question: How much tracking is being done in the emails?
-      answer: None; I’ve turned off all tracking and analytics for the emails. That means the only way I find out if you’re reading them, liked what you read, and were interested in some parts more than others is when you email me to tell me! So please at any time just hit reply (the email will only go to me) and tell me your opinions about what you’ve read or what you’d like to see more of.
+      answer: No. I’ll use it only for sending you my thoughts on R&D computing teams, and when you no longer care to continue hearing those thoughts, unsubscribe at any time, and I’ll remove the unsubscribed member’s information routinely. No one other than me and whatever tool I’m using at the time to send out the newsletter will ever have access to your email address.
+    - question: How much tracking is being done in your emails?
+      answer: None; there is no tracking or analytics for the emails, and only the most rudimentory logging on the website. That means the only way I find out what and if you’re reading, liked what you read, or were interested in some parts more than others is when you email me to tell me! So please at any time just hit reply (the email will only go to me) and tell me your opinions about what you’ve read or what you’d like to see more of.
 ---
