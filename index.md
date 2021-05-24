@@ -25,7 +25,7 @@ services:
   columns: 4
   title: Topics
   subtitle: Newsletter
-  description: Feedback from subscribers will greatly shape the topics we cover. Likely early topics will be about the following&#58;
+  description: Feedback from subscribers greatly shapes the topics we cover.  Subscribe to learn more about...
   items:
     - icon: meeting
       title: Hiring
@@ -54,7 +54,7 @@ services:
 
 features:
   title: The newsletter format
-  description: A personal, and easy to follow approach
+  description: Specific, relevant, doable guidance
   items:
     - title: Roundups
       description: Weekly summaries of previously covered topics with occasional longer posts.
