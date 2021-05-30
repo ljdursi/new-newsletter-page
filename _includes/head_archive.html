@@ -1,0 +1,60 @@
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta property="og:site_name" content="{{ site.title }}" />
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  <meta
+    name="description"
+    content="
+  {% if page.headline %} {{page.headline}} 
+  {% else %}{{ site.description }} 
+  {% endif %}"
+  />
+  {% if page.hero-img %}
+  <meta name="og:image" content="{{page.hero-img}}" />
+  {%endif%}
+  <meta name="robots" content="index,follow" />
+
+  {% if page.title and page.layout== 'post' %}
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:description" content="{{ page.excerpt | strip_html }}" />
+  {% else %}
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:type" content="website" />
+  <meta
+    property="og:description"
+    content="
+  {% if page.headline %} {{page.headline}} 
+  {% else %}{{ site.description }} 
+  {% endif %}"
+  />
+  {% endif %} {% if page.date %}
+  <meta
+    property="article:published_time"
+    content="{{ page.date | date_to_xmlschema }}"
+  />
+  <meta property="article:author" content="{{ site.url }}/about/" />
+  {% endif %} {% if page.tags %}
+  <meta itemprop="keywords" content="{{ page.tags | join: ',' }}" />
+  {% for tag in page.tags %}
+  <meta property="article:tag" content="{{ tag }}" />
+  {% endfor %} {% endif %} {% if page.author %}
+  <meta property="article:author" content="{{ author }}" />
+  {% endif %} {% if page.name == 'index.md' %}
+  <title>{{site.title}}</title>
+  {% else %}
+  <title>{{page.title}}</title>
+  {% endif %}
+
+  <link
+    rel="shortcut icon"
+    type="image/png"
+    href="{{ site.baseurl }}/assets/images/favicon.ico"
+  />
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/sass/style.css" />
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/responsive.css" />
+  <link rel="stylesheet" href="https://files.stork-search.net/basic.css" />
+</head>
