@@ -38,7 +38,7 @@ and funding approaches.
 ### Resources
 
 I'm starting to put together specific resources distilled from advice in the newsletter.  
-The first is my quickstart guide ([PDF](http://127.0.0.1:4000/pdfs/howto-one-on-ones.pdf), [epub](http://127.0.0.1:4000/pdfs/howto-one-on-ones.epub)) to getting starting with one-on-ones, listing out daily steps and resources to get one-on-ones up and running over the course of a month.  More are coming!
+The first is my quickstart guide ([PDF](/assets/pdfs/howto-one-on-ones.pdf), [epub](/assets/pdfs/howto-one-on-ones.epub)) to getting starting with one-on-ones, listing out daily steps and resources to get one-on-ones up and running over the course of a month.  More are coming!
 
 ----{break}----
 
