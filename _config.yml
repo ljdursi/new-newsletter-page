@@ -12,6 +12,7 @@ url: "https://new-newsletter-page.pages.dev/"
 plugins:
   - jekyll-feed
   - jekyll-toc
+  - jekyll-sitemap
 
 sass:
   sass_dir: /assets/sass
