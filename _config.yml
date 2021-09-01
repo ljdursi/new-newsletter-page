@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   building and managing R&D computing teams, projects, and software.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://new-newsletter-page.pages.dev/" 
+url: "https://www.researchcomputingteams.org/"
 
 # Build settings
 plugins:
