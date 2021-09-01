@@ -33,6 +33,11 @@ toc:
   item_class: "anchor"
   item_prefix: ""
 
+collections:
+  newsletter_issues:
+    output: true
+    sort_by: date
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

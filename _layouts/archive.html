@@ -5,7 +5,6 @@ title: Archive Search
 <script src="https://files.stork-search.net/stork.js"></script>
 
 {% include hero.html title=page.title bgColor=page.bgColor bgImg=page.bgImg %}
-{%- comment -%} archive.js fetches content {%- endcomment -%}
 <div class="container my-100">
   <div class="markdown-body">{{content}}</div>
 
@@ -22,6 +21,13 @@ title: Archive Search
     </div>
     <div data-stork="newsletter-output"></div>
   </div>
+
+  <ol class="archive-issue">
+  {% for post in site.newsletter_issues reversed %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a>{% if post.subtitle %} - {{ post.subtitle }}{% endif %}</li>
+  {% endfor %}
+  </ol>
+
 </div>
 
 <script>

@@ -758,6 +758,10 @@
   word-wrap: break-all;
 }
 
+.archive-issue li {
+  margin-bottom: 10px
+}
+
 .markdown-body li > p {
   margin-top: 16px;
 }
@@ -810,6 +814,13 @@
 
 .markdown-body img {
   max-width: 100%;
+  box-sizing: initial;
+  background-color: #fff;
+}
+
+#email-content img {
+  max-width: 100%;
+  max-height: 1024px;
   box-sizing: initial;
   background-color: #fff;
 }
