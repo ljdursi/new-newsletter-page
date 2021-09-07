@@ -1,0 +1,540 @@
+[output]
+filename = "index.st"
+
+[input]
+base_directory = "data"
+url_prefix = "https://newsletter.researchcomputingteams.org/archive/"
+[[input.files]]
+path = "emails/rd-computing-teams-link-roundup-10-jan-2020.md"
+url = "2c3de934-37a5-427b-8973-9365ea0ede2e"
+filetype = "Markdown"
+title = "#1: 2020-01-10"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-17-jan-2020.md"
+url = "932658a6-130f-4a15-8e56-f47174233a45"
+filetype = "Markdown"
+title = "#2: 2020-01-17"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-24-jan-2020.md"
+url = "01f495bc-c216-42e0-8b52-83cd55e489fb"
+filetype = "Markdown"
+title = "#3: 2020-01-24"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-31-jan-2020.md"
+url = "38e32b75-d9f2-4bdd-b9d9-6c08b5096a07"
+filetype = "Markdown"
+title = "#4: 2020-01-31"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-feb-7-2020.md"
+url = "ee5d3b4b-3eb0-4884-97bf-93ab2287446c"
+filetype = "Markdown"
+title = "#5: 2020-02-07"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-14-feb-2020.md"
+url = "623332d9-5a4a-4fab-9139-b2a130ae1f30"
+filetype = "Markdown"
+title = "#6: 2020-02-14"
+
+[[input.files]]
+path = "emails/why-research-computing-management-part-1.md"
+url = "96de1811-1f97-412d-8ed5-1632f8c64a18"
+filetype = "Markdown"
+title = "#7: 2020-02-17"
+
+[[input.files]]
+path = "emails/why-research-computing-management-part-2-pushing.md"
+url = "75e0c5b6-97e3-4e16-8c5c-325e478b29d8"
+filetype = "Markdown"
+title = "#8: 2020-02-18"
+
+[[input.files]]
+path = "emails/why-research-computing-management-part-3-managing.md"
+url = "4b74d81b-e78e-4885-b379-967b1bc5c6c8"
+filetype = "Markdown"
+title = "#9: 2020-02-19"
+
+[[input.files]]
+path = "emails/why-research-computing-management-part-4-staying.md"
+url = "c9cd4d94-125d-4981-b78b-2d190696cc3c"
+filetype = "Markdown"
+title = "#10: 2020-02-20"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-21-feb-2020.md"
+url = "39358d76-8194-4a3f-9d3e-d5013a4a1857"
+filetype = "Markdown"
+title = "#11: 2020-02-21"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-28-feb-2020.md"
+url = "a4fcc0cd-9755-481c-87ac-7f0c541415c4"
+filetype = "Markdown"
+title = "#12: 2020-02-28"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-6-mar-2020.md"
+url = "c2837919-4d09-42d4-bed7-f569120c7d07"
+filetype = "Markdown"
+title = "#13: 2020-03-06"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-13-mar-2020.md"
+url = "6d7c0ac1-b600-45fb-83c0-4cd2e9797256"
+filetype = "Markdown"
+title = "#14: 2020-03-17"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-20-mar-2020.md"
+url = "81fb6198-2321-45c5-996c-78d2771c8045"
+filetype = "Markdown"
+title = "#15: 2020-03-20"
+
+[[input.files]]
+path = "emails/how-to-quickly-start-one-on-ones-with-your.md"
+url = "02b8e010-a0bb-4c4c-b84c-8d62b82829e9"
+filetype = "Markdown"
+title = "#16: 2020-03-25"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-27-mar-2020.md"
+url = "8ff1e894-361d-480c-84fe-4128c8b6670f"
+filetype = "Markdown"
+title = "#17: 2020-03-29"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-3-apr-2020.md"
+url = "3542c77d-6af4-4844-8f48-8add1b2aafc6"
+filetype = "Markdown"
+title = "#18: 2020-04-03"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-10-apr-2020.md"
+url = "38e69712-3388-415b-82fe-bc17475516b4"
+filetype = "Markdown"
+title = "#19: 2020-04-10"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-17-apr-2020.md"
+url = "2bc17da3-db5f-4baf-bbf6-d954bded1b47"
+filetype = "Markdown"
+title = "#20: 2020-04-17"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-24-apr-2020.md"
+url = "1c460152-6fb0-427d-800b-30e3272b0c88"
+filetype = "Markdown"
+title = "#21: 2020-04-25"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-1-may-2020.md"
+url = "5925b013-7f06-44d4-91a5-8de9abe09a83"
+filetype = "Markdown"
+title = "#22: 2020-05-01"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-8-may-2020.md"
+url = "88b46155-ca53-4746-a7ed-fe3afce1d2d6"
+filetype = "Markdown"
+title = "#23: 2020-05-08"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-15-may-2020.md"
+url = "9dc85784-5225-4f25-a61b-765345960196"
+filetype = "Markdown"
+title = "#24: 2020-05-15"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-22-may-2020.md"
+url = "91b579f5-aa4d-4d26-8f8a-33c131cf69ce"
+filetype = "Markdown"
+title = "#25: 2020-05-22"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-29-may-2020.md"
+url = "fa3b18ec-2653-41a9-8298-e706c0ebaf9a"
+filetype = "Markdown"
+title = "#26: 2020-05-29"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-5-june-2020.md"
+url = "ed9c986b-6007-426d-a8c7-9f49b3b0d107"
+filetype = "Markdown"
+title = "#27: 2020-06-05"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-12-june-2020.md"
+url = "5b7ee8e3-ef8f-47a2-bde8-eb3559f3a743"
+filetype = "Markdown"
+title = "#28: 2020-06-13"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-19-june-2020.md"
+url = "ff5623c8-52d3-457d-8bd2-728e5fa79100"
+filetype = "Markdown"
+title = "#29: 2020-06-19"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-26-june-2020.md"
+url = "89eb1c7a-82b8-486c-9b92-7e504de7d97e"
+filetype = "Markdown"
+title = "#30: 2020-06-26"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-3-july-2020.md"
+url = "1bf60ab8-3e72-4127-b416-b256ad5f78cf"
+filetype = "Markdown"
+title = "#31: 2020-07-03"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-10-july-2020.md"
+url = "20b7a7da-837b-44c1-b28b-a5c675d69577"
+filetype = "Markdown"
+title = "#32: 2020-07-10"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-17-july-2020.md"
+url = "e6e2a188-35b2-4d78-9cca-d20d078c7c74"
+filetype = "Markdown"
+title = "#33: 2020-07-17"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-24-july-2020.md"
+url = "444b6bd3-8021-4725-8bc4-bbeb614096b5"
+filetype = "Markdown"
+title = "#34: 2020-07-24"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-31-july-2020.md"
+url = "24afe811-4b32-4464-8439-b665da996624"
+filetype = "Markdown"
+title = "#35: 2020-07-31"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-7-aug-2020.md"
+url = "1eb83f84-cb37-4db2-b4dd-62b70e13abf7"
+filetype = "Markdown"
+title = "#36: 2020-08-07"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-14-aug-2020.md"
+url = "a33145e9-9016-4642-9d01-fb1ac868fa68"
+filetype = "Markdown"
+title = "#37: 2020-08-14"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-21-aug-2020.md"
+url = "7faaa349-97e5-4e21-83e6-c6f3c724925d"
+filetype = "Markdown"
+title = "#38: 2020-08-21"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-28-aug-2020.md"
+url = "26967bc4-8d8e-4f76-b86f-4fd7d94590be"
+filetype = "Markdown"
+title = "#39: 2020-08-28"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-4-september.md"
+url = "5e898823-853d-456a-84fd-cecb49b9bcb8"
+filetype = "Markdown"
+title = "#40: 2020-09-04"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-11.md"
+url = "a7475361-d9db-4868-b0a4-3cd6ea1057df"
+filetype = "Markdown"
+title = "#41: 2020-09-11"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-18-sept-2020.md"
+url = "e596c479-56f7-41a3-a468-b0d73d2176a2"
+filetype = "Markdown"
+title = "#42: 2020-09-19"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-25-sept-2020.md"
+url = "b5566bdc-9e4a-4816-aaf4-1ce91ebbe075"
+filetype = "Markdown"
+title = "#43: 2020-09-25"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-2-oct-2020.md"
+url = "bbd707e8-9569-47f8-b35b-8426a78d2c9d"
+filetype = "Markdown"
+title = "#44: 2020-10-02"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-9-oct-2020.md"
+url = "ae721f31-210e-43e9-9495-8fc64948326e"
+filetype = "Markdown"
+title = "#45: 2020-10-09"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-16-oct-2020.md"
+url = "38a451ac-de06-4256-9e47-7bb911dad5e9"
+filetype = "Markdown"
+title = "#46: 2020-10-16"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-23-oct-2020.md"
+url = "d9674d9b-bf85-4eac-98b7-0209b48ad1d8"
+filetype = "Markdown"
+title = "#47: 2020-10-23"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-30-oct-2020.md"
+url = "fc79b232-244e-4db1-abcf-6b112e8a4a26"
+filetype = "Markdown"
+title = "#48: 2020-10-30"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-6-nov-2020.md"
+url = "4bc6f8d2-8d34-4559-ba31-03c6f1459446"
+filetype = "Markdown"
+title = "#49: 2020-11-06"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-13-nov-2020.md"
+url = "89996c43-fe3d-45b9-8baa-a3db338a836d"
+filetype = "Markdown"
+title = "#50: 2020-11-13"
+
+[[input.files]]
+path = "emails/research-computing-teams-m1-and-link-roundup-22.md"
+url = "5246c80f-2211-470c-94cb-d25496e8d5e8"
+filetype = "Markdown"
+title = "#51: 2020-11-22"
+
+[[input.files]]
+path = "emails/research-computing-teams-focus-communications-and.md"
+url = "403004a7-ce4d-43b9-85e8-9908a97ac198"
+filetype = "Markdown"
+title = "#52: 2020-11-27"
+
+[[input.files]]
+path = "emails/research-computing-teams-research-infrastructure.md"
+url = "b293df8f-4f39-43f4-8b92-afadb95cfb6f"
+filetype = "Markdown"
+title = "#53: 2020-12-04"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-11-dec-2020.md"
+url = "328d3764-efb1-4633-86e3-10ebdc595194"
+filetype = "Markdown"
+title = "#54: 2020-12-11"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-18-dec-2020.md"
+url = "bdde0a0b-f277-4b6e-8c92-de434353fd6b"
+filetype = "Markdown"
+title = "#55: 2020-12-19"
+
+[[input.files]]
+path = "emails/rct-the-stop-doing-something-challenge-part-1.md"
+url = "93f2fe42-5285-4f49-bdd5-a1e28ff06ef8"
+filetype = "Markdown"
+title = "#56: 2021-01-08"
+
+[[input.files]]
+path = "emails/research-computing-teams-stop-doing-things.md"
+url = "fb8b5f7f-650f-46f4-8305-58e6bb06bb7a"
+filetype = "Markdown"
+title = "#57: 2021-01-15"
+
+[[input.files]]
+path = "emails/research-computing-teams-stop-doing-things-change.md"
+url = "410ef54d-ef8a-41e0-bf77-b9c06eb612b0"
+filetype = "Markdown"
+title = "#58: 2021-01-22"
+
+[[input.files]]
+path = "emails/research-computing-teams-hiring-try-to-say-no-and.md"
+url = "ac73eb59-8b9b-4ec1-a032-3514050f26a8"
+filetype = "Markdown"
+title = "#59: 2021-01-29"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-5-feb-2021.md"
+url = "30a4d654-40af-4ae7-a88d-6892f832ee10"
+filetype = "Markdown"
+title = "#60: 2021-02-05"
+
+[[input.files]]
+path = "emails/research-computing-teams-evaluating-hiring.md"
+url = "6db7bd2a-3003-4f2f-b6f4-943a6ef15ea2"
+filetype = "Markdown"
+title = "#61: 2021-02-12"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-19-feb-2021.md"
+url = "df83ff43-b53a-4a8f-b930-5c5a5ec1e2c9"
+filetype = "Markdown"
+title = "#62: 2021-02-19"
+
+[[input.files]]
+path = "emails/research-computing-teams-job-ads-and-link-roundup.md"
+url = "73872671-6e23-4786-9ade-170e4a7b3c2c"
+filetype = "Markdown"
+title = "#63: 2021-02-26"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-5-march-2021.md"
+url = "99f871cc-beda-4569-9396-61889954fc56"
+filetype = "Markdown"
+title = "#64: 2021-03-05"
+
+[[input.files]]
+path = "emails/research-computing-teams-performance.md"
+url = "4f3935c0-5b49-41f0-a467-a0bdf2532452"
+filetype = "Markdown"
+title = "#65: 2021-03-13"
+
+[[input.files]]
+path = "emails/research-computing-teams-routine-feedback-and.md"
+url = "07892f2a-a12d-4031-86cf-aa1f67ccbb4e"
+filetype = "Markdown"
+title = "#66: 2021-03-20"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-26-mar-2021.md"
+url = "a3afc3bb-92ec-4964-807e-daedaac32c6f"
+filetype = "Markdown"
+title = "#67: 2021-03-26"
+
+[[input.files]]
+path = "emails/research-computing-teams-quarterly-goal-setting.md"
+url = "b639369e-daba-4d6e-b90e-76eecd7c65b7"
+filetype = "Markdown"
+title = "#68: 2021-04-02"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-9-april-2021.md"
+url = "98cbe829-f063-49dc-bbf2-db0e953b30da"
+filetype = "Markdown"
+title = "#69: 2021-04-09"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-16-april.md"
+url = "4a7046c5-45a4-49f7-a187-8bf6c06fd95d"
+filetype = "Markdown"
+title = "#70: 2021-04-16"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-23-april.md"
+url = "9e6f7813-463c-4824-a15d-be69a8e26a73"
+filetype = "Markdown"
+title = "#71: 2021-04-23"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-30-apr-2021.md"
+url = "6bcdfe2b-90fd-4c11-bc9c-52d322c76f76"
+filetype = "Markdown"
+title = "#72: 2021-04-30"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-7-may-2021.md"
+url = "cd616750-65bc-4451-84bf-520bd04644b4"
+filetype = "Markdown"
+title = "#73: 2021-05-07"
+
+[[input.files]]
+path = "emails/research-computing-teams-online-manager-training.md"
+url = "5acc3cfa-3884-4c02-b82c-e9e29b8bd3b1"
+filetype = "Markdown"
+title = "#74: 2021-05-14"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-22-may-2021.md"
+url = "569cd535-4917-45e8-8090-2022c863d98d"
+filetype = "Markdown"
+title = "#75: 2021-05-22"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-28-may-2021.md"
+url = "eb5b56ef-8bd7-45d7-ad67-78b9069a2ae3"
+filetype = "Markdown"
+title = "#76: 2021-05-29"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-5-june-2021.md"
+url = "f4b812b0-0c25-4608-bb1c-890dce4ec77d"
+filetype = "Markdown"
+title = "#77: 2021-06-05"
+
+[[input.files]]
+path = "emails/research-computing-teams-micro-roundup-11-june.md"
+url = "d93b3c49-5739-4f19-8687-5dcc52d8e362"
+filetype = "Markdown"
+title = "#78: 2021-06-11"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-18-june-2021.md"
+url = "4f1ef1b6-8e9c-4567-8992-edaaef79dd26"
+filetype = "Markdown"
+title = "#79: 2021-06-18"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-25-june-2021.md"
+url = "91ac8150-7348-47fe-86bf-390d70f17c4b"
+filetype = "Markdown"
+title = "#80: 2021-06-25"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-2-july-2021.md"
+url = "75c93ea4-8202-42dc-91b1-08835e186438"
+filetype = "Markdown"
+title = "#81: 2021-07-02"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-10-july-2021.md"
+url = "95bd6207-4f4e-4441-b679-a02e0d2736bf"
+filetype = "Markdown"
+title = "#82: 2021-07-10"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-16-july-2021.md"
+url = "a6c8e07e-7269-4c08-a29d-95771bd00384"
+filetype = "Markdown"
+title = "#83: 2021-07-17"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-24-july-2021.md"
+url = "4b92939b-90ed-487a-932a-0e90d0efc905"
+filetype = "Markdown"
+title = "#84: 2021-07-24"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-30-july-2021.md"
+url = "47271f63-bdc6-48a6-bf35-ebad664b99e4"
+filetype = "Markdown"
+title = "#85: 2021-07-30"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-6-aug-2021.md"
+url = "9286d7d7-3929-4f20-b482-72bb94201339"
+filetype = "Markdown"
+title = "#86: 2021-08-06"
+
+[[input.files]]
+path = "emails/research-computing-teams-call-to-action-and-link.md"
+url = "658e0c24-ed57-4dbb-9487-665640c56782"
+filetype = "Markdown"
+title = "#87: 2021-08-14"
+
+[[input.files]]
+path = "emails/research-computing-teams-critical-mass-next-steps.md"
+url = "213b80cc-6b88-49f5-8f75-370bed93bb33"
+filetype = "Markdown"
+title = "#88: 2021-08-20"
+
+[[input.files]]
+path = "emails/research-computing-teams-link-roundup-27-aug-2021.md"
+url = "5a768aaa-4161-4cad-9476-602480c7cdb6"
+filetype = "Markdown"
+title = "#89: 2021-08-27"
+
