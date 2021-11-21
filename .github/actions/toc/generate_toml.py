@@ -30,7 +30,7 @@ def remove_suffix(input_string, suffix):
     return input_string
 
 def main(basedir, outfilename):
-    toml_dict = {'output': {'filename': 'index.st'}}
+    toml_dict = {}
     toml_dict['input'] = {'base_directory': basedir,
                           'url_prefix': 'https://www.researchcomputingteams.org/newsletter_issues/' }
 
