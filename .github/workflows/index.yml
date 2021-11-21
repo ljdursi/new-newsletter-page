@@ -14,7 +14,7 @@ jobs:
           search_path: _newsletter_issues/
           output_toml: output.toml
       - name: Index files
-        uses: ./.github/actions/index
+        uses: ljdursi/stork-index-action@v0.15
         id: index
         with:
           input_toml: output.toml
