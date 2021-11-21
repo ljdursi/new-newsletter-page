@@ -23,6 +23,12 @@ A valid toml file looks like the following (from the docs):
     filename = "federalist.st"
 """
 
+def remove_suffix(input_string, suffix):
+    # str.removesuffix() is a python 3.9 thing
+    if suffix and input_string.endswith(suffix):
+        return input_string[:-len(suffix)]
+    return input_string
+
 def main(basedir, outfilename):
     toml_dict = {'output': {'filename': 'index.st'}}
     toml_dict['input'] = {'base_directory': basedir,
@@ -41,7 +47,7 @@ def main(basedir, outfilename):
 
                 title = post['title']
                 index_files.append({'path': f"{abs_basedir}/{file}",
-                                    'url': f"{file.removesuffix('.md')}",
+                                    'url': f"{remove_suffix(file, '.md')}",
                                     'filetype': 'Markdown',
                                     'title': f"{title}"})
 
