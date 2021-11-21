@@ -25,7 +25,3 @@ then
 else
     usage "$0"
 fi
-
-#toc_file = output.toml
-#    mv index.st assets/index/index.st
-#    ${BINDIR}/generate_toml.py "${search_path}"${PWD}/_newsletter_issues --output "${toc_file}"

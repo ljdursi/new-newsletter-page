@@ -7,7 +7,7 @@ function generate_index {
     local toc_file="$1"
     local index_loc="$2"
 
-    "${BINDIR}/stork" --build "${toc_file}"
+    "${BINDIR}/stork" --build "${toc_file}" 
     mv index.st "${index_loc}"
 }
 
@@ -26,7 +26,3 @@ then
 else
     usage "$0"
 fi
-
-#toc_file = output.toml
-#    mv index.st assets/index/index.st
-#    ${BINDIR}/generate_toml.py "${search_path}"${PWD}/_newsletter_issues --output "${toc_file}"
