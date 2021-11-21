@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-readonly BINDIR="/ur/local/bin"
+readonly BINDIR="/usr/local/bin"
 
 function generate_index {
     local toc_file="$1"

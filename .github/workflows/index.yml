@@ -8,13 +8,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Generate table of contents
-        uses: ./github/actions/toc
+        uses: ./.github/actions/toc
         id: toc
         with:
           search_path: _newsletter_issues/
           output_toml: output.toml
       - name: Index files
-        uses: ./github/actions/index
+        uses: ./.github/actions/index
         id: index
         with:
           input_toml: output.toml
