@@ -6,6 +6,7 @@ RUN apt update \
 # install script for generating toml index from markdown files
 COPY requirements.txt .
 COPY generate_toml.py /usr/local/bin
+RUN chmod +x /usr/local/bin/generate_toml.py
 RUN pip3 install -r requirements.txt
 
 COPY entrypoint.sh /entrypoint.sh
