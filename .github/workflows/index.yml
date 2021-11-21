@@ -1,0 +1,28 @@
+on: [push]
+
+jobs:
+  index-markdowns:
+    runs-on: ubuntu-latest
+    name: Index newsletter issues
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Generate table of contents
+        uses: ./github/actions/toc
+        id: toc
+        with:
+          search_path: _newsletter_issues/
+          output_toml: output.toml
+      - name: Index files
+        uses: ./github/actions/index
+        id: index
+        with:
+          input_toml: output.toml
+          index_loc: assets/index/index.st
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v4
+        with:
+          author_name: ljdursi
+          message: "update index"
+          add: "assets/index/index.st"
+          ref: ${{env.GITHUB_REF}}

@@ -1,0 +1,17 @@
+name: 'Generate table of contents'
+description: "Generate a manifest of markdown files to index"
+inputs:
+  search_path:  
+    description: 'Location of markdown files to index'
+    required: true
+    default: '_newsletter_issues'
+  output_toml:  
+    description: 'Manifest of files, in toml format, to index'
+    required: true
+    default: 'output.toml'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+  args:
+    - ${{ inputs.search_path }}
+    - ${{ inputs.output_toml }}
