@@ -52,13 +52,12 @@ to get some help.
 
 ----{break}----
 
-### Setting Up Teams or Team Direction
+### RCT Community
 
-I also work with directors and VPRs to help set up new teams,
-give them better focus, and facilate new strategic frameworks.
-[contact RCT](mailto:jonathan@researchcomputingteams.org) or 
-just [schedule a short call](https://calendly.com/jonathandursi/strategic-engagement) 
-to find out more.
+Coming soon! We're setting up an online community so that RCT
+readers and community members can share knowledge between themselves.
+[Contact RCT](mailto:jonathan@researchcomputingteams.org) if you want
+to be an early participant.
 
 {% endcapture %}
 
