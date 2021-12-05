@@ -7,7 +7,8 @@ function generate_index {
     local toc_file="$1"
     local index_loc="$2"
 
-    "${BINDIR}/stork" build --input "${toc_file}" --output "${index_loc}"
+    "${BINDIR}/stork" build --input "${toc_file}" --output "${index_loc}" \
+        && echo "::set-output name=input_toc::${index_loc}"
 }
 
 function usage {
@@ -21,7 +22,7 @@ function usage {
 
 if [[ ("${#}" == 2) ]]
 then
-    mkdir -p assets/index
+    mkdir -p $( dirname "$2" )
     generate_index "$1" "$2"
 else
     usage "$0"
