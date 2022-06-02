@@ -2689,7 +2689,7 @@ select {
 /*========================================*/
 .page-title-section {
   background-color: #f8f8f8;
-  background-image: url(../images/bg/page-title-bg.jpg);
+  /* background-image: url(../images/bg/page-title-bg.jpg); */
   color: #fff;
 }
 
