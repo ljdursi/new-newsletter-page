@@ -86,6 +86,7 @@
 @media (max-width: 991px) {
 	.logo img {
 		height: 38px;
+		width: 31px;
 	}
 	.header-wrapper .header-navigation-area {
 		padding: 10px 0;
