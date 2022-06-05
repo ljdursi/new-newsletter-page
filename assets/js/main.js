@@ -240,7 +240,7 @@
         active: true,
         autoplay: true,
         smartSpeed: 1000,
-        autoplayTimeout: 6000,
+        autoplayTimeout: 7000,
         navText: [
           "<i class='fa fa-angle-left'></i>",
           "<i class='fa fa-angle-right'></i>",
