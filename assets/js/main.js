@@ -238,9 +238,9 @@
         animateOut: "fadeOut",
         animateIn: "fadeIn",
         active: true,
-        autoplay: false,
+        autoplay: true,
         smartSpeed: 1000,
-        autoplayTimeout: 8000,
+        autoplayTimeout: 7000,
         navText: [
           "<i class='fa fa-angle-left'></i>",
           "<i class='fa fa-angle-right'></i>",
