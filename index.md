@@ -62,8 +62,8 @@ features:
     - title: Roundups
       description: Weekly summaries of previously covered topics with occasional longer posts.
     - title: Educational material
-      description: Occasional (no more than weekly) short emails with links
-    - title: Direct messaging
+      description: Writeups on topics of the day
+    - title: Send me your feedback!
       description: Reply to any message (it’ll go directly to me and only to me) with thoughts, comments, and feedback
   background: "{{ site.baseurl }}/assets/images/slider/person-typing.jpg"
 
@@ -71,7 +71,7 @@ faq:
   background: "{{ site.baseurl }}/assets/images/bg/6.jpg"
   subtitle: Frequently Asked Questions
   title: Have Any Questions?
-  description: Distinctively exploit revolutionary catalysts for chang the Seamlessly optimal rather than just in web & apps development optimal alignments for intuitive.
+  description: 
   items:
     - question: So you are an expert on this stuff, right?
       answer: Nobody is, but we can all get better. I do have a lot of experience in this area from a lot of different perspectives and in a lot of different disciplines, and have seen research computing teams succeed and struggle.
