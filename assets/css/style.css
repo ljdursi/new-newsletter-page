@@ -1259,7 +1259,7 @@ section.anim-object {
 
 .logo img {
   height: 52px;
-  width: 43px;
+  width: auto;
 }
 
 /*Header Style One*/
