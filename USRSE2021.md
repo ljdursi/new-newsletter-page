@@ -30,7 +30,6 @@ Other resources presesnted in the talk are below -
 
 ### Specific feedback
 
-
 - [Manager-Tools basics podcasts](https://manager-tools.com/manager-tools-basics)
 - re:Work @ Google’s [Situation-Behaviour-Impact model](https://docs.google.com/presentation/d/13-rj7ZqlyuHNli9Ybd5D8g-qqUNtG81t3JLq7JV5c2o/edit#slide=id.gbb7b556ba_0_179)
 - [Three Feedback Models](https://jacobian.org/2021/apr/22/three-feedback-models/)
