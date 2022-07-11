@@ -15,9 +15,9 @@ You can also download [the PDF of the slides]({{ site.baseurl }}/assets/pdfs/Bio
 
 ## Resources and next steps
 
-Whether you're a new manager learning the ropes or an experienced leader facing a new challenge, the resources below should help (an abbreviated version of this list is on the slides).  If you're looking to up your game, my sugegstion would be to pick an area where you feel weakest and choose one of the resources to start going through.
+Whether you're a new manager learning the ropes or an experienced leader facing a new challenge, the resources below should help (an abbreviated version of this list is on the slides).  If you're looking to build skills, my sugegstion would be to pick an area where you feel there's the most opportunity for growth in your team currently and choose one of the resources to start going through.
 
-If you're not sure what to do, you can always [email me](mailto:jonathan@researchcomputingteams.org) or [arrange a quick call](https://calendly.com/jonathandursi/coaching-questions).
+And, you can always [email me](mailto:jonathan@researchcomputingteams.org) or [arrange a quick call](https://calendly.com/jonathandursi/coaching-questions).
 
 ### People
 
