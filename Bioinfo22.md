@@ -30,6 +30,7 @@ If you're not sure what to do, you can always [email me](mailto:jonathan@researc
 - [Three Feedback Models](https://jacobian.org/2021/apr/22/three-feedback-models/)
 - [An Engineering Team where Everyone is a Leader](https://blog.pragmaticengineer.com/a-team-where-everyone-is-a-leader/) - Gergely Orosz
 - [Help, I'm a Research Software Manager!](https://www.researchcomputingteams.org/USRSE2021) - me
+- [Semester-long Intern Checklist](https://docs.google.com/document/d/1Y8_fKdJBqrDPXD6sxEFa5E1vgGvwK1oIn1Fy2XIIvks/edit)
 
 ### Processes
 
