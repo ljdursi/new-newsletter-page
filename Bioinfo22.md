@@ -7,7 +7,7 @@ bgColor: "#2356B6"
 
 <!-- markdownlint-disable MD033 -->
 
-Here is a video recording of my [SORSE talk](https://sorse.github.io/programme/talks/event-005) from July 2022:
+Here is a video recording of my [Bioinfo Core talk at ISMB2022](https://sorse.github.io/programme/talks/event-005) from July 2022:
 
 <iframe src="https://player.vimeo.com/video/728312545?h=5c8915a331&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Technology Isn&amp;#039;t The Hard Part - ISMB22, Bioinfo-Core Workshop"></iframe>
 
