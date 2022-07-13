@@ -15,22 +15,22 @@ You can also download [the PDF of the slides]({{ site.baseurl }}/assets/pdfs/Bio
 
 ## Resources and next steps
 
-Whether you're a new manager learning the ropes or an experienced leader facing a new challenge, the resources below should help (an abbreviated version of this list is on the slides).  If you're looking to build skills, my sugegstion would be to pick an area where you feel there's the most opportunity for growth in your team currently and choose one of the resources to start going through.
+Whether you're a new manager learning the ropes or an experienced leader facing a new challenge, the resources below should help (an abbreviated version of this list is on the slides).  If you're looking to build skills, my suggestion would be to pick an area where you feel there's the most opportunity for growth in your team currently and choose one of the resources to start going through.
 
 And, you can always [email me](mailto:jonathan@researchcomputingteams.org) or [arrange a quick call](https://calendly.com/jonathandursi/coaching-questions).
 
 ### People
 
-- [Manager-Tools basics podcasts](https://manager-tools.com/manager-tools-basics): Mark Horstmann
+- [Manager-Tools basics podcasts](https://manager-tools.com/manager-tools-basics) - Mark Horstmann
 - [The Leader Lab](https://lifelabslearning.com/the-leader-lab/): Tania Luna & LeeAnn Renninger (more fundamental soft skills/habits)
-- [The Manager’s Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/): Camille Fournier
+- [The Manager’s Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) - Camille Fournier
+- [Three Feedback Models](https://jacobian.org/2021/apr/22/three-feedback-models/) - Jacob Kaplan-Moss
+- [An Engineering Team where Everyone is a Leader](https://blog.pragmaticengineer.com/a-team-where-everyone-is-a-leader/) - Gergely Orosz
 - RCT quickstart guide to One-on-Ones ([PDF]({{ site.baseurl }}/assets/pdfs/howto-one-on-ones.pdf),
 [epub]({{ site.baseurl }}/assets/pdfs/howto-one-on-ones.epub)).
 - My one-on-one meeting template: [letter](https://docs.google.com/document/d/1uNC2UakkIqiZL22B1J6E2YroSVyQ8rzuiUPQ40dOeU8/edit), [A4](https://docs.google.com/document/d/1z_K_LvnMd5kfLqqqCxkZrOuFe3bitsvOgeKX2epraAU/edit)
-- [Three Feedback Models](https://jacobian.org/2021/apr/22/three-feedback-models/)
-- [An Engineering Team where Everyone is a Leader](https://blog.pragmaticengineer.com/a-team-where-everyone-is-a-leader/) - Gergely Orosz
 - [Help, I'm a Research Software Manager!](https://www.researchcomputingteams.org/USRSE2021) - me
-- [Semester-long Intern Checklist](https://docs.google.com/document/d/1Y8_fKdJBqrDPXD6sxEFa5E1vgGvwK1oIn1Fy2XIIvks/edit)
+- [Semester-long Intern Checklist](https://docs.google.com/document/d/1Y8_fKdJBqrDPXD6sxEFa5E1vgGvwK1oIn1Fy2XIIvks/edit) - me
 
 ### Processes
 
@@ -56,6 +56,6 @@ And, you can always [email me](mailto:jonathan@researchcomputingteams.org) or [a
 
 ### Becoming A Manager
 
-- [re:Work new manager training guide](https://rework.withgoogle.com/guides/managers-develop-and-support-managers/steps/review-googles-new-manager-training/)
-- [The Manager’s Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/): Camille Fournier
+- [re:Work new manager training guide](https://rework.withgoogle.com/guides/managers-develop-and-support-managers/steps/review-googles-new-manager-training/) - Google
+- [The Manager’s Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) - Camille Fournier
 - I have a [weekly link roundup newsletter](https://newsletter.researchcomputingteams.org) on the topic of managing research computing teams.
