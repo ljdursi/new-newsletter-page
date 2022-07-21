@@ -14,10 +14,12 @@
   />
   {% if page.hero-img %}
   <meta name="og:image" content="{{page.hero-img}}" />
-  {%endif%}
+  {% else %}
+  <meta name="og:image" content="{{ site.url }}/assets/images/logo_full.png" />
+  {% endif %}
   <meta name="robots" content="index,follow" />
 
-  {% if page.title and page.layout== 'post' %}
+  {% if page.title and page.layout== 'email' %}
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:type" content="article" />
   <meta property="og:description" content="{{ page.excerpt | strip_html }}" />
