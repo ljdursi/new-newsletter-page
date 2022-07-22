@@ -19,12 +19,14 @@
   {% endif %}
   <meta name="robots" content="index,follow" />
 
-  {% if page.title and page.layout== 'email' %}
+  {% if page.title %}
   <meta property="og:title" content="{{ page.title }}" />
+  {% endif %}
+
+  {% if page.layout== 'email' %}
   <meta property="og:type" content="article" />
-  <meta property="og:description" content="{{ page.excerpt | strip_html }}" />
+  <meta property="og:description" content="{{ page.subtitle }}" />
   {% else %}
-  <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:type" content="website" />
   <meta
     property="og:description"
