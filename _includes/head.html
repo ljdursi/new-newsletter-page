@@ -2,13 +2,13 @@
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-
+  <meta name="author" content="{{ site.author }}" />
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="{{ site.twitter.account }}">
   <meta name="twitter:creator" content="{{ site.twitter.account }}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
   {% if page.title %}
-  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:title" content="{{ site.author }}: {{ page.title }}" />
   {% else %}
   <meta property="og:title" content="{{ site.title }}" />
   {% endif %}
@@ -23,8 +23,10 @@
   />
   {% if page.hero-img %}
   <meta property="og:image" content="{{ site.url}}{{page.hero-img}}" />
+  <meta name="twitter:image" content="{{ site.url}}{{page.hero-img}}" />
   {% else %}
   <meta property="og:image" content="{{ site.url }}/assets/images/logo_full.png" />
+  <meta name="twitter:image" content="{{ site.url }}/assets/images/logo_full.png" />
   {% endif %}
   <meta name="robots" content="index,follow" />
 
