@@ -22,7 +22,7 @@
   {% endif %}"
   />
   {% if page.hero-img %}
-  <meta property="og:image" content="{{page.hero-img}}" />
+  <meta property="og:image" content="{{ site.url}}{{page.hero-img}}" />
   {% else %}
   <meta property="og:image" content="{{ site.url }}/assets/images/logo_full.png" />
   {% endif %}
