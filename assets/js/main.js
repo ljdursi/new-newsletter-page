@@ -512,14 +512,6 @@
     client_items();
 
     /*=============================================*/
-    /*------------ [_Language_Button] -------------*/
-    /*=============================================*/
-    $(".language-btn").on("click", function (event) {
-      event.preventDefault();
-      $(this).next(".language-dropdown").toggleClass("open");
-    });
-
-    /*=============================================*/
     /*---------- [_Inline_Data_Attribute] ---------*/
     /*=============================================*/
     var sectionBgImg = $(".bg-img, .footer, section, div");
