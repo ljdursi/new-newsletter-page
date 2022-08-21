@@ -27,8 +27,9 @@ collections:
   interviews:
     output: true
     sort_by: date
-  resources:
+  items:
     output: true
+    sort_by: priority
 
 
 # Exclude from processing.
