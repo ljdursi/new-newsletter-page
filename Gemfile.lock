@@ -77,6 +77,10 @@ DEPENDENCIES
   jekyll-feed (~> 0.12)
   jekyll-redirect-from
   jekyll-sitemap
+<<<<<<< HEAD
+=======
+  jekyll-toc
+>>>>>>> 1d128f4... Update gems
   webrick
 
 BUNDLED WITH
