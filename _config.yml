@@ -1,8 +1,8 @@
 # Welcome to Jekyll!
 
 email: jonathan@researchcomputingteams.org
-description: Helping managers of Research Computing and Data teams be more effective and less stressed
 title:  Research Computing Teams
+description: Helping managers of research software, data science, and computing teams be more effective and less stressed
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.researchcomputingteams.org"
@@ -31,7 +31,6 @@ collections:
     output: true
     sort_by: priority
 
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -51,3 +50,74 @@ exclude:
    - vendor/cache/
    - vendor/gems/
    - vendor/ruby/
+
+resource_tags:
+- coaching
+- migration
+- case_study
+- advocacy_resources
+- managing_up
+- credit
+- productivity
+- working_across_institutions
+- remote
+- open_source_management
+- funding
+- career_ladders
+- feedback
+- code_reviews
+- prioritization
+- cloud
+- creating_a_job_description
+- becoming_a_manager
+- professional_development
+- testing
+- marketing
+- interviewing_and_evaluating
+- ci_cd
+- working_across_an_organization
+- documentation_writing
+- research_community
+- security
+- onboarding
+- team_organization
+- making_decisions
+- one_on_ones
+- change_management
+- meetings
+- alignment
+- digital_humanities
+- data_teams
+- recruiting
+- systems
+- risk_management
+- training_researchers
+- managing_teams
+- conflict_difficult_discussions
+- runbooks
+- automation
+- managing_individuals
+- hosting_conferences_events
+- software_development
+- interns
+- incident_handling
+- offboarding
+- strategy
+- hpc
+- knowledge_sharing
+- project_management
+- research_to_development_maturity_ladder
+- working_with_stakeholders
+- meeting_types
+- product_service_management
+- communications_tools
+- reproducibility
+- delegation
+- learning_materials
+- working_with_decision_makers
+- diversity
+- managing_your_career
+- data_resources
+- hiring
+- working_with_other_vendors
+- technical_leadership

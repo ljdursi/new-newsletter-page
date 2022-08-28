@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+{% include hero.html title=page.title bgColor=page.bgColor bgImg=page.bgImg %}
+
+<div class="{% unless page.customized %}my-100 container{% endunless %}">
+    <div class="markdown-body">
+        {% for post in site.items %}
+          {% if post.tags contains page.tag %}
+          <section class="blog-entries">
+            <h2 class="post-title"><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{post.title}}</a></h2>
+            <div class="blog-data">
+              {% if post.tags.size > 1 %}
+                <p><i>Other tags:
+                {% for tag in post.tags %}
+                  {% if tag != page.tag %}
+                    <a href="{{tag}}">{{tag}}</a>
+                  {% endif %}
+                {% endfor %}
+                </i></p> 
+              {% endif %}
+            </div>
+            <p class="post-content">{{ post.content | split:"<!-- more -->" | first | strip_html  |truncatewords: 85 }}</p>
+            <a class="read-more" href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">Continue...</a>
+          </section>
+
+          <hr>
+          {% endif %}
+        {% endfor %}
+    </div>
+</div>

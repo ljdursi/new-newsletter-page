@@ -18,10 +18,7 @@
   <meta property="og:site_name" content="{{ site.title }}" />
   <meta
     name="description"
-    content="
-  {% if page.headline %} {{page.headline}} 
-  {% else %}{{ site.description }} 
-  {% endif %}"
+    content="{% if page.headline %}{{page.headline}}{% else %}{{ site.description }}{% endif %}"
   />
   {% if page.hero-img %}
     {% if page.hero-img contains '://' %}

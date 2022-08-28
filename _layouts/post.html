@@ -5,5 +5,17 @@ layout: default
 {% include hero.html title=page.title bgColor=page.bgColor bgImg=page.bgImg %}
 
 <div class="{% unless page.customized %}my-100 container{% endunless %}">
-  <div class="markdown-body">{{content}}</div>
+  <div class="markdown-body">
+    {% if page.url and page.issue_number and page.date %}
+      <p><i>This resource first appeared in issue <a href={{ page.url | relative_url }}>#{{ page.issue_number }}</a> on {{ page.date | date_to_string }}  
+      {% if page.tags.size > 0 %}
+        and has tags
+        {% for tag in page.tags %}
+          <a href="/category/{{tag}}">{{tag}}</a> 
+        {% endfor %}
+      {% endif %}
+      </i></p>
+    {% endif %}
+    {{content}}
+  </div>
 </div>
