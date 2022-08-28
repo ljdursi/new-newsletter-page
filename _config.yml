@@ -120,4 +120,8 @@ resource_tags:
 - data_resources
 - hiring
 - working_with_other_vendors
+<<<<<<< HEAD
 - technical_leadership
+=======
+- technical_leadership
+>>>>>>> c1d069a... First pass at category pages
