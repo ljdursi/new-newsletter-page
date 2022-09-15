@@ -30,7 +30,7 @@ layout: default
             <a href="{{supertag.slug}}">{{supertag.name}}</a>,
         {% endfor %}
       {% else %}
-        <b>All categories</b>: <a href="{{'/items_by_tag' | absolute_url}}">Resources by category</a>
+        <b>All categories</b>: <a href="{{'/items_by_tag' | relative_url}}">Resources by category</a>
       {% endif %}
       </p>
 

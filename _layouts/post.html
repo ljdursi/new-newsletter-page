@@ -11,7 +11,7 @@ layout: default
       {% if page.tags.size > 0 %}
         and has tags
         {% for tag in page.tags %}
-          <a href="/category/{{tag}}">{{tag}}</a> 
+          <a href="/category/{{tag}}">{{site.data.resource_names_by_slug[tag]}}</a> 
         {% endfor %}
       {% endif %}
       </i></p>
