@@ -1,5 +1,5 @@
 ---
 layout: category
-title: 'Category: managing_your_career'
+title: 'Category: Managing Your Career'
 tag: managing_your_career
 ---

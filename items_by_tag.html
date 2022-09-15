@@ -5,41 +5,10 @@ layout: page
 
 <h1>Category: <span class="tag-name">{{ t }}</span></h1>
 
-{% for tag in site.resource_tags %}
-    <li><a href="/category/{{tag}}">{{tag}}</a></li>
+<ul>
+{% for resource in site.data.resources %}
+    {% unless resource['slug'] contains ',' %}
+        <li><a href="/category/{{resource['slug']}}">{{resource['name']}}</a></li>
+    {% endunless %}
 {% endfor %}
-
-{% for tag in site.resource_tags %}
-  {% assign t = tag | first %}
-  {% assign items = tag | last %}
-  <div class="blog-list-container hidden" id="{{ t }}-container">
-      {% for item in items %}
-        {% if item.tags contains t %}
-        <section class="blog-entries">
-          <h1 class="item-title"><a href="{% if site.baseurl == "/" %}{{ item.url }}{% else %}{{ item.url | prepend: site.baseurl }}{% endif %}">{{item.title}}</a></h1>
-          <div class="blog-data">
-            <div class="author-data">
-              <div class="avatar">
-                <img src="{% if site.baseurl == "/" %}{{ site.data.settings.avatar }}{% else %}{{ site.data.settings.avatar | prepend: site.baseurl }}{% endif %}" alt="avatar"/>
-              </div>
-              <a class="item-author" href="{% if site.baseurl == "/" %}/author{% else %}{{ site.baseurl }}/author{% endif %}">{{ item.author }}</a>
-            </div>
-
-            {% if item.tags.size > 0 %}
-              <ul class="tags">
-                {% for tag in item.tags %}
-                    <li><a href="{% if site.baseurl == "/" %}/tag.html#{{ tag }}{% else %}{{ site.baseurl }}/tag.html#{{ tag }}{% endif %}" onclick="location.reload();" class="tag">{{ tag }}</a></li>
-                {% endfor %}
-              </ul>
-            {% endif %}
-          </div>
-
-          <p class="item-content">{{ item.content | split:"<!-- more -->" | first | strip_html  |truncatewords: 85 }}</p>
-          <a class="read-more" href="{% if site.baseurl == "/" %}{{ item.url }}{% else %}{{ item.url | prepend: site.baseurl }}{% endif %}">Continue...</a>
-        </section>
-
-        {% endif %}
-      {% endfor %}
-
-  </div>
-{% endfor %}
+</ul>

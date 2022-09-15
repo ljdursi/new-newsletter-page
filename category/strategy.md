@@ -1,5 +1,5 @@
 ---
 layout: category
-title: 'Category: strategy'
+title: 'Category: Strategy'
 tag: strategy
 ---

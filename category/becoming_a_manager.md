@@ -1,5 +1,5 @@
 ---
 layout: category
-title: 'Category: becoming_a_manager'
+title: 'Category: Becoming A Manager'
 tag: becoming_a_manager
 ---

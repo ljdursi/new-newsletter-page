@@ -1,5 +1,5 @@
 ---
 layout: category
-title: 'Category: technical_leadership'
+title: 'Category: Technical Leadership'
 tag: technical_leadership
 ---

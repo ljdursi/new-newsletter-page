@@ -1,5 +1,5 @@
 ---
 layout: category
-title: 'Category: hiring'
+title: 'Category: Hiring'
 tag: hiring
 ---

@@ -1,5 +1,5 @@
 ---
 layout: category
-title: 'Category: research_community'
+title: 'Category: Research Community'
 tag: research_community
 ---

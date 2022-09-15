@@ -1,0 +1,148 @@
+- name: Becoming A Manager
+  slug: becoming_a_manager
+- name: 'Becoming A Manager: Coaching'
+  slug: becoming_a_manager,coaching
+- name: 'Becoming A Manager: Conflict/Difficult Discussions'
+  slug: becoming_a_manager,conflict_difficult_discussions
+- name: 'Becoming A Manager: Delegation'
+  slug: becoming_a_manager,delegation
+- name: 'Becoming A Manager: Diversity'
+  slug: becoming_a_manager,diversity
+- name: 'Becoming A Manager: Feedback'
+  slug: becoming_a_manager,feedback
+- name: 'Becoming A Manager: Managing Individuals'
+  slug: becoming_a_manager,managing_individuals
+- name: 'Becoming A Manager: Meetings'
+  slug: becoming_a_manager,meetings
+- name: 'Becoming A Manager: Offboarding'
+  slug: becoming_a_manager,offboarding
+- name: 'Becoming A Manager: One-on-ones'
+  slug: becoming_a_manager,one_on_ones
+- name: 'Becoming A Manager: Other'
+  slug: becoming_a_manager,other
+- name: 'Becoming A Manager: Remote'
+  slug: becoming_a_manager,remote
+- name: Hiring
+  slug: hiring
+- name: 'Hiring: Creating a Job Description'
+  slug: hiring,creating_a_job_description
+- name: 'Hiring: Interviewing and Evaluating'
+  slug: hiring,interviewing_and_evaluating
+- name: 'Hiring: Onboarding'
+  slug: hiring,onboarding
+- name: 'Hiring: Other'
+  slug: hiring,other
+- name: 'Hiring: Recruiting'
+  slug: hiring,recruiting
+- name: Managing A Team
+  slug: managing_a_team
+- name: 'Managing A Team: Career Ladders'
+  slug: managing_a_team,career_ladders
+- name: 'Managing A Team: Data Teams'
+  slug: managing_a_team,data_teams
+- name: 'Managing A Team: Documentation/Writing'
+  slug: managing_a_team,documentation_writing
+- name: 'Managing A Team: Interns'
+  slug: managing_a_team,interns
+- name: 'Managing A Team: Knowledge Sharing'
+  slug: managing_a_team,knowledge_sharing
+- name: 'Managing A Team: Other'
+  slug: managing_a_team,other
+- name: 'Managing A Team: Team organization'
+  slug: managing_a_team,team_organization
+- name: Managing Your Career
+  slug: managing_your_career
+- name: 'Managing Your Career: Other'
+  slug: managing_your_career,other
+- name: 'Managing Your Career: Productivity'
+  slug: managing_your_career,productivity
+- name: Strategy
+  slug: strategy
+- name: 'Strategy: Advocacy Resources'
+  slug: strategy,advocacy_resources
+- name: 'Strategy: Alignment'
+  slug: strategy,alignment
+- name: 'Strategy: Change Management'
+  slug: strategy,change_management
+- name: 'Strategy: Funding'
+  slug: strategy,funding
+- name: 'Strategy: Making Decisions'
+  slug: strategy,making_decisions
+- name: 'Strategy: Managing Up'
+  slug: strategy,managing_up
+- name: 'Strategy: Marketing'
+  slug: strategy,marketing
+- name: 'Strategy: Other'
+  slug: strategy,other
+- name: 'Strategy: Prioritization'
+  slug: strategy,prioritization
+- name: 'Strategy: Product/Service Management'
+  slug: strategy,product_service_management
+- name: 'Strategy: Project Management'
+  slug: strategy,project_management
+- name: 'Strategy: Research to Development Maturity Ladder'
+  slug: strategy,research_to_development_maturity_ladder
+- name: 'Strategy: Risk Management'
+  slug: strategy,risk_management
+- name: 'Strategy: Working across an organization'
+  slug: strategy,working_across_an_organization
+- name: 'Strategy: Working with Decision Makers'
+  slug: strategy,working_with_decision_makers
+- name: 'Strategy: Working with Stakeholders'
+  slug: strategy,working_with_stakeholders
+- name: 'Strategy: Working with other vendors'
+  slug: strategy,working_with_other_vendors
+- name: Technical Leadership
+  slug: technical_leadership
+- name: 'Technical Leadership: Automation'
+  slug: technical_leadership,automation
+- name: 'Technical Leadership: CI/CD'
+  slug: technical_leadership,ci_cd
+- name: 'Technical Leadership: Case study'
+  slug: technical_leadership,case_study
+- name: 'Technical Leadership: Cloud'
+  slug: technical_leadership,cloud
+- name: 'Technical Leadership: Code Reviews'
+  slug: technical_leadership,code_reviews
+- name: 'Technical Leadership: Data Resources'
+  slug: technical_leadership,data_resources
+- name: 'Technical Leadership: HPC'
+  slug: technical_leadership,hpc
+- name: 'Technical Leadership: Migration'
+  slug: technical_leadership,migration
+- name: 'Technical Leadership: Open Source Management'
+  slug: technical_leadership,open_source_management
+- name: 'Technical Leadership: Other'
+  slug: technical_leadership,other
+- name: 'Technical Leadership: Reproducibility'
+  slug: technical_leadership,reproducibility
+- name: 'Technical Leadership: Runbooks'
+  slug: technical_leadership,runbooks
+- name: 'Technical Leadership: Security'
+  slug: technical_leadership,security
+- name: 'Technical Leadership: Software Development'
+  slug: technical_leadership,software_development
+- name: 'Technical Leadership: Systems'
+  slug: technical_leadership,systems
+- name: 'Technical Leadership: Systems: Incident Handling'
+  slug: technical_leadership,systems,incident_handling
+- name: 'Technical Leadership: Systems: Other'
+  slug: technical_leadership,systems,other
+- name: 'Technical Leadership: Testing'
+  slug: technical_leadership,testing
+- name: Working With A Research Community
+  slug: working_with_a_research_community
+- name: 'Working With A Research Community: Communications Tools'
+  slug: working_with_a_research_community,communications_tools
+- name: 'Working With A Research Community: Credit'
+  slug: working_with_a_research_community,credit
+- name: 'Working With A Research Community: Digital Humanities'
+  slug: working_with_a_research_community,digital_humanities
+- name: 'Working With A Research Community: Hosting Conferences/Events'
+  slug: working_with_a_research_community,hosting_conferences_events
+- name: 'Working With A Research Community: Other'
+  slug: working_with_a_research_community,other
+- name: 'Working With A Research Community: Training Researchers'
+  slug: working_with_a_research_community,training_researchers
+- name: 'Working With A Research Community: Working across institutions'
+  slug: working_with_a_research_community,working_across_institutions

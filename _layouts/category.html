@@ -4,18 +4,60 @@ layout: default
 
 {% include hero.html title=page.title bgColor=page.bgColor bgImg=page.bgImg %}
 
+{% assign subtags = '' | split: '' %}
+{% for othertags in site.data.resources %}
+  {% if othertags['slug'] contains page.tag and othertags['slug'] != page.tag %}
+    {% assign subtags = subtags | push: othertags %}
+  {% endif %}
+{% endfor %}
+
+{% assign prefix = site.data.resource_names_by_slug[page.tag] | append: ": "  %}
+
+{% assign supertags = '' | split: '' %}
+{% for othertags in site.data.resources %}
+  {% if page.tag contains othertags['slug'] and othertags['slug'] != page.tag %}
+    {% assign supertags = supertags | push: othertags %}
+  {% endif %}
+{% endfor %}
+
 <div class="{% unless page.customized %}my-100 container{% endunless %}">
     <div class="markdown-body">
-        {% for post in site.items %}
-          {% if post.tags contains page.tag %}
+
+      <p>
+      {% if supertags and supertags.size != 0 %}
+        <b>Parent categories</b>:
+        {% for supertag in supertags %}
+            <a href="{{supertag.slug}}">{{supertag.name}}</a>,
+        {% endfor %}
+      {% else %}
+        <b>All categories</b>: <a href="{{'/items_by_tag' | absolute_url}}">Resources by category</a>
+      {% endif %}
+      </p>
+
+      {% if subtags and subtags.size != 0 %}
+        <p>
+        <b>Subcategories</b>:
+        {% for subtag in subtags %}
+            <a href="{{subtag.slug}}">{{subtag.name | remove: prefix}}</a>,
+        {% endfor %}
+        </p>
+      {% endif %}
+      {% for post in site.items %}
+        {% assign match = false %}
+        {% for posttag in post.tags %}
+          {% if posttag contains page.tag %}
+             {% assign match = true %}
+          {% endif %}
+        {% endfor %}
+        {% if match == true %}
           <section class="blog-entries">
             <h2 class="post-title"><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{post.title}}</a></h2>
             <div class="blog-data">
               {% if post.tags.size > 1 %}
-                <p><i>Other tags:
+                <p><i>Other tags: |
                 {% for tag in post.tags %}
                   {% if tag != page.tag %}
-                    <a href="{{tag}}">{{tag}}</a>
+                    <a href="{{tag}}">{{site.data.resource_names_by_slug[tag]}}</a> |
                   {% endif %}
                 {% endfor %}
                 </i></p> 
@@ -24,9 +66,8 @@ layout: default
             <p class="post-content">{{ post.content | split:"<!-- more -->" | first | strip_html  |truncatewords: 85 }}</p>
             <a class="read-more" href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">Continue...</a>
           </section>
-
           <hr>
-          {% endif %}
-        {% endfor %}
+        {% endif %}
+      {% endfor %}
     </div>
 </div>
