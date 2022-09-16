@@ -4,15 +4,22 @@ layout: default
 
 {% include hero.html title=page.title bgColor=page.bgColor bgImg=page.bgImg %}
 
+{% assign taglinks = '' | split: '' %}
+{% if page.tags.size > 0 %}
+  {% for tag in page.tags %}
+    {% assign tagurl = "/category/" | append: tag | relative_url  %}
+    {% assign tagname = site.data.resource_names_by_slug[tag] %}
+    {% assign linkstr = '<a href=' | append: tagurl | append: '>' | append: site.data.resource_names_by_slug[tag] | append: '</a>' %}
+    {% assign taglinks = taglinks | push: linkstr %}
+  {% endfor %}
+{% endif %}
+
 <div class="{% unless page.customized %}my-100 container{% endunless %}">
   <div class="markdown-body">
-    {% if page.url and page.issue_number and page.date %}
-      <p><i>This resource first appeared in issue <a href={{ page.url | relative_url }}>#{{ page.issue_number }}</a> on {{ page.date | date_to_string }}  
-      {% if page.tags.size > 0 %}
-        and has tags
-        {% for tag in page.tags %}
-          <a href="/category/{{tag}}">{{site.data.resource_names_by_slug[tag]}}</a> 
-        {% endfor %}
+    {% if page.original_url and page.issue_number and page.date %}
+      <p><i>This resource first appeared in issue <a href={{ page.original_url }}>#{{ page.issue_number }}</a> on {{ page.date | date_to_string }}  
+      {% if taglinks.size > 0 %}
+        and has tags {{ taglinks | join: ", " }}
       {% endif %}
       </i></p>
     {% endif %}

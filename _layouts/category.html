@@ -4,19 +4,21 @@ layout: default
 
 {% include hero.html title=page.title bgColor=page.bgColor bgImg=page.bgImg %}
 
-{% assign subtags = '' | split: '' %}
-{% for othertags in site.data.resources %}
-  {% if othertags['slug'] contains page.tag and othertags['slug'] != page.tag %}
-    {% assign subtags = subtags | push: othertags %}
-  {% endif %}
-{% endfor %}
-
 {% assign prefix = site.data.resource_names_by_slug[page.tag] | append: ": "  %}
 
+{% assign subtags = '' | split: '' %}
 {% assign supertags = '' | split: '' %}
-{% for othertags in site.data.resources %}
-  {% if page.tag contains othertags['slug'] and othertags['slug'] != page.tag %}
-    {% assign supertags = supertags | push: othertags %}
+{% for tag in site.data.resources %}
+  {% if tag['slug'] contains page.tag and tag['slug'] != page.tag %}
+    {% assign tagurl = "/category/" | append: tag['slug'] | relative_url  %}
+    {% assign tagname = tag['name'] | remove: prefix %}
+    {% assign linkstr = '<a href=' | append: tagurl | append: '>' | append: tagname | append: '</a>' %}
+    {% assign subtags = subtags | push: linkstr %}
+  {% elsif page.tag contains tag['slug'] and page.tag != tag['slug'] %}
+    {% assign tagurl = "/category/" | append: tag['slug'] | relative_url  %}
+    {% assign tagname = tag['name'] %}
+    {% assign linkstr = '<a href=' | append: tagurl | append: '>' | append: tagname | append: '</a>' %}
+    {% assign supertags = supertags | push: linkstr %}
   {% endif %}
 {% endfor %}
 
@@ -25,23 +27,16 @@ layout: default
 
       <p>
       {% if supertags and supertags.size != 0 %}
-        <b>Parent categories</b>:
-        {% for supertag in supertags %}
-            <a href="{{supertag.slug}}">{{supertag.name}}</a>,
-        {% endfor %}
+        <b>Parent categories</b>: {{ supertags | join: ', ' }}
       {% else %}
         <b>All categories</b>: <a href="{{'/items_by_tag' | relative_url}}">Resources by category</a>
       {% endif %}
       </p>
 
       {% if subtags and subtags.size != 0 %}
-        <p>
-        <b>Subcategories</b>:
-        {% for subtag in subtags %}
-            <a href="{{subtag.slug}}">{{subtag.name | remove: prefix}}</a>,
-        {% endfor %}
-        </p>
+        <p> <b>Subcategories</b>: {{ subtags | join: ', '}} </p>
       {% endif %}
+
       {% for post in site.items %}
         {% assign match = false %}
         {% for posttag in post.tags %}
