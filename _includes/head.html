@@ -26,24 +26,21 @@
       <meta property="og:image" content="{{ page.hero-img }}" />
       <meta name="twitter:image" content="{{ page.hero-img }}" />
     {% else %}
-      <meta property="og:image" content="{{ site.url }}{{ page.hero-img }}" />
-      <meta name="twitter:image" content="{{ site.url }}{{ page.hero-img }}" />
+      <meta property="og:image" content="{{ page.hero-img | relative_url }}" />
+      <meta name="twitter:image" content="{{ page.hero-img | relative_url }}" />
     {% endif %}
   {% else %}
-  <meta property="og:image" content="{{ site.url }}/assets/images/logo_full.png" />
-  <meta name="twitter:image" content="{{ site.url }}/assets/images/logo_full.png" />
+    <meta property="og:image" content="{{ site.url }}/assets/images/logo_full.png" />
+    <meta name="twitter:image" content="{{ site.url }}/assets/images/logo_full.png" />
   {% endif %}
   <meta name="robots" content="index,follow" />
 
   {% if page.layout== 'email' %}
-  <meta property="og:description" content="{{ page.subtitle }}" />
+    <meta property="og:description" content="{{ page.subtitle }}" />
   {% else %}
   <meta
     property="og:description"
-    content="
-  {% if page.headline %} {{page.headline}} 
-  {% else %}{{ site.description }} 
-  {% endif %}"
+    content="{% if page.headline %}{{page.headline}}{% else %}{{ site.description }}{% endif %}"
   />
   {% endif %} {% if page.date %}
   <meta
