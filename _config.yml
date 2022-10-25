@@ -4,7 +4,7 @@ email: jonathan@researchcomputingteams.org
 description: Helping managers of RCD and R&D computing teams be more effective and less stressed
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.researchcomputingteams.org/"
+url: "https://www.researchcomputingteams.org"
 
 # Build settings
 plugins:
