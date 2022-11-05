@@ -5,6 +5,8 @@ title: Help! I'm a Research Software Manager!
 bgColor: "#2356B6"
 ---
 
+<!-- markdownlint-disable MD033 -->
+
 Here is a video recording of my [US-RSE](https://us-rse.org/virtual-workshop-2021/abstracts#help-im-a-research-software-manager) talk from May 2021:
 
 <iframe src="https://player.vimeo.com/video/554350779" width="640" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
