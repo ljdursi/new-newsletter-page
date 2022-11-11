@@ -6,15 +6,15 @@ date: 2022-11-07
 
 <!-- markdownlint-disable MD033 -->
 
+<img align="right" width="20%" src='{{ "/interviews/001/matthew_smith_ubc.jpeg" | absolute_url }}' alt="Picture of Matthew Smith">
+
 ## RCT Interview: Matthew Smith, UBC
 
-<img align="right" width="33%" src={{ "/interviews/001/matthew_smith_ubc.jpeg" | relative_url }} alt="Picture of Matthew Smith">
+In this interview, Matthew Smith from the University of British Columbia and I talk about managing as a new manager as the pandemic hit, finding other teams to work with when we can't do it all, the benefits of communities of practice, the self-doubt that can arise managing more experienced employees, and a coaching approach to being a manager.  I really enjoyed the conversation, and I hope you do too!
 
 <audio id="player" controls>
-  <source src={{ "/interviews/001/matthew_smith_ubc.mp3" | relative_url }} type="audio/mp3" />
+  <source src='{{ "/interviews/001/matthew_smith_ubc.mp3" | absolute_url }}' type="audio/mp3" />
 </audio>
-
-In this interview, Matthew Smith from the University of British Columbia and I talk about managing as a new manager as the pandemic hit, finding other teams to work with when we can't do it all, the benefits of communities of practice, the self-doubt that can arise managing more experienced employees, and a coaching approach to being a manager.  I really enjoyed the conversation, and I hope you do too!
 
 ----------
 
