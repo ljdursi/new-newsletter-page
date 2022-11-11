@@ -9,7 +9,6 @@ url: "https://www.researchcomputingteams.org"
 # Build settings
 plugins:
   - jekyll-feed
-  - jekyll-toc
   - jekyll-sitemap
 
 sass:
@@ -17,27 +16,15 @@ sass:
   style: compressed
   sourcemap: always
 
-collections:
-  posts:
-    output: false
-    permalink: "/blog/:year/:month/:day/:title"
-
 twitter:
   account: "@RCTNewsletter"
   author: "Research Computing Teams"
 
-toc:
-  min_level: 1
-  max_level: 1
-  ordered_list: false
-  no_toc_section_class: no_toc_section
-  list_class: ""
-  sublist_class: ""
-  item_class: "anchor"
-  item_prefix: ""
-
 collections:
   newsletter_issues:
+    output: true
+    sort_by: date
+  interviews:
     output: true
     sort_by: date
 
