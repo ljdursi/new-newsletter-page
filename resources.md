@@ -2,7 +2,6 @@
 layout: resources
 permalink: /resources
 title: Resources
-toc: true
 bgColor: "#2356B6"
 ---
 

@@ -2,7 +2,6 @@ source "https://rubygems.org"
 # jekyll version
 gem "jekyll", "~> 4.1.1"
 # table of contents plugin
-gem 'jekyll-toc'
 gem 'jekyll-sitemap'
 gem 'jekyll-redirect-from'
 gem 'webrick'
