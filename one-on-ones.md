@@ -7,7 +7,7 @@ bgColor: "#2356B6"
 
 <!-- markdownlint-disable MD033 -->
 
-<a href="{{ site.baseurl }}/assets/pdfs/howto-one-on-ones.pdf"> <img align="right" width="33%" src="{{ site.baseurl }}/assets/images/one-on-ones-cover-page.png" alt="Cover page for the Research Computing Teams one-on-ones ebook">
+<a href="{{ site.baseurl }}/assets/pdfs/howto-one-on-ones.pdf"> <img align="right" width="33%" src="{{ site.baseurl }}/assets/images/one-on-ones-cover-page.png" alt="Cover page for the Research Computing Teams one-on-ones ebook"> </a>
 
 One-on-one meetingss are _the_ foundational tool for managing individuals.  And it couldn't be simpler; they are:
 
