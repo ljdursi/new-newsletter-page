@@ -10,7 +10,25 @@ date: 2022-11-07
 
 ## RCT Interview: Matthew Smith, UBC
 
-In this interview, Matthew Smith from the University of British Columbia and I talk about managing as a new manager as the pandemic hit, finding other teams to work with when we can't do it all, the benefits of communities of practice, the self-doubt that can arise managing more experienced employees, and a coaching approach to being a manager.  I really enjoyed the conversation, and I hope you do too!
+In this interview, Matthew Smith from the University of British Columbia and I talk about managing as a new manager as the pandemic hit, finding other teams to work with when we can't do it all, the benefits of communities of practice, the self-doubt that can arise managing more experienced employees, and a coaching approach to being a manager.  
+
+Some key takeaways:
+
+On coaching:
+
+> Diving into the coaching based approach to leadership has been of value in the midst of the pandemic. [...] Because yeah, it'd be a rare bet where we're gonna have circumstances where I'm the technical expert, amongst the rest of my team who collectively have over a hundred years experience. Coaching is a skill, and that's where I think I've been able to, to bring value to the team is providing space to bring their problems, to focus on a problem or solution they wanna reach and then offer a chance for them to see my perspective or other perspectives on how they might approach a problem, whether it's technical or interpersonal.
+
+On a very rapid increase in workload at the start of the pandemic, and helping the team by saying "no":
+
+> Our biggest challenge [with the onset of the pandemic] was we saw our usage double or triple overnight. We had researchers hadn't even heard of ARC, but they wanted to continue doing their research. And a good portion of that happened within few months of the pandemic becoming a reality. It was easy because the team is really passionate about it and, you know, it was a bunch of new friends, new researchers, new people to learn about and understand what they're trying to accomplish and help them find the solution they needed. 
+> But at the same time, we were kind of not becoming aware of how long we were sitting at our desks and we started to feel a sense of burnout after not too long. So being able to step back, recognize that and figure out how we could maybe work smarter about delivering all our services was a challenge. [...]
+> [I had] a willingness to be their bad cop and make that known.  I think knowing that there was someone there to kind of offer a &quot;no&quot; in a way that wasn't gonna put the onus on them helped.
+
+On not trying to do it all by enlisting the support of other teams:
+
+> It seems there's never enough resources to be able to provide everything that researchers need. Our researchers that top in the world and that comes from being incredibly ambitious.  They're not limited by their ideas, but by all the different components to make their ideas for their research study a reality. So [..] it was all about trying to stretch the dollar. To find different avenues or partners, _etc_, to work with to ensure that we're focusing our efforts on where it makes sense. 
+
+I really enjoyed the conversation, and I hope you do too!
 
 <audio id="player" controls>
   <source src='{{ "/interviews/001/matthew_smith_ubc.mp3" | absolute_url }}' type="audio/mp3" />
@@ -96,7 +114,7 @@ And essentially manages our, our resource scheduler, that, that makes sure every
 
 And he works with the other, other teams at ARC as well to ensure that again, that, that continuity of service to make sure that we. We can deliver on the back end, what folks are, are planning for the front end. And then our, our newest addition to the architect world well to the, the architect classification, but certainly no stranger.
 
-To, to UBC research computing is Venkat Mahadevan or Venkat. Maha David. He is our cloud architect.
+To, to UBC research computing is Venkat Mahadevan. He is our cloud architect.
 
 **Jonathan Dursi:** Nice.
 
@@ -134,13 +152,13 @@ Is, is present in a conversation. So I would almost say that kind of improved wi
 
 So and, and thankfully we've been able to retain that. So even though we've moved back to, to being on campus two to three days a week we continue to hold our team meetings purely on, on Zoom with, with multiple folks in, in their own, in their own rooms. Just to have that, yeah, maintain that. Our biggest challenge was we saw our usage.
 
-Like double slash triple overnight, where we had researchers that, you know, hadn't even heard of ARC, but they wanted to continue during their research. They were being prevented from coming into the office and, you know, performing their lab work and they. You know, we're aware that their colleagues were working in this, this wonderful virtual space that is research computing.
+Like double slash triple overnight, where we had researchers that, you know, hadn't even heard of ARC, but they wanted to continue doing their research. They were being prevented from coming into the office and, you know, performing their lab work and they. You know, we're aware that their colleagues were working in this, this wonderful virtual space that is research computing.
 
 So we had yeah, between before the pandemic and now with the current levels we're at, we've seen our, you know, the amount of researchers using our system tripled.
 
 **Jonathan Dursi:** Wow.
 
-**Matthew Smith:** And and a good portion of that happened within Yeah, a few months of, of the pandemic becoming a reality. So being able to, I guess keep up with that, that rise in demand.
+**Matthew Smith:** And a good portion of that happened within Yeah, a few months of, of the pandemic becoming a reality. So being able to, I guess keep up with that, that rise in demand.
 
 It was easy because the team is really passionate about it and, you know, it was a bunch of new friends, new researchers, new people to learn about and understand what they're trying to accomplish and, and help them find the solution they needed. But at the same time, yeah, we were kind of not becoming aware of, of how long we were sitting at our desks and we started to feel a sense of burnout after, after not too, So being able to kind of step back, recognize that and figure out how we could maybe work smarter about, about delivering all our services was, was, was both a challenge and something that we were able to, to overcome and, and take on.
 
