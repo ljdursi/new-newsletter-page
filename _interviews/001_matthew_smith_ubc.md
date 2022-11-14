@@ -112,9 +112,7 @@ I'll, I'll go ahead and, and name names. And so we have Roman Baranowski, absolu
 
 And essentially manages our, our resource scheduler, that, that makes sure everybody has fair access to the system. Then we have Ryan Thompson, he's our systems architect, and he looks at how everything connects together and ensures that, you know, our planning and our infrastructure meets operational needs.
 
-And he works with the other, other teams at ARC as well to ensure that again, that, that continuity of service to make sure that we. We can deliver on the back end, what folks are, are planning for the front end. And then our, our newest addition to the architect world well to the, the architect classification, but certainly no stranger.
-
-To, to UBC research computing is Venkat Mahadevan. He is our cloud architect.
+And he works with the other, other teams at ARC as well to ensure that again, that, that continuity of service to make sure that we. We can deliver on the back end, what folks are, are planning for the front end. And then our newest addition to the architect world well to the, the architect classification, but certainly no stranger To UBC research computing is Venkat Mahadevan. He is our cloud architect.
 
 **Jonathan Dursi:** Nice.
 
