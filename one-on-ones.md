@@ -36,9 +36,14 @@ I have a free four-week quickstart guide ([PDF]({{ site.baseurl }}/assets/pdfs/h
 Some other resources which might help you:
 
 * My one-on-one meeting template: [letter](https://docs.google.com/document/d/1uNC2UakkIqiZL22B1J6E2YroSVyQ8rzuiUPQ40dOeU8/edit), [A4](https://docs.google.com/document/d/1z_K_LvnMd5kfLqqqCxkZrOuFe3bitsvOgeKX2epraAU/edit)
-* [Manager-Tools basics podcasts](https://manager-tools.com/manager-tools-basics) - A great introductory set of podcasts
 * [The Manager’s Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) - A modern classic of what's expected as you rise in managerial or leadership duties in tech
 * [re:Work new manager training guide](https://rework.withgoogle.com/guides/managers-develop-and-support-managers/steps/review-googles-new-manager-training/) - Google's new manager training
+* [Questions for our First 1:1](https://larahogan.me/blog/first-one-on-one-questions/) - Lara Hogan's set of first 1:!
+* [Manager-Tools basics podcasts](https://manager-tools.com/manager-tools-basics) - A great if opinionated introductory set of podcasts
+* [14 questions to ask an underperforming employee during a one-on-one meeting](https://knowyourteam.com/blog/2018/10/22/14-questions-to-ask-an-underperforming-employee-during-a-one-on-one-meeting/) - Clair Lew, Know Your Team
+* [What if you dread 1:1s with a direct report?](https://leaddev.com/mentoring-coaching-feedback/what-if-you-dread-11s-direct-report)  - Lara Hogan, LeadDev
+* [When a 1:1 turns into a vent session](https://nomadfornow.com/blog/when-1:1-turns-into-vent-session/) - Yihwan Kim<br/>
+* [The Update, The Vent, and The Disaster](https://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/) - Michael Lopp
 * I have a [weekly link roundup newsletter](https://newsletter.researchcomputingteams.org) on the topic of managing research computing teams.
 
 You can also watch my 10-minute talk, [Help, I'm a Research Software Manager!](https://www.researchcomputingteams.org/USRSE2021), which talks about how one-on-ones are one of four things that help us in research become better managers (and connects with the Google new manager training!)
