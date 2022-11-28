@@ -13,8 +13,6 @@ layout: null
           <title>{{ post.title | xml_escape }}</title>
           <description>
               {{ post.subtitle | xml_escape }}
-          
-              {{ post.content | xml_escape }}
           </description>
           <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
           <link>{{ post.url | absolute_url }}</link>
