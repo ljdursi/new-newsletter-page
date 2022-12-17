@@ -7,10 +7,5 @@
   name: Resources
 - url: "/archive"
   name: Newsletter Archive
-  sublinks:
-    - fullurl: https://newsletter.researchcomputingteams.org/archive
-      name: All issues
-    - url: /archive
-      name: Search the archives
 - url: "/about"
   name: About
