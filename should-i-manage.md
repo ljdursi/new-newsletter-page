@@ -37,8 +37,8 @@ Some other resources which might help you:
 * [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/) is a 20,000+ strong community of people who are technical managers or leads, or interested in becoming leads or managers. There are always very interesting discussions going on from which you can learn a lot, on any topic.
 * Pat Kua's article [Maker vs Multiplier](https://www.patkua.com/blog/maker-vs-multiplier/) describes the difference beetween being an individual contributor (maker) and being a manager (multiplier).
 * [This article](https://charity.wtf/2021/01/23/questionable-advice-how-do-i-feel-worthwhile-as-a-manager-when-my-people-are-doing-all-the-implementing/) from Charity Majors is all about the different job satisfaction of being a manager.
-* Practice [active listening](https://rachelhands.com/2020/07/07/active-listening-for-managers/) and paraphrasing while testing outthese manager tasks
-* I'm quite fond of the [Manager-Tools Basics Podcasts](https://www.manager-tools.com/manager-tools-basics), and [their book](https://www.manager-tools.com/products/effective-manager-book), although I don't agree with a lot of the material in the podcasts later material.
+* Practice [active listening](https://rachelhands.com/2020/07/07/active-listening-for-managers/) and paraphrasing while testing outthese manager tasks.
+* If you're managing or supervising someone, you may find the [RCT guide to One-on-one meetings](https://www.researchcomputingteams.org/one-on-ones) useful.
 * Finally, you might find the [Research Computing Teams Newsletter](https://www.researchcomputingteams.org/archive) valuable; the core of this ebook, for instance, came from [issue #138](https://www.researchcomputingteams.org/newsletter_issues/0138). 
 
 You can also watch my 10-minute talk, [Help, I'm a Research Software Manager!](https://www.researchcomputingteams.org/USRSE2021), which talks about how we in research already have the advanced skills to become great managers - we just need the basics to become good managers, first.
