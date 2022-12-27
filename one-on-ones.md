@@ -9,7 +9,7 @@ bgColor: "#2356B6"
 
 <a href="{{ site.baseurl }}/assets/pdfs/howto-one-on-ones.pdf"> <img align="right" width="33%" src="{{ site.baseurl }}/assets/images/one-on-ones-cover-page.png" alt="Cover page for the Research Computing Teams one-on-ones ebook"> </a>
 
-One-on-one meetingss are _the_ foundational tool for managing individuals.  And it couldn't be simpler; they are:
+One-on-one meetings are _the_ foundational tool for managing individuals.  And it couldn't be simpler; they are:
 
 * Regular weekly meetings with you and each team member,
 * Which are basically never cancelled,
@@ -51,4 +51,4 @@ You can also watch my 10-minute talk, [Help, I'm a Research Software Manager!](h
 
 <iframe src="https://player.vimeo.com/video/554350779" width="640" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Help, I'm a Research Software Manager"></iframe>
 
-Finally, you can always [email me](mailto:jonathan@researchcomputingteams.org) or even [arrange a quick free call](https://calendly.com/jonathandursi/coaching-questions).  It is very important to me to support those who have stepped up to the responsibility of managing techinal research support teams.
+Finally, you can always [email me](mailto:jonathan@researchcomputingteams.org) or even [arrange a quick free call](https://calendly.com/jonathandursi/coaching-questions).  It is very important to me to support those who have stepped up to the responsibility of managing technical research support teams.
