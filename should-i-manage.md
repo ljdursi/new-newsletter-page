@@ -18,8 +18,7 @@ But it's a tough job, and not everyone enjoys it.  It means a career change; rat
 Luckily, you can find out if you'd enjoy the work first before making big job decisions.  Test the hypothesis that you'd enjoy being a manager.
 
 Here's a quick guide ([PDF]({{ site.baseurl }}/assets/pdfs/DoIWantToManage.pdf),
-[epub]("{{ site.baseurl }}/assets/pdfs/Do I Want To Be A Manager.epub")) to testing the waters before making the jump.  Look for opportunities to 
-try out manager-relevant responsibilities by:
+[epub]({{ site.baseurl }}/assets/pdfs/Do-I-Want-To-Be-A-Manager.epub)) to testing the waters before making the jump.  Look for opportunities to try out manager-relevant responsibilities by:
 
 * Mentoring juniors
 * Supervising interns
@@ -36,6 +35,8 @@ Some other resources which might help you:
 * [re:Work new manager training guide](https://rework.withgoogle.com/guides/managers-develop-and-support-managers/steps/review-googles-new-manager-training/) - Google's new manager training gives an idea of what they expect from new managers.
 * [The Leader Lab Book](https://leaderlab.lifelabslearning.com) by Tania Luna and LeeAnn Renninger PhD is a casual and well-thought out introduction to some foundational manager skills, and how to combine them in different combinations.
 * [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/) is a 20,000+ strong community of people who are technical managers or leads, or interested in becoming leads or managers. There are always very interesting discussions going on from which you can learn a lot, on any topic.
+* [This article](https://charity.wtf/2021/01/23/questionable-advice-how-do-i-feel-worthwhile-as-a-manager-when-my-people-are-doing-all-the-implementing/) from Charity Majors is all about the different job satisfaction of being a manager.
+* Practice [active listening](https://rachelhands.com/2020/07/07/active-listening-for-managers/) and paraphrasing while testing outthese manager tasks
 * I'm quite fond of the [Manager-Tools Basics Podcasts](https://www.manager-tools.com/manager-tools-basics), and [their book](https://www.manager-tools.com/products/effective-manager-book), although I don't agree with a lot of the material in the podcasts later material.
 * Finally, you might find the [Research Computing Teams Newsletter](https://www.researchcomputingteams.org/archive) valuable; the core of this ebook, for instance, came from [issue #138](https://www.researchcomputingteams.org/newsletter_issues/0138). 
 
