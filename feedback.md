@@ -27,7 +27,7 @@ Here are some of my current favourite resources for managers starting to give fe
 * I quite like the [Manager-Tools Basics Podcasts](https://www.manager-tools.com/manager-tools-basics), and their [book](https://www.manager-tools.com/products/effective-manager-book), although I don't agree with some of the material in the later podcasts.
 * Lara Hogan has some key advice - [don’t soften tough feedback](https://larahogan.me/blog/tough-love-for-managers-giving-feedback/), and [tough love for managers giving feedback.](https://larahogan.me/blog/tough-love-for-managers-giving-feedback/)
 * Men, we particularly tend to soften feedback to women and other groups not represented well in our teams; [this hurts their career growth](https://hbr.org/2021/02/research-men-get-more-actionable-feedback-than-women).
-* Finally, one-on-ones are a great venue for giving feedback, and [my gide](https://www.researchcomputingteams.org/one-on-ones) has some tips on how to do them well.
+* Finally, one-on-ones are a great venue for giving feedback, and [my guide](https://www.researchcomputingteams.org/one-on-ones) has some tips on how to do them well.
 
 You can also watch my 10-minute talk, [Help, I'm a Research Software Manager!](https://www.researchcomputingteams.org/USRSE2021), which talks about how we in research already have the advanced skills to become great managers - we just need the basics to become good managers, first.
 
