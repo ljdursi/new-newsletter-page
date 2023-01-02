@@ -38,7 +38,8 @@ Some other resources which might help you:
 * Pat Kua's article [Maker vs Multiplier](https://www.patkua.com/blog/maker-vs-multiplier/) describes the difference beetween being an individual contributor (maker) and being a manager (multiplier).
 * [This article](https://charity.wtf/2021/01/23/questionable-advice-how-do-i-feel-worthwhile-as-a-manager-when-my-people-are-doing-all-the-implementing/) from Charity Majors is all about the different job satisfaction of being a manager.
 * Practice [active listening](https://rachelhands.com/2020/07/07/active-listening-for-managers/) and paraphrasing while testing outthese manager tasks.
-* If you're managing or supervising someone, you may find the [RCT guide to One-on-one meetings](https://www.researchcomputingteams.org/one-on-ones) useful.
+* If you're managing or supervising someone, one-on-ones are an important way to keep lines of communication open.  You may find the [RCT guide to One-on-one meetings](https://www.researchcomputingteams.org/one-on-ones) useful as you practice holding them.
+* Similarly, giving feedback, whether for product work or to someone you're supervising, is an important skill.  It's not hard, but it's not done well as often as it shouldould be.  The [RCT guide to feedback](https://www.researchcomputingteams.org/feedback) will help.
 * Finally, you might find the [Research Computing Teams Newsletter](https://www.researchcomputingteams.org/archive) valuable; the core of this ebook, for instance, came from [issue #138](https://www.researchcomputingteams.org/newsletter_issues/0138).
 
 You can also watch my 10-minute talk, [Help, I'm a Research Software Manager!](https://www.researchcomputingteams.org/USRSE2021), which talks about how we in research already have the advanced skills to become great managers - we just need the basics to become good managers, first.
