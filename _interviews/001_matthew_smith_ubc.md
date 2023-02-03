@@ -2,6 +2,8 @@
 layout: podcast
 title: Matthew Smith, ARC Research Systems Manager, University of British Columbia
 date: 2022-11-07
+hero-img: /interviews/001/matthew_smith_ubc.jpeg
+subtitle: "Matthew Smith discusses managing as a new manager as the pandemic hit, finding other teams to work with when we can't do it all, the benefits of communities of practice, the self-doubt that can arise managing more experienced employees, and a coaching approach to being a manager."
 ---
 
 <!-- markdownlint-disable MD033 -->
@@ -20,13 +22,13 @@ On coaching:
 
 On a very rapid increase in workload at the start of the pandemic, and helping the team by saying "no":
 
-> Our biggest challenge [with the onset of the pandemic] was we saw our usage double or triple overnight. We had researchers hadn't even heard of ARC, but they wanted to continue doing their research. And a good portion of that happened within few months of the pandemic becoming a reality. It was easy because the team is really passionate about it and, you know, it was a bunch of new friends, new researchers, new people to learn about and understand what they're trying to accomplish and help them find the solution they needed. 
+> Our biggest challenge [with the onset of the pandemic] was we saw our usage double or triple overnight. We had researchers hadn't even heard of ARC, but they wanted to continue doing their research. And a good portion of that happened within few months of the pandemic becoming a reality. It was easy because the team is really passionate about it and, you know, it was a bunch of new friends, new researchers, new people to learn about and understand what they're trying to accomplish and help them find the solution they needed.
 > But at the same time, we were kind of not becoming aware of how long we were sitting at our desks and we started to feel a sense of burnout after not too long. So being able to step back, recognize that and figure out how we could maybe work smarter about delivering all our services was a challenge. [...]
 > [I had] a willingness to be their bad cop and make that known.  I think knowing that there was someone there to kind of offer a &quot;no&quot; in a way that wasn't gonna put the onus on them helped.
 
 On not trying to do it all by enlisting the support of other teams:
 
-> It seems there's never enough resources to be able to provide everything that researchers need. Our researchers that top in the world and that comes from being incredibly ambitious.  They're not limited by their ideas, but by all the different components to make their ideas for their research study a reality. So [..] it was all about trying to stretch the dollar. To find different avenues or partners, _etc_, to work with to ensure that we're focusing our efforts on where it makes sense. 
+> It seems there's never enough resources to be able to provide everything that researchers need. Our researchers that top in the world and that comes from being incredibly ambitious.  They're not limited by their ideas, but by all the different components to make their ideas for their research study a reality. So [..] it was all about trying to stretch the dollar. To find different avenues or partners, _etc_, to work with to ensure that we're focusing our efforts on where it makes sense.
 
 I really enjoyed the conversation, and I hope you do too!
 
