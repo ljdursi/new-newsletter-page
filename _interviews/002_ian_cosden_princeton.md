@@ -1,6 +1,6 @@
 ---
 layout: podcast
-title: Ian Cosden, Director of RSE, Princeton University
+title: Ian Cosden, Princeton University
 date: 2023-01-09
 hero-img: /interviews/002/ian_cosden_princeton.jpg
 subtitle: "Cosden describes how he grew a team of 17 people from nothing; the importance of researcher testimonials; making space for knowledge sharing and team communication; and how he advocated for and developed a career ladder."
