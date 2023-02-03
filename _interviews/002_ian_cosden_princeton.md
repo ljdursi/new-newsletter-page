@@ -12,7 +12,7 @@ subtitle: "Cosden describes how he grew a team of 17 people from nothing; the im
 
 ## RCT Interview: Director, Research Software Engineering for Computational & Data Science at Princeton University
 
-In this interview, Matthew Smith from the University of British Columbia and I talk about managing as a new manager as the pandemic hit, finding other teams to work with when we can't do it all, the benefits of communities of practice, the self-doubt that can arise managing more experienced employees, and a coaching approach to being a manager.
+In this interview, Ian Cosden and I talk about how he grew a team of 17 people from nothing; the importance of researcher testimonials; making space for knowledge sharing and team communication; and how he advocated for and developed a career ladder.
 
 Some key takeaways for me:
 
