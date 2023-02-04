@@ -33,7 +33,7 @@ And how he advocated for and developped a career ladder.
 
 I really enjoyed the conversation, and I hope you do too!
 
-<audio id="player" controls>
+<audio controls playsinline class="js-player" preload="none">
   <source src='{{ "/interviews/002/ian_cosden_princeton.mp3" | absolute_url }}' type="audio/mp3" />
 </audio>
 

@@ -1,6 +1,6 @@
 ---
 layout: podcast
-title: Matthew Smith, ARC Research Systems Manager, University of British Columbia
+title: Matthew Smith, ARC, UBC
 date: 2022-11-07
 hero-img: /interviews/001/matthew_smith_ubc.jpeg
 subtitle: "Matthew Smith discusses managing as a new manager as the pandemic hit, finding other teams to work with when we can't do it all, the benefits of communities of practice, the self-doubt that can arise managing more experienced employees, and a coaching approach to being a manager."
@@ -32,7 +32,7 @@ On not trying to do it all by enlisting the support of other teams:
 
 I really enjoyed the conversation, and I hope you do too!
 
-<audio id="player" controls>
+<audio controls playsinline class="js-player" preload="none">
   <source src='{{ "/interviews/001/matthew_smith_ubc.mp3" | absolute_url }}' type="audio/mp3" />
 </audio>
 
