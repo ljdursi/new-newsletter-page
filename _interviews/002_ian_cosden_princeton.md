@@ -18,8 +18,7 @@ Some key takeaways for me:
 
 Establishing clear expectations with everyone how hiring an RSE works:
 
-> So there's a proposal process to become a partner and upfront we have some of these documentation to start, but we've since settled on a plan where we have a letter of intent. So a research group, consortium, research department say, "Hey, I'm interested in an RSE as part of your group. And that's about the extent of it."
-So they're going into it knowing what they're signing up for, what it isn't. Some things we've had to say, "Look, this is not a postdoc. This is not a grad student. This is a professional. These are some of the things you can expect from a professional. These are some of the things you cannot expect from a professional."
+> So there's a proposal process to become a partner and upfront we have some of these documentation to start, but we've since settled on a plan where we have a letter of intent. So a research group, consortium, research department say, "Hey, I'm interested in an RSE as part of your group." And that's about the extent of it.  So they're going into it knowing what they're signing up for, what it isn't. Some things we've had to say, "Look, this is not a postdoc. This is not a grad student. This is a professional. These are some of the things you can expect from a professional. These are some of the things you cannot expect from a professional."
 
 The importance of qualitative researcher testimonials:
 
