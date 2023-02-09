@@ -5,7 +5,7 @@ RUN apt update \
 
 # install stork
 WORKDIR /tmp
-RUN wget https://files.stork-search.net/releases/v1.2.1/stork-ubuntu-20-04 \
+RUN wget https://files.stork-search.net/releases/v1.6.0/stork-ubuntu-20-04 \
     && chmod +x stork-ubuntu-20-04 \
     && mv stork-ubuntu-20-04 /usr/local/bin/stork
 
