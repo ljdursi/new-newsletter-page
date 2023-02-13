@@ -1,6 +1,6 @@
 ---
 layout: podcast
-title: University College London Advanced Research Computing
+title: University College London ARC
 date: 2023-01-30
 hero-img: /interviews/003/UCL_ARC_sm.png
 subtitle: "James Heatherington, Jonathan Cooper, Donna Swann, and Chris Langridge from UCL ARC tell me about the work that's gone into their career ladders, levelling and promotions, blended recruitment, and always-open advertisements."
