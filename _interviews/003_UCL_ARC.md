@@ -238,4 +238,4 @@ I think this is going to be really interesting broadly. Great talking to you.
 
 [00:44:27] **Jonathan Cooper:** Pleasure talking to you as well.
 
-[00:44:28] **Donna Swann:** Yeah!
+[00:44:28] **Donna Swann:** Bye!
