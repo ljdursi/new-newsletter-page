@@ -3,14 +3,14 @@ layout: podcast
 title: University College London ARC
 date: 2023-01-30
 hero-img: /interviews/003/UCL_ARC_sm.png
-subtitle: "James Heatherington, Jonathan Cooper, Donna Swann, and Chris Langridge from UCL ARC tell me about the work that's gone into their career ladders, levelling and promotions, blended recruitment, and always-open advertisements."
+subtitle: "James Hetherington, Jonathan Cooper, Donna Swann, and Chris Langridge from UCL ARC tell me about the work that's gone into their career ladders, levelling and promotions, blended recruitment, and always-open advertisements."
 ---
 
 <!-- markdownlint-disable MD033 -->
 
 <img align="right" width="20%" src='{{ "/interviews/003/UCL_ARC_sm.png" | absolute_url }}' alt="Still from the video call">
 
-In this interview, James Heatherington, Jonathan Cooper, Donna Swann, and Chris Langridge from UCL ARC talk about the work they've put in over the past several years to improve hiring, retention, professional advancement, and job role clarity on their team.
+In this interview, James Hetherington, Jonathan Cooper, Donna Swann, and Chris Langridge from UCL ARC talk about the work they've put in over the past several years to improve hiring, retention, professional advancement, and job role clarity on their team.
 
 They went about it quite methodically, taking small steps which at each point solved some problem for them, and laid the foundation for the next:
 
@@ -28,19 +28,19 @@ I really enjoyed the conversation, and I hope you do too!
 
 ----------
 
-## RCT Interview: James Heatherington, Jonathan Cooper, Donna Swann, and Chris Langridge on UCL ARC's Career Pathways and Hiring
+## RCT Interview: James Hetherington, Jonathan Cooper, Donna Swann, and Chris Langridge on UCL ARC's Career Pathways and Hiring
 
 [00:01:07] **Jonathan Dursi:** Hi, everyone. I'm here speaking with the University College London Advanced Research Computing team. In issue 148 we had shared the story about the new &quot;always open&quot; vacancies at UCL ARC. And even more excitingly, it turns out that's just the culmination of a lot of work that's gone into defining professions within research computing and data and defining career ladders. So I'm here to talk with the team today about how this came to be and the problems that it solves. So let's start with introductions. James would you like to introduce yourself?
 
-[00:01:43] **James Heatherington:** I am the director of the UCL Advanced Research Computing center. And I founded the Research Software group at UCL about 10 years ago. But a few years ago, I went off to the Alan Turing Institute where I built a research engineering department at the Alan Turing Institute. I came back to UCL a couple of years ago to found the new Advanced Research Computing department at UCL, which is a hybrid professional services/ academic entity, which is in itself very unusual. And the old Research Software group which I founded, Jonathan continued, is now part of this new department. We've been working for many years to build the professional structures for the kinds of people that contribute to using data and computers and software to do science and scholarship and create a great home for them inside a university. And I think with. With UCL ARC we're on the right direction towards cracking it.
+[00:01:43] **James Hetherington:** I am the director of the UCL Advanced Research Computing center. And I founded the Research Software group at UCL about 10 years ago. But a few years ago, I went off to the Alan Turing Institute where I built a research engineering department at the Alan Turing Institute. I came back to UCL a couple of years ago to found the new Advanced Research Computing department at UCL, which is a hybrid professional services/ academic entity, which is in itself very unusual. And the old Research Software group which I founded, Jonathan continued, is now part of this new department. We've been working for many years to build the professional structures for the kinds of people that contribute to using data and computers and software to do science and scholarship and create a great home for them inside a university. And I think with. With UCL ARC we're on the right direction towards cracking it.
 
 [00:02:42] **Jonathan Dursi:** Thank you. And Donna, could you introduce yourself?
 
 [00:02:45] **Donna Swann:** Hi, I'm Donna Swan. I'm head of the operations and strategy group. Also cheif of staff for ARC. So I'm on the senior leadership team and I head up here the operations and strategy sort of thing. So making sure the department is run from a, both a service delivery point of view, but also research and teaching.
 
-Under me, I have around -is that 20 now in our group. Chris being our departmental manager. And under Chris, there's the finance and administration roles. And then we have quite large delivery group now with a portfolio delivery manager with agile project managers sitting underneath and delivery support. So yeah, we went from two, I think, at the start to about 20 or so of us now.
+Under me, I have around -is that 20 now in our group. Chris being our departmental manager. And under Chris, there's the finance and administration roles. And then we have quite large delivery group now with a portfolio delivery manager with agile project managers sitting underneath and delivery support. So yeah, we went from two, I think, at the start to about 20 or so of us now.  We have a community lead, research enterprise manager and an education lead as well. 
 
-[00:03:25] **Jonathan Dursi:** We have a community lead, research enterprise manager and an education lead as well. That's terrific. And Jonathan, how about you?
+[00:03:25] **Jonathan Dursi:** That's terrific. And Jonathan, how about you?
 
 [00:03:33] **Jonathan Cooper:** Hi, I'm Jonathan Cooper. I'm the head of Research Software Engineering within ARC. And I also lead our collaborations team, which is the part of ARC that runs projects with others, essentially collaborative projects, primarily with UCL researchers. And that's pretty much where the Research Software group started, working on UCL research. But now we do collaborations beyond UCL as well. And indeed as ARC have the explicit permission to lead research in our own into better ways of using technology to support the research endeavor and improving how we ourselves work. So we're I guess in some ways the research arm of ARC.
 
@@ -48,19 +48,19 @@ But actually we try to see everything that ARC does as being capable of producin
 
 I came to UCL six years ago when I got tired of trying to persuade another institution that shall remain nameless that RSE was a good thing and that they should pay for it centrally.
 
-[00:04:38] **James Heatherington:** An extremely old and distinguished UK university.
+[00:04:38] **James Hetherington:** An extremely old and distinguished UK university.
 
 [00:04:41] **Jonathan Cooper:** Yes. And joined UCL. And yeah. Pretty much enjoyed my time here since. And gradually as James says, trying to improve the career prospects for our RSEs and similar professional career structures. Going from the old, &quot;oh, you had a fixed term contract because you were funded for a specific research grant&quot; to actually having a permanent post because we have enough work to support a team. To having a career structure where you're not just stuck at one level of waiting for the next person up to leave and create a vacancy. But there is scope for career progression within the institution on a technical and research technology professional track, not just the traditional academic tracks.
 
 [00:05:27] **Jonathan Dursi:** Terrific. And Chris?
 
-[00:05:28] **Chris Langridge:** Hi. So yeah, I'm Chris Landbridge department manager and as Donna alluded to I'm responsible for the day to day running of the department looking after the admin, the finance, the HR issues, and put into place the items discussed and making sure they work effectively within the department.
+[00:05:28] **Chris Langridge:** Hi. So yeah, I'm Chris Langridge department manager and as Donna alluded to I'm responsible for the day to day running of the department looking after the admin, the finance, the HR issues, and put into place the items discussed and making sure they work effectively within the department.
 
 As James mentioned, ARC is a hybrid department and it sits as a professional services unit within UCL. But it has a research focus so this offers its own challenges and opportunities. So it's trying to make sure that what we want to do can fit in with the way UCL's used to working and doing things.
 
 [00:06:07] **Jonathan Dursi:** Fantastic. James, could you tell me how hiring worked originally at UCL ARC?
 
-[00:06:14] **James Heatherington:** Yeah. So let me wind the story right back if that's alright, Jonathan, to 10 years ago when we first started the research software group.
+[00:06:14] **James Hetherington:** Yeah. So let me wind the story right back if that's alright, Jonathan, to 10 years ago when we first started the research software group.
 
 The conception that we needed to come up with a better way of creating roles for research software developers working with UCL research groups, and create a better way of looking after those people, goes right back to a UCL IT reorganization in 2011, 2012, where there was a general hope from the universities to use more of its IT investment on research and on education, and less on the generics of the IT that any enterprise needs. And in particular that led to the founding of one of the predecessor organizations to UCL ARC, a research IT services organization, which was still then part of the IT department, but specifically had a small team for Research Software Engineers originally sold to the university really on the basis of getting more out of the investment in HPC, because there was somebody to help optimize the codes to work on the UCL clusters and do that kind of thing. And I was at that time working as a post-doc doing fluid dynamics work inside the brain and took on the challenge of trying to create this software function inside the then research IT services.
 
@@ -72,7 +72,7 @@ And it cascaded from there to about 12 people when I left UCL from that job and 
 
 [00:08:53] **Jonathan Cooper:** 30, I think.
 
-[00:08:55] **James Heatherington:** Yeah, and it's now mid forties. So that process has scaled remarkably well of costing people in our grants. It's near impossible to hire 30% of an FTE of a good postdoc. Because we've got a staff pool model, we can do that. And because we're offering a role that's a permanent role rather than the usual precarity of these roles within within the post-doc system, I think we can attract talent. Which makes it an attractive mechanisms for people to use.
+[00:08:55] **James Hetherington:** Yeah, and it's now mid forties. So that process has scaled remarkably well of costing people in our grants. It's near impossible to hire 30% of an FTE of a good postdoc. Because we've got a staff pool model, we can do that. And because we're offering a role that's a permanent role rather than the usual precarity of these roles within within the post-doc system, I think we can attract talent. Which makes it an attractive mechanisms for people to use.
 
 Within research grants, tricks over the years included spotting chances where a postdoc has left six months before the end of the research grant, how can the PI use that money. We've got an RSE knocking around and they could do some work on the code. And that's allowed us to gradually scale it. And that was really one of the key things, my group, and that group in UCL then led by Jonathan, and equivalent groups in Manchester, South Hampton, and obviously the very long running Edinburgh Parallel Computing Center up in Edinburgh, that's really the nucleus of the RSE story in the UK, using that method to scale things.
 
@@ -106,7 +106,7 @@ Then by the time you actually get the advert out, have had it out for sufficient
 
 And you think, &quot;Actually I don't necessarily want another standard RSE at this point. I'd quite like a standard one and a senior one, because I need to increase the management capacity as well as I'm growing the group.&quot; Or you get a pool of candidates at interviews and you say &quot;I've got two very brilliant people here. I didn't want to lose them at this point.&quot;
 
-[00:17:32] **James Heatherington:** Or balancing expertise areas. So an HPC person and a web person or a geology background person, et cetera.
+[00:17:32] **James Hetherington:** Or balancing expertise areas. So an HPC person and a web person or a geology background person, et cetera.
 
 [00:17:40] **Jonathan Cooper:** Yeah. So, both the lack of flexibility and the slowness of University processes certainly made life more difficult than it would ideally be. And three conversations with different people in the HR teams discussing, &quot;Are there ways in which we can do better than this.&quot;
 
@@ -128,7 +128,7 @@ And then at the point where we're actually interviewing, we can look who have we
 
 Because our problem is always not finding enough money. It's finding enough people to do the work that people are asking us to do. We've never been short of work in all the time that the group has existed. And usually we have too much work. And if people come to me and say, &quot;I've got a grant that ends in three months, can you do a bit of work on it?&quot; The answer is usually &quot;No&quot;, or &quot;Yes, if we postpone something else, we'll have a think.&quot; Currently we are full for the next nine months or so.
 
-[00:21:05] **James Heatherington:** Which would be the envy of many private sector consultants , as I keep reminding the team, when we get a bit panicky about it.
+[00:21:05] **James Hetherington:** Which would be the envy of many private sector consultants , as I keep reminding the team, when we get a bit panicky about it.
 
 [00:21:12] **Jonathan Dursi:** So it sounds like step one was simply establishing a track record of having the money when you said you were probably going to have the money. And then once that happened, that unlocked a little bit of flexibility from finance. And then as you were hiring, you were going back and forth with HR, finding ways that they could work with you so that you could do these blended recruitments.
 
@@ -190,11 +190,11 @@ Maybe Jonathan, as one of the line managers. How did that go?
 
 One of the things that we said right at the start, which I think helped was that nobody would be changing grade as a result of the new jobs. Yeah. So if people looked at what was on the Wiki during the consultation phase said &quot;I don't see myself as a grade eight RID, I don't think I meet these criteria.&quot; Then the message was, &quot;The criteria is wrong. It's not you don't measure up, so we need to fix the criteria.&quot;
 
-[00:33:07] **James Heatherington:** There's a boundary condition that everybody was appropriately graded prior to the exercise. That may not have been perfectly true in all cases but a little bit of slight inflation around the edges there was worth it to achieve the assimilation onto the career structure.
+[00:33:07] **James Hetherington:** There's a boundary condition that everybody was appropriately graded prior to the exercise. That may not have been perfectly true in all cases but a little bit of slight inflation around the edges there was worth it to achieve the assimilation onto the career structure.
 
 [00:33:26] **Jonathan Dursi:** Absolutely. That makes perfect sense. And so, so now you have this clarity. Of career paths. I'm curious to hear from you, James. From the ARC-wide point of view, how has this clarity helped? From your point of view, directing the team, but also conversations with new recruits or experienced staff, does this clarity help?
 
-[00:33:52] **James Heatherington:** So I think, first of all, one of the things that is really helpful is having a head of profession reporting to me for each of the five professions. That gives people a sense of who is the lead mentor for that activity, which is different from the person task managing them on research projects.
+[00:33:52] **James Hetherington:** So I think, first of all, one of the things that is really helpful is having a head of profession reporting to me for each of the five professions. That gives people a sense of who is the lead mentor for that activity, which is different from the person task managing them on research projects.
 
 And that's a really important division of labor for me, building leadership team, but it's also important investing in people. As I'm making a new department on this hybrid academic professional services model. With a lot of change and a lot of change continuing, where the roadmap four building the perfect engine for helping people using computers and data and software to do science, is a long and complicated thread. And we need people to feel safe within that and we need people to feel when I'm asking them to do lots, asking them to do more, there is a track by which that will be reflected in compensation, and in seniority, and in title.
 
@@ -232,7 +232,7 @@ So it made it much easier to promote people without actually promoting them beca
 
 I think this is going to be really interesting broadly. Great talking to you.
 
-[00:44:26] **James Heatherington:** Thank you, Jonathan.
+[00:44:26] **James Hetherington:** Thank you, Jonathan.
 
 [00:44:27] **Jonathan Cooper:** Pleasure talking to you as well.
 
