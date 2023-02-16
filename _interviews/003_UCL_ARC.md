@@ -38,7 +38,7 @@ I really enjoyed the conversation, and I hope you do too!
 
 [00:02:45] **Donna Swann:** Hi, I'm Donna Swan. I'm head of the operations and strategy group. Also cheif of staff for ARC. So I'm on the senior leadership team and I head up here the operations and strategy sort of thing. So making sure the department is run from a, both a service delivery point of view, but also research and teaching.
 
-Under me, I have around -is that 20 now in our group. Chris being our departmental manager. And under Chris, there's the finance and administration roles. And then we have quite large delivery group now with a portfolio delivery manager with agile project managers sitting underneath and delivery support. So yeah, we went from two, I think, at the start to about 20 or so of us now.  We have a community lead, research enterprise manager and an education lead as well. 
+Under me, I have around -is that 20 now in our group. Chris being our departmental manager. And under Chris, there's the finance and administration roles. And then we have quite large delivery group now with a portfolio delivery manager with agile project managers sitting underneath and delivery support. So yeah, we went from two, I think, at the start to about 20 or so of us now.  We have a community lead, research enterprise manager and an education lead as well.
 
 [00:03:25] **Jonathan Dursi:** That's terrific. And Jonathan, how about you?
 
