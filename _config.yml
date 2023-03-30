@@ -10,7 +10,6 @@ url: "https://www.researchcomputingteams.org"
 # Build settings
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
 
 sass:
   sass_dir: /assets/sass
