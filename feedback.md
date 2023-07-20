@@ -9,7 +9,7 @@ bgColor: "#2356B6"
 
 <a href="{{ site.baseurl }}/assets/pdfs/feedback.pdf"> <img align="right" width="33%" src="{{ site.baseurl }}/assets/images/feedback-cover.png" alt="Cover page for the Research Computing Teams Considering Becoming A Manager eBook"> </a>
 
-You probably dont't enough feedback from your boss.  Your team members don't, either.
+You probably dont't get enough feedback from your boss.  Your team members don't, either.
 
 Feedback’s vital to calibrate and communicate shared expectations. Feedback is how we acknowledge that people have done a good or great job, meeting or exceeding expectations; and it’s how we give people nudges or start a conversation when they haven’t met expectations.
 
