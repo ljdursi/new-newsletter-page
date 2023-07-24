@@ -5,7 +5,7 @@ title: "Testimonials and Success Stories for Research Software, Data, and Comput
 bgColor: "#2356B6"
 ---
 
-<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD033 MD049 MD025 MD026 -->
 
 <style >
 img.centerimg {
@@ -51,7 +51,7 @@ We need to cover both bases, with as little effort as possible given the demands
 
 There are three audiences our teams need to communicate our stories to.
 
-* **Technical staff** - Job candidates (current and potential) want to see that the team is doing meaningful and technically interesting work, and that individual contributions are recognized.  Current staff want to see their work highlighted and to build a portfolio.  
+* **Technical staff** - Job candidates (current and potential) want to see that the team is doing meaningful and technically interesting work, and that individual contributions are recognized.  Current staff want to see their work highlighted and to build a portfolio.
 * **Researchers** - Potential researcher clients want to hear, _in a fellow researcher's own words_, how valuable the team's contributions were and the concrete impact it had on the success of the effort (faster time to publication, more ambitious project).  The more relevant the story and more compelling the value of the team's contribution, the more they'll be interested in working with you.
 * **Decision makers** - Senior administrators and funders want to see that investments made in the technical research support team is paying off, with successful research projects and satisfied researcher clients.  They, too, want to hear from the researchers about the team's impact; they, however, are looking for a portfolio of impact of specific kinds in particular areas.  These kinds and areas may shift over time.
 
@@ -85,7 +85,6 @@ For technical-audience content, teams tend to already  have multiple points wher
 * Write ups created as part of project milestones or close-outs can produce multiple stories.  Indeed, writing these documents with the public stories in mind tends to make them more interesting and valuable for their original purposes. (Again, AI tools can greatly speed up first drafts of these.)
 
 ![Turning A Presentation Or Writeup Into A Story](../assets/testimonials_success_stories/jonathandursi_a_man_taking_notes_while_a_diverse_computer_progr_27d6f3a1-f876-451c-9866-79638b129853.png){:.centerimg}
-
 
 Making public write-up publishing a consistent part of the process has the advantage of not pre-filtering stories.  The answer to "is this worth writing up?" is "yes".  Communicating successes and accomplishments and new things learned isn't something to be saved for special occasions or major initiatives:
 
@@ -255,7 +254,7 @@ Politely thank them, and ask them if some time in the future would be better.   
 
 From the routine workings of the project you probably have, or have access to, project tickets or emails or WIP talks from the team about the work done.
 
-Once you get a “yes” to an interview, it’s good to start reviewing this material.  It’s a great trove of topics to ask about - whether it’s areas that seemed to cause problems, or interesting techniques.  
+Once you get a “yes” to an interview, it’s good to start reviewing this material.  It’s a great trove of topics to ask about - whether it’s areas that seemed to cause problems, or interesting techniques.
 
 You’re not reviewing the material to get up to speed on what was done - you really want the researcher being interviewed to provide all that information.  But those materials are generally a great source of material for questions.
 
@@ -291,7 +290,7 @@ Here you can settle with just informal discussion with some notes, or an email e
 * What were the challenges the research group faced?
 * What were the biggest challenges, and what was hardest about solving the problem? Were there unusual or interesting complications?
 * What did we recommend, and how did we know to suggest that plan?
-* Was there anything unusual about their use case? 
+* Was there anything unusual about their use case?
 * What expertise & previous experience did we make use of?
 
 ## Doing the interview
@@ -306,17 +305,16 @@ If you have the choice between Zoom and teams, Zoom is better  because you can r
 
 1. Open Zoom and go to “Settings”.
 2. Go to the “Recording” tab.
-3. Turn On “Record a separate audio file for each participant”. 
+3. Turn On “Record a separate audio file for each participant”.
 
 Teams won’t be as good for improving sound quality, but on the other hand you can turn on transcripts when recording, and Teams’ transcriptions is getting stronger and stronger at time of writing.
 
 You’ll need something for creating clean transcripts of video calls and editing video clips.  You might already have tools you like for this, in which case, great.  If not, my favourite tool for this, by a lot, is Descript.   It will transcribe the audio, clean up the sound, help clean up the transcript, and make producing video clips with text captions incredibly easy. The free subscription will get you most of what you need, but the pro version is worth every penny.
  Record locally.  When the talk is over you’ll import the audio tracks and video into Descript or other tool.
 
-
 ### The Interview Itself Is Data Collection, Not A One-Take Film Shoot
 
-I’ve seen people in our position get all weird about the recorded interview, like it’s supposed to be something people watch in its entirety, so it has to be smooth, professional, rehearsed… 
+I’ve seen people in our position get all weird about the recorded interview, like it’s supposed to be something people watch in its entirety, so it has to be smooth, professional, rehearsed…
 
 Don’t worry about this.  No one, not even you, is going to watch this recorded conversation end-to-end.
 
@@ -443,7 +441,7 @@ Short write-ups like this will overwhelmingly have a structure along the lines o
 
 The only real question is what goes where.  Then the work goes into making it compelling to the audience you’re targeting.  For the researcher audience, just using the researcher’s own words to describe the challenge and success goes a long way.
 
-In the Appendix are a couple template structures to get you started (once you learn the structures, you’ll see them everywhere).  
+In the Appendix are a couple template structures to get you started (once you learn the structures, you’ll see them everywhere).
 
 However you write the first draft, use direct quotes, and echo the words the researcher used, as much as possible.
 
@@ -455,11 +453,11 @@ I *never* would have recommended doing video clips for these things five years a
 
 But now video calls are so common, the tools are so straightforward, and the number of venues for  using and sharing short (< 2 minutes, but especially < 30 seconds) videos so plentiful and high-traffic that it seems like a mistake _not_ to do it.
 
-You already know my favourite tool for this, Descript.  Use its tools to clean up the transcript, and add “studio sound” on each track to clean up the audio.  Copy-and-paste the sections of video you want into different compositions in the same project.  Crop your video out of the frame so it’s just the researcher.  Add captions (definitely) and audiogram (maybe), and you’re good to go.  
+You already know my favourite tool for this, Descript.  Use its tools to clean up the transcript, and add “studio sound” on each track to clean up the audio.  Copy-and-paste the sections of video you want into different compositions in the same project.  Crop your video out of the frame so it’s just the researcher.  Add captions (definitely) and audiogram (maybe), and you’re good to go.
 
 You can crop the video to the format you’ll be sharing it on - portrait for TikTok/Youtube Shorts, landscape for everything else, square for something sort-of usable everywhere.
 
-There are other tools worth trying.  At the time of writing, Vidyo.ai is a new-ish tool that promises to automatically pull out helpful video clips from a longer video.  There’s doubtless many others. 
+There are other tools worth trying.  At the time of writing, Vidyo.ai is a new-ish tool that promises to automatically pull out helpful video clips from a longer video.  There’s doubtless many others.
 
 ### Draft of Broad-Audience Writeup of Science Project For The Researcher
 
@@ -591,7 +589,7 @@ You’ll be surprised by how many researchers would rather have a single call an
 
 Yes, with a little attention.
 
-I wouldn’t get someone junior on your team to do it.  Amongst other things, if they’re junior enough it’s not really fair for them to have to come back with possible negative feedback for peers or the team. 
+I wouldn’t get someone junior on your team to do it.  Amongst other things, if they’re junior enough it’s not really fair for them to have to come back with possible negative feedback for peers or the team.
 
 Further, it’s good to show the research clients that the head of the team takes hearing from them seriously.  If it’s someone on your team, probably best if it’s you, unless there’s someone super interested in growing their skills in this direction.  In that case I’d still send them a thank you afterwards, or be involved in some other small way while still letting your team member run with it.
 
@@ -601,7 +599,7 @@ Otherwise, if you work at an institution with a journalism school or communicati
 
 ## Can I Do This For A Project From A Couple Of Years Ago?
 
-Assuredly so! This can be a good way to reconnect with a researcher you haven’t worked with for a while, or to revisit a notable project.  Or just to get started with your library of success stories. 
+Assuredly so! This can be a good way to reconnect with a researcher you haven’t worked with for a while, or to revisit a notable project.  Or just to get started with your library of success stories.
 
 One great advantage of a story from a while ago is that its impact (which is, let’s face it, a little hypothetical when the project is first completed) has become much clearer.  Maybe the paper got the researchers invited to give a prestigious talk, or was a key reason why a proposal for follow-up work was funded.  Those are fantastic things to include in a success story!
 
@@ -619,9 +617,9 @@ For that reason, group conversations can work well even apart from success stori
 
 ## I don’t have time for all of this - how can I make it shorter?
 
-Talking with your clients and hearing how things are going in their work with your team, and what they’re thinking of next, is a _very_ powerful way to spend your time.  So I’d definitely encourage you to do _some_ of the interviews yourself.
+I’d definitely recommend doing _some_ of the interviews yourself.  Talking with your clients and hearing how things are going in their work with your team, and what they’re thinking of next, is a _very_ powerful way to spend our time.
 
-Almost everything else can be effectively delegated - the pre-reading, the write-ups, the video editing.
+Almost everything else can be effectively delegated - the pre-reading, the write-ups, the video editing....
 
 ## But My Writeup Still Isn’t Good Enough To Publish!
 
