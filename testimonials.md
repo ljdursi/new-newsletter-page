@@ -57,7 +57,7 @@ There are three audiences our teams need to communicate our stories to.
 
 [This is 545 words]
 
-![Each Of Our Audiences Needs Something Somewhat Different](../assets/testimonials_success_stories/jonathandursi_a_diverse_computer_programmer_a_diverse_scientist_b6fb1f4a-206b-481f-b2a7-dd247e20c24b.png)
+![Each Of Our Audiences Needs Something Somewhat Different](../assets/testimonials_success_stories/jonathandursi_a_diverse_computer_programmer_a_diverse_scientist_b6fb1f4a-206b-481f-b2a7-dd247e20c24b.png){:.centerimg}
 
 For each case, the more we can echo the audience’s own words back to them, the more effective our success story write-ups will be.
 
@@ -310,7 +310,7 @@ If you have the choice between Zoom and teams, Zoom is better  because you can r
 Teams won’t be as good for improving sound quality, but on the other hand you can turn on transcripts when recording, and Teams’ transcriptions is getting stronger and stronger at time of writing.
 
 You’ll need something for creating clean transcripts of video calls and editing video clips.  You might already have tools you like for this, in which case, great.  If not, my favourite tool for this, by a lot, is Descript.   It will transcribe the audio, clean up the sound, help clean up the transcript, and make producing video clips with text captions incredibly easy. The free subscription will get you most of what you need, but the pro version is worth every penny.
- Record locally.  When the talk is over you’ll import the audio tracks and video into Descript or other tool.
+Record locally.  When the talk is over you’ll import the audio tracks and video into Descript or other tool.
 
 ### The Interview Itself Is Data Collection, Not A One-Take Film Shoot
 
@@ -395,7 +395,7 @@ I tend to ask people if they want those things at the _end_ the interview, when 
 
 ## After The Interview
 
-![Start With Quotes (Even Individual Words) And Sections](../assets/testimonials_success_stories/jonathandursi_retro-style_cartoon_of_a_document_with_underlines_dd3f72f5-fbc1-4014-b36c-9ff174f9785a.png)
+![Start With Quotes (Even Individual Words) And Sections](../assets/testimonials_success_stories/jonathandursi_retro-style_cartoon_of_a_document_with_underlines_dd3f72f5-fbc1-4014-b36c-9ff174f9785a.png){:.centerimg}
 
 ### Pull Strong Quotes & Possible Video Segments Out Of The Transcript
 
