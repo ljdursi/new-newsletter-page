@@ -1,8 +1,8 @@
 ---
 - name: How RCT Can Help
   url: /managers
-# - url: "/jobs"
-#  name: Jobs
+- name: Jobs
+  url: "/jobs"
 - url: "/resources"
   name: Resources
 - url: "/archive"

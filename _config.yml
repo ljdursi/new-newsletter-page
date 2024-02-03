@@ -1,7 +1,5 @@
-# Welcome to Jekyll!
-
 email: jonathan@researchcomputingteams.org
-description: Helping managers of Research Computing and Data teams be more effective and less stressed
+description: Helping managers of technical research support teams reach their potential
 title:  Research Computing Teams
 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -15,10 +13,6 @@ sass:
   sass_dir: /assets/sass
   style: compressed
   sourcemap: always
-
-twitter:
-  account: "@RCTNewsletter"
-  author: "Research Computing Teams"
 
 collections:
   newsletter_issues:
