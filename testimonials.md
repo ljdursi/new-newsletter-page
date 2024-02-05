@@ -320,7 +320,7 @@ Don’t worry about this.  No one, not even you, is going to watch this recorded
 
 This is a data collection process.  You and your colleague are going to have a structured professional discussion during which you’re going to collect information.  The data collected from this discussion will go into blog posts and video clips.  But only after a lot of data cleanup.
 
-You can hesitate, repeat yourself, ask your colleague to rephrase something, run out of your home office for a minute to ask your partner to stop their yodelling practice, whatever.  Don’t worry about it.  We’re just collecting data.
+You can hesitate, repeat yourself, ask your colleague to rephrase something, run out of your home office for a minute to ask your partner to stop their yodeling practice, whatever.  Don’t worry about it.  We’re just collecting data.
 
 ### Jot Reminders - The Transcript Is Your Notes
 
