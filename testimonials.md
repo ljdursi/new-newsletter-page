@@ -230,19 +230,19 @@ Using that milestone as a hook, send a _short_ email asking them to do a call wi
 
 <blockquote>
 Subject: Video Call Discussion For Blog/Social Writeup about [Project Name]<br/>
-
+<br/>
 Hi, [Researcher]:<br/>
-
+<br/>
 We think a lot of people would benefit from hearing about [project] - it’s particularly interesting!<br/>
-
+<br/>
 With [milestone] coming up, we’d like to write up a success story about [project] for our blog and social media, and feedback from you (and a testimonial, if you’re willing) about how it went.  <br/>
-
+<br/>
 A call with you would really help.  I’d love to hear your perspective on the science impact of our work, what *you* found valuable, and what we could do better.<br/>
-
+<br/>
 I’d be happy to provide you with a video clip of you describing the project and it’s science impact, and a writeup of that description for your lab website site & social media, if you’d find that valuable.<br/>
-
+<br/>
 Can I have a recorded 45min call with you [you’ll get this down to ~30 min with practice - LJD] to discuss the project, and then I’ll do the rest?  You’ll get to approve our writeup before we publish anything. <br/>
-
+<br/>
 Thanks!
 </blockquote>
 
@@ -500,18 +500,18 @@ They can tweak the wording of the quotes, if they like — we’re using them as
 In general, so you’re not sitting around waiting for weeks for them to get to this, I usually give a default action by a deadline:
 
 <blockquote>
-Hi, [Researcher]:
-
-Thanks for the discussion on [project]!  I really enjoyed it.
-
-As promised, below is the success story write up.  And here is the pull quote [optional: and video clip] we’ll be using:
-
-[Testimonial quote here]
-
-The plan is to push publish on these [a date, say, a week away].  Let us know there’s anything in there that’s not ok to publish as is!
-
-[If asked for:] Also attached are the video clip of you explaining the project and scientific impact, and a first draft of a write up of same, for use on your lab website and/or social media.
-
+Hi, [Researcher]:<br/>
+<br/>
+Thanks for the discussion on [project]!  I really enjoyed it.<br/>
+<br/>
+As promised, below is the success story write up.  And here is the pull quote [optional: and video clip] we’ll be using:<br/>
+<br/>
+[Testimonial quote here]<br/>
+<br/>
+The plan is to push publish on these [a date, say, a week away].  Let us know there’s anything in there that’s not ok to publish as is!<br/>
+<br/>
+[If asked for:] Also attached are the video clip of you explaining the project and scientific impact, and a first draft of a write up of same, for use on your lab website and/or social media.<br/>
+<br/>
 We look forward to working with you again!
 </blockquote>
 
@@ -564,12 +564,12 @@ The main problem from our point of view is that the testimonial will carry much 
 My approach here is to aim for the best of both worlds.  Do the interview with the trainee, but ask for a followup-call with the PI:
 
 <blockquote>
-Hi, [Researcher]:
-
-Great!  I’ll schedule the call with [trainee].
-
-I’ll send you the write-ups for your approval; may I have a 15 minute  call with you to go over it afterwards and collect your feedback and a quote or two?
-
+Hi, [Researcher]:<br/>
+<br/>
+Great!  I’ll schedule the call with [trainee].<br/>
+<br/>
+I’ll send you the write-ups for your approval; may I have a 15 minute  call with you to go over it afterwards and collect your feedback and a quote or two?<br/>
+<br/>
 Thanks!
 </blockquote>
 
@@ -635,77 +635,77 @@ Not good enough?  Are you kidding?  Have you *seen* the stuff researchers will s
 
 <blockquote>
 <p>Subject: Video Call Discussion For Blog/Social Writeup about [Project Name]</p>
-
+<br/>
 <p>Hi, [Researcher]:</p>
-
+<br/>
 <p>We think a lot of people would benefit from hearing about [project] - it’s particularly interesting!</p>
-
+<br/>
 <p>With [milestone] coming up, we’d like to write up a success story about [project] for our blog and social media, and feedback from you (and a testimonial, if you’re willing) about how it went.</p>
-
+<br/>
 <p>A call with you would really help.  I’d love to hear your perspective on the science impact of our work, what *you* found valuable, and what we could do better.</p>
-
+<br/>
 <p>I’d be happy to provide you with a video clip of you describing the project and it’s science impact, and a writeup of that description for your lab website site & social media, if you’d find that valuable.</p>
-
+<br/>
 <p>Can I have a recorded 45min call with you [you’ll get this down to ~30 min with practice - LJD] to discuss the project, and then I’ll do the rest?  You’ll get to approve our writeup before we publish anything.</p>
-
+<br/>
 Thanks!
 </blockquote>
 
 ### Interview Questions
 
 <blockquote>
-Hi, [interviewee]:
-
-Thanks for agreeing to speak with me about our project!  If you share a few 45 minute slots that would work for you, I’ll find one that I can make.  [If you have calendly/microsoft office scheduling: “or, if it’s more convenient, you can pick a time at this link”].
-
-I’ve attached a couple of images we have from the project; are there others we should use in the success story post or social media links instead, or alongside?
-
-The sorts of questions I usually ask when discussing how the projects went are below.  I might followup questions on things that went particularly well, and with your permission would use that quote as a testimonial.
-
-Tell me about the science of your project.
-
-What is the impact your project will have on the field - what gap does it fill
-
-What special requirements did you have for this project which made it challenging?
-
-What made you think of working with us?
-
-Tell me about how we fit in to the project, and we helped?
-
-What would you have done if we hadn’t been here to help?  What have you done in the past?
-
-What was something you were worried about with this effort and our help?
-
-What did you learn through working with us?
-
-What was your experience throughout the project?  What worked well and what didn’t? What was your favourite and least favourite part?  What was most valuable, and what do you wish had been different?
-
-What would a new faculty member need to know about how our team can help?
-
-What would you recommend us to other researchers for, and why?  What _wouldn't_ you currently recommend us to other researchers for, and why not?
-
-Is there anything else I should be asking about?
-
-Who else would be good for me to talk with, about this project or others?
-
+Hi, [interviewee]:<br/>
+<br/>
+Thanks for agreeing to speak with me about our project!  If you share a few 45 minute slots that would work for you, I’ll find one that I can make.  [If you have calendly/microsoft office scheduling: “or, if it’s more convenient, you can pick a time at this link”].<br/>
+<br/>
+I’ve attached a couple of images we have from the project; are there others we should use in the success story post or social media links instead, or alongside?<br/>
+<br/>
+The sorts of questions I usually ask when discussing how the projects went are below.  I might followup questions on things that went particularly well, and with your permission would use that quote as a testimonial.<br/>
+<br/>
+Tell me about the science of your project.<br/>
+<br/>
+What is the impact your project will have on the field - what gap does it fill<br/>
+<br/>
+What special requirements did you have for this project which made it challenging?<br/>
+<br/>
+What made you think of working with us?<br/>
+<br/>
+Tell me about how we fit in to the project, and we helped?<br/>
+<br/>
+What would you have done if we hadn’t been here to help?  What have you done in the past?<br/>
+<br/>
+What was something you were worried about with this effort and our help?<br/>
+<br/>
+What did you learn through working with us?<br/>
+<br/>
+What was your experience throughout the project?  What worked well and what didn’t? What was your favourite and least favourite part?  What was most valuable, and what do you wish had been different?<br/>
+<br/>
+What would a new faculty member need to know about how our team can help?<br/>
+<br/>
+What would you recommend us to other researchers for, and why?  What _wouldn't_ you currently recommend us to other researchers for, and why not?<br/>
+<br/>
+Is there anything else I should be asking about?<br/>
+<br/>
+Who else would be good for me to talk with, about this project or others?<br/>
+<br/>
 Thanks - look forward to talking with you!
 </blockquote>
 
 ### Approval Email
 
 <blockquote>
-Hi, [Researcher]:
-
-Thanks for the discussion on [project]!  I really enjoyed it.
-
-As promised, below is the success story write up.  And here is the pull quote [optional: and video clip] we’ll be using:
-
-[Testimonial quote here]
-
-The plan is to push publish on these [a date, say, a week away].  Let us know there’s anything in there that’s not ok to publish as is!
-
-[If asked for:] Also attached are the video clip of you explaining the project and scientific impact, and a first draft of a write up of same, for use on your lab website and/or social media.
-
+Hi, [Researcher]:<br/>
+<br/>
+Thanks for the discussion on [project]!  I really enjoyed it.<br/>
+<br/>
+As promised, below is the success story write up.  And here is the pull quote [optional: and video clip] we’ll be using:<br/>
+<br/>
+[Testimonial quote here]<br/>
+<br/>
+The plan is to push publish on these [a date, say, a week away].  Let us know there’s anything in there that’s not ok to publish as is!<br/>
+<br/>
+[If asked for:] Also attached are the video clip of you explaining the project and scientific impact, and a first draft of a write up of same, for use on your lab website and/or social media.<br/>
+<br/>
 We look forward to working with you again!
 </blockquote>
 
@@ -714,38 +714,38 @@ We look forward to working with you again!
 ### Template 1 — Lead with the Science Driver
 
 <blockquote>
-<p>**Title**: How [Team] helped [Researcher] [achieve the science goal] with [thing team did to help].</p>
-
-<p>**Body**:</p>
-
-<p>[Interesting fact from the science background of this project].</p>
-
-<p>In fact, [three sentence summary of the rest of the science background].  [Relevant image about the science problem, if you have one.]</p>
-
-<p>But still unknown is [the question being addressed by the science project.]  [Stated as a question]?</p>
-
-<p>[Researcher] aimed to answer this question by [quick summary of the approach].  By [somewhat more detailed description of the approach], they could [how they’d get the answer out of the approach].</p>
-
-<p>Doing this would answer an open research question in the field.  It would [scientific impact in researcher’s words], leading to [further impact/future questions].  [Link to researcher video clip of them explaining the problem and impact, if you have it.]</p>
-
-<p>But it would mean they need to [thing your team needed to help them with].  The challenge here is [challenge in the researcher’s own words, maybe with direct quote.]</p>
-
-<p>[If applicable: ] [Research group] had tried [doing the thing] different ways in the past with [one messy approach] or [another].  But those approaches had disadvantages - [problems, expressed using their words from the interview, ideally direct quotes].</p>
-
-<p>Working with [researcher], [named people] of the [team name] tackled the problem, bringing [applicable expertise or experience] to bear.</p>
-
-<p>[not-too-technical paragraph or two about interesting challenges and how they were solved, sprinkled with quotes from the team member.  Links to relevant tech stories, if applicable.  False starts, unexpected problems and pivots are great to read about if they happened.]</p>
-
-<p>[Image from completed project]</p>
-
-<p>With that done, [couple sentences of how the completed technical work plugged into the overall science project].</p>
-
-<p>[Quote about the resulting impact from the researcher… “We now know…”].  [Followups and next steps].</p>
-
-<p>[Couple of sentences describing how the technical work made this project faster/more ambitious/possible].  [Testimonial quote from researcher.]</p>
-
-<p>You can find out more about the completed project in [paper citation & link], and more detail about the kind of work we did for it at [relevant tech success story links, if applicable].</p>
-
+<p>**Title**: How [Team] helped [Researcher] [achieve the science goal] with [thing team did to help].</p><br/>
+<br/>
+<p>**Body**:</p><br/>
+<br/>
+<p>[Interesting fact from the science background of this project].</p><br/>
+<br/>
+<p>In fact, [three sentence summary of the rest of the science background].  [Relevant image about the science problem, if you have one.]</p><br/>
+<br/>
+<p>But still unknown is [the question being addressed by the science project.]  [Stated as a question]?</p><br/>
+<br/>
+<p>[Researcher] aimed to answer this question by [quick summary of the approach].  By [somewhat more detailed description of the approach], they could [how they’d get the answer out of the approach].</p><br/>
+<br/>
+<p>Doing this would answer an open research question in the field.  It would [scientific impact in researcher’s words], leading to [further impact/future questions].  [Link to researcher video clip of them explaining the problem and impact, if you have it.]</p><br/>
+<br/>
+<p>But it would mean they need to [thing your team needed to help them with].  The challenge here is [challenge in the researcher’s own words, maybe with direct quote.]</p><br/>
+<br/>
+<p>[If applicable: ] [Research group] had tried [doing the thing] different ways in the past with [one messy approach] or [another].  But those approaches had disadvantages - [problems, expressed using their words from the interview, ideally direct quotes].</p><br/>
+<br/>
+<p>Working with [researcher], [named people] of the [team name] tackled the problem, bringing [applicable expertise or experience] to bear.</p><br/>
+<br/>
+<p>[not-too-technical paragraph or two about interesting challenges and how they were solved, sprinkled with quotes from the team member.  Links to relevant tech stories, if applicable.  False starts, unexpected problems and pivots are great to read about if they happened.]</p><br/>
+<br/>
+<p>[Image from completed project]</p><br/>
+<br/>
+<p>With that done, [couple sentences of how the completed technical work plugged into the overall science project].</p><br/>
+<br/>
+<p>[Quote about the resulting impact from the researcher… “We now know…”].  [Followups and next steps].</p><br/>
+<br/>
+<p>[Couple of sentences describing how the technical work made this project faster/more ambitious/possible].  [Testimonial quote from researcher.]</p><br/>
+<br/>
+<p>You can find out more about the completed project in [paper citation & link], and more detail about the kind of work we did for it at [relevant tech success story links, if applicable].</p><br/>
+<br/>
 <p>Would you like to find out out more about how we helped here, or how we can help with similar problems?  Email as at [email address], or follow and contact us on [relevant social media link].</p>
 </blockquote>
 
@@ -765,29 +765,29 @@ Naming a technology or computational technique won’t.
 With that warning: the basic structure here isn’t all that different, it’s just that the pieces have been rearranged.
 
 <blockquote>
-<p>**Title**: [Relatable Challenge] for [Subdiscipline] - Helping [Scientific Impact]</p>
-
-<p>**Body**:</p>
-
-<p>How do you [do hard but relatable-to-researchers thing: _e.g._ analyze 10,000 samples/collect data from strangers across the internet/protect privacy while analyzing medical data, in the researcher’s own words]?</p>
-
-<p>The challenge here is [challenge in the researcher’s own words, with direct quote.]  But they needed to overcome this - so they could learn [underlying scientific question].</p>
-
-<p>The plan was [basic approach taken by the scientific project].  [Doing the thing] would [how it fits into the project].</p>
-
-<p>And if the project was successful, they’d learn [science goal].  [Background explaining the goal and why it matters].  [Science background image if you have it.]</p>
-
-<p>[If applicable: ] Previous approaches weren’t going to get them there.  [Research group] had tried [doing the thing] different ways in the past with [one messy approach] or [another].  But those approaches had [problems, expressed using their words from the interview, ideally direct quotes].</p>
-
-<p>[Named team members] had an idea.  They had wrestled with similar problems in [previous relevant experience/expertise].</p>
-
-<p>[not-too-technical paragraph or two about interesting challenges and how they were solved, sprinkled with quotes from the team member.  Links to relevant tech stories, if applicable.  False starts, unexpected problems and pivots are great to read about if they happened.]</p>
-
-<p>[Couple of sentences describing how the technical work made this project faster/more ambitious/possible].  [Testimonial quote from researcher.]  [Finished science image if available.]</p>
-
-<p>[Quote about the resulting impact from the researcher… “We now know…”].  [Followups and next steps].</p>
-
-<p>You can find out more about the completed project in [paper citation & link], and more detail about the kind of work we did for it at [relevant tech success story links, if applicable].</p>
-
+<p>**Title**: [Relatable Challenge] for [Subdiscipline] - Helping [Scientific Impact]</p><br/>
+<br/>
+<p>**Body**:</p><br/>
+<br/>
+<p>How do you [do hard but relatable-to-researchers thing: _e.g._ analyze 10,000 samples/collect data from strangers across the internet/protect privacy while analyzing medical data, in the researcher’s own words]?</p><br/>
+<br/>
+<p>The challenge here is [challenge in the researcher’s own words, with direct quote.]  But they needed to overcome this - so they could learn [underlying scientific question].</p><br/>
+<br/>
+<p>The plan was [basic approach taken by the scientific project].  [Doing the thing] would [how it fits into the project].</p><br/>
+<br/>
+<p>And if the project was successful, they’d learn [science goal].  [Background explaining the goal and why it matters].  [Science background image if you have it.]</p><br/>
+<br/>
+<p>[If applicable: ] Previous approaches weren’t going to get them there.  [Research group] had tried [doing the thing] different ways in the past with [one messy approach] or [another].  But those approaches had [problems, expressed using their words from the interview, ideally direct quotes].</p><br/>
+<br/>
+<p>[Named team members] had an idea.  They had wrestled with similar problems in [previous relevant experience/expertise].</p><br/>
+<br/>
+<p>[not-too-technical paragraph or two about interesting challenges and how they were solved, sprinkled with quotes from the team member.  Links to relevant tech stories, if applicable.  False starts, unexpected problems and pivots are great to read about if they happened.]</p><br/>
+<br/>
+<p>[Couple of sentences describing how the technical work made this project faster/more ambitious/possible].  [Testimonial quote from researcher.]  [Finished science image if available.]</p><br/>
+<br/>
+<p>[Quote about the resulting impact from the researcher… “We now know…”].  [Followups and next steps].</p><br/>
+<br/>
+<p>You can find out more about the completed project in [paper citation & link], and more detail about the kind of work we did for it at [relevant tech success story links, if applicable].</p><br/>
+<br/>
 <p>Would you like to find out out more about how we helped here, or how we can help with similar problems?  Email as at [email address], or follow and contact us on [relevant social media link].</p>
 </blockquote>
