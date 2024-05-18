@@ -8,11 +8,17 @@ permalink: /pf_archive
 
 Enter text below to search back issues
 
-<div id="search"></div>
+<div id="pf2search"></div>
 <script>
+if (document.readyState !== 'loading') {
+    console.log('document is already ready, just execute code here');
+    PagefindUI({ element: "#pf2search", showSubResults: true });
+} else {
+    console.log('Adding eventlistner');
     window.addEventListener('DOMContentLoaded', (event) => {
-        new PagefindUI({ element: "#search", showSubResults: true });
+        new PagefindUI({ element: "#pf2search", showSubResults: true });
     });
+}
 </script>
 
 <br/><br/>
