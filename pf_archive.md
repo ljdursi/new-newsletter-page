@@ -9,7 +9,7 @@ permalink: /pf_archive
 Enter text below to search back issues
 
 <div id="pf2search"></div>
-<script>
+<script type="type/javascript">
 if (document.readyState !== 'loading') {
     console.log('document is already ready, just execute code here');
     PagefindUI({ element: "#pf2search", showSubResults: true });
