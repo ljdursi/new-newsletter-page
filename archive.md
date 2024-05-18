@@ -8,10 +8,10 @@ permalink: /archive
 
 Enter text below to search back issues
 
-<div id="search"></div>
+<div id="pf_search"></div>
 <script>
     window.addEventListener('DOMContentLoaded', (event) => {
-        new PagefindUI({ element: "#search", showSubResults: true });
+        new PagefindUI({ element: "#pf_search", pageSize: 20, showSubResults: true });
     });
 </script>
 
