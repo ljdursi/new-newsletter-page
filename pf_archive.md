@@ -12,7 +12,7 @@ Enter text below to search back issues
 <script type="type/javascript">
 if (document.readyState !== 'loading') {
     console.log('document is already ready, just execute code here');
-    PagefindUI({ element: "#pf2search", showSubResults: true });
+    new PagefindUI({ element: "#pf2search", showSubResults: true });
 } else {
     console.log('Adding eventlistner');
     window.addEventListener('DOMContentLoaded', (event) => {
