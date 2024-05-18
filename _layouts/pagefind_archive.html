@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-  {% include head_archive.html %}
-   <link href="/assets/pagefind/pagefind-ui.css" rel="stylesheet">
-   <script src="/assets/pagefind/pagefind-ui.js"></script>
+  {% include head.html %}
 
   <body>
-    <!-- Preloader Start -->
+  <!-- Preloader Start -->
+  <link href="/assets/pagefind/pagefind-ui.css" rel="stylesheet">
+  <script src="/assets/pagefind/pagefind-ui.js"></script>
 	<div class="preloader"></div>
 	<!-- Preloader End -->
     {% include navigation.html %}
@@ -14,6 +14,7 @@
 
       <div class="container my-100">
         <div class="markdown-body">{{content}}</div>
+      </div>
       
     </main>
     	<!-- BACK TO TOP SECTION -->
