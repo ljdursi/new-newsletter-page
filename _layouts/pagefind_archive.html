@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  {% include head_archive.html %}
+   <link href="/assets/pagefind/pagefind-ui.css" rel="stylesheet">
+   <script src="/assets/pagefind/pagefind-ui.js"></script>
+
+  <body>
+    <!-- Preloader Start -->
+	<div class="preloader"></div>
+	<!-- Preloader End -->
+    {% include navigation.html %}
+    {% include hero.html title=page.title bgColor=page.bgColor bgImg=page.bgImg %}
+    <main role="main">
+
+      <div class="container my-100">
+        <div class="markdown-body">{{content}}</div>
+      
+    </main>
+    	<!-- BACK TO TOP SECTION -->
+	<div class="back-to-top bg-gradient-color">
+		<i class="fab fa-angle-up"></i>
+	</div>
+    {% include footer.html %}
+    {% include scripts.html %}
+  </body>
+</html>
