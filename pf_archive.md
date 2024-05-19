@@ -10,15 +10,7 @@ Enter text below to search back issues
 
 <div id="pf2search"></div>
 <script type="type/javascript">
-if (document.readyState !== 'loading') {
-    console.log('document is already ready, just execute code here');
     new PagefindUI({ element: "#pf2search", showSubResults: true });
-} else {
-    console.log('Adding eventlistner');
-    window.addEventListener('DOMContentLoaded', (event) => {
-        new PagefindUI({ element: "#pf2search", showSubResults: true });
-    });
-}
 </script>
 
 <br/><br/>
