@@ -9,12 +9,6 @@ permalink: /pf_archive
 Enter text below to search back issues
 
 <div id="pf2search"></div>
-<script type="type/javascript">
-    console.log('Adding eventlistner');
-    window.addEventListener('DOMContentLoaded', (event) => {
-        new PagefindUI({ element: "#pf2search", showSubResults: true, pageSize: 20, bundlePath: "/assets/pagefind/" });
-    });
-</script>
 
 <br/><br/>
 

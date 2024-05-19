@@ -70,4 +70,11 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/sass-generated/style.css" />
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/responsive.css" />
   <link rel="stylesheet" href="/assets/pagefind/pagefind-ui.css">
+
+ <script src="/assets/pagefind/pagefind-ui.js"></script>
+ <script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#pf2search", showSubResults: true, pageSize: 20, bundlePath: "/assets/pagefind/" });
+    });
+ </script>
 </head>
