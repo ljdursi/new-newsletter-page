@@ -16,11 +16,12 @@
       
     </main>
     	<!-- BACK TO TOP SECTION -->
-	<div class="back-to-top bg-gradient-color">
-		<i class="fab fa-angle-up"></i>
-	</div>
+  	<div class="back-to-top bg-gradient-color">
+	  	<i class="fab fa-angle-up"></i>
+	  </div>
     {% include footer.html %}
     {% include scripts.html %}
+    <script src="/assets/pagefind/pagefind-ui.js"></script>
     <script>
         window.addEventListener('DOMContentLoaded', (event) => {
             new PagefindUI({ element: "#pf2search", showSubResults: true, pageSize: 20, bundlePath: "/assets/pagefind/" });
