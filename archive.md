@@ -1,7 +1,7 @@
 ---
 layout: pagefind_archive
 title: PageFind Archive Search
-permalink: /pf_archive
+permalink: /archive
 ---
 
 <!-- markdownlint-disable MD033 -->
