@@ -1,6 +1,6 @@
 ---
 layout: pagefind_archive
-title: PageFind Archive Search
+title: Archive Search
 permalink: /archive
 ---
 
