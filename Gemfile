@@ -2,7 +2,7 @@ source "https://rubygems.org"
 # jekyll version
 gem "jekyll", "~> 4.1.1"
 # table of contents plugin
-gem 'jekyll-sitemap'
+# gem 'jekyll-sitemap'
 gem 'jekyll-redirect-from'
 gem 'webrick'
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
