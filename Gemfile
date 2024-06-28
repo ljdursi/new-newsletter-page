@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 # jekyll version
 gem "jekyll", "~> 4.1.1"
+gem "ffi"
 # table of contents plugin
 # gem 'jekyll-sitemap'
 gem 'jekyll-redirect-from'

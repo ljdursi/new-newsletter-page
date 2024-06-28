@@ -48,4 +48,4 @@ Other resources presesnted in the talk are below -
 - [The Manager’s Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/): Camille Fournier
 - [Lab Dynamics](https://www.cshlpress.com/default.tpl?action=full&--eqskudatarq=1232&typ=sbt): Cohen & Cohen
 - [Rands (tech) leadership slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/)
-- I have a [weekly link roundup newsletter](https://newsletter.researchcomputingteams.org) on the topic of managing research computing teams.
+- I have a [weekly link roundup newsletter](https://www.researchcomputingteams.org/archive) on the topic of managing research computing teams.

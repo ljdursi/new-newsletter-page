@@ -58,4 +58,4 @@ And, you can always [email me](mailto:jonathan@researchcomputingteams.org) or [a
 
 - [re:Work new manager training guide](https://rework.withgoogle.com/guides/managers-develop-and-support-managers/steps/review-googles-new-manager-training/) - Google
 - [The Manager’s Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) - Camille Fournier
-- I have a [weekly link roundup newsletter](https://newsletter.researchcomputingteams.org) on the topic of managing research computing teams.
+- I have a [weekly link roundup newsletter](https://www.researchcomputingteams.org/archive) on the topic of managing research computing teams.

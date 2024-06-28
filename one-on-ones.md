@@ -45,7 +45,7 @@ Some other resources which might help you:
 * [When a 1:1 turns into a vent session](https://nomadfornow.com/blog/when-1:1-turns-into-vent-session/) - Yihwan Kim<br/>
 * [The Update, The Vent, and The Disaster](https://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/) - Michael Lopp
 * My one-on-one meeting template: [letter](https://docs.google.com/document/d/1uNC2UakkIqiZL22B1J6E2YroSVyQ8rzuiUPQ40dOeU8/edit), [A4](https://docs.google.com/document/d/1z_K_LvnMd5kfLqqqCxkZrOuFe3bitsvOgeKX2epraAU/edit)
-* I have a [weekly link roundup newsletter](https://newsletter.researchcomputingteams.org) on the topic of managing research computing teams.
+* I have a [weekly link roundup newsletter](https://www.researchcomputingteams.org/archive) on the topic of managing research computing teams.
 
 You can also watch my 10-minute talk, [Help, I'm a Research Software Manager!](https://www.researchcomputingteams.org/USRSE2021), which talks about how one-on-ones are one of four things that help us in research become better managers (and connects with the Google new manager training!)
 
