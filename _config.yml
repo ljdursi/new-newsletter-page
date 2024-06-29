@@ -8,6 +8,10 @@ url: "https://www.researchcomputingteams.org"
 # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-last-modified-at
+
+last-modified-at:
+    date-format: '%Y-%m-%d'
 
 sass:
   sass_dir: /assets/sass

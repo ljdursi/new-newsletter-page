@@ -2,7 +2,8 @@
 layout: pagefind_archive
 title: Archive Search
 permalink: /archive
-sitemap_exclude: yes
+sitemap:
+  exclude: 'yes'
 ---
 
 <!-- markdownlint-disable MD033 -->
