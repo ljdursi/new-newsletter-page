@@ -18,7 +18,7 @@ img.centerimg {
 
 # Testimonials and Success Stories for Research Software, Data, and Computing Teams
 
-PDF version available [here](../assets/testimonials_success_stories/testimonial_success_story.pdf).
+PDF version available [here](../assets/testimonials_success_stories/testimonial_success_story.pdf).  You might also be interested in issue #179, [Success Stories Are The Best Advocacy](https://www.researchcomputingteams.org/newsletter_issues/0179)
 
 ![](../assets/testimonials_success_stories/0_1.png){:.centerimg}
 
