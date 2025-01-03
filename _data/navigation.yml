@@ -3,8 +3,6 @@
   url: /managers
 - name: Jobs
   url: "/jobs"
-- url: "/resources"
-  name: Resources
 - url: "/archive"
   name: Newsletter Archive
 - url: "/about"
