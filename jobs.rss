@@ -8,7 +8,7 @@
     <description>Active job postings for research computing team leaders and managers</description>
     <link>https://www.researchcomputingteams.org/jobs</link>
     <atom:link href="https://www.researchcomputingteams.org/jobs.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 28 Dec 2025 03:34:39 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 14:58:18 -0000</lastBuildDate>
 
     <item>
       <title>Group Leader, Software Services Development - Oak Ridge National Laboratory</title>
@@ -68,28 +68,6 @@ One of the largest applications the group develops and maintains is the NCCS cus
     </item>
 
     <item>
-      <title>Computational Biology Lead - Haybury (recruiter)</title>
-      <description><p>We’re supporting a well funded biotech who are seeking an experienced Computational Biology Lead, to guide the real-world application of cutting-edge AI in drug development and translational research.  This is a senior, high-impact role within an innovative company at the intersection of AI and biology. You’ll shape strategy, influence senior stakeholders, and bridge scientific excellence with technological innovation.</p>
-<p><strong>Location:</strong> Various EU</p>
-<p><strong>Categories:</strong> Data Science/ML/AI, Industry, Biomedical</p>
-<p><a href="https://www.linkedin.com/jobs/view/4320673585/?alternateChannel=search&amp;eBP=NOT_ELIGIBLE_FOR_CHARGING&amp;refId=uvxro9NnEecXjBlg8Wwfgw%3D%3D&amp;trackingId=gBJnOzc9au7cZidVEluSgg%3D%3D&amp;trk=d_flagship3_search_srp_jobs">View Job Posting</a></p></description>
-      <pubDate>Sat, 15 Nov 2025 05:00:00 -0000</pubDate>
-      <link>https://www.linkedin.com/jobs/view/4320673585/?alternateChannel=search&amp;eBP=NOT_ELIGIBLE_FOR_CHARGING&amp;refId=uvxro9NnEecXjBlg8Wwfgw%3D%3D&amp;trackingId=gBJnOzc9au7cZidVEluSgg%3D%3D&amp;trk=d_flagship3_search_srp_jobs</link>
-      <guid isPermaLink="false">job-15</guid>
-    </item>
-
-    <item>
-      <title>Data Scientist, AI Model Risk - Royal Bank of Canada</title>
-      <description><p>The AI validation team within RBC’s Enterprise Model Risk Management (RBC Group Risk Management) is tasked with overseeing, assessing, and managing the model risk that may arise from these AI capabilities.  The AI validation team uses machine learning, statistical, and computational strategies to assess model risk. In doing so, RBC is able to identify model weaknesses early and enhance the reliability of production models across all lines of business.</p>
-<p><strong>Location:</strong> Toronto ON or Halifax NS CA</p>
-<p><strong>Categories:</strong> Data Science/ML/AI, Finance, Industry</p>
-<p><a href="https://jobs.rbc.com/ca/en/job/R-0000132482/Senior-Data-Scientist-AI-Model-Risk">View Job Posting</a></p></description>
-      <pubDate>Sat, 15 Nov 2025 05:00:00 -0000</pubDate>
-      <link>https://jobs.rbc.com/ca/en/job/R-0000132482/Senior-Data-Scientist-AI-Model-Risk</link>
-      <guid isPermaLink="false">job-29</guid>
-    </item>
-
-    <item>
       <title>Developer Relations Manager, Quantum Computing - Higher Education and Research - NVIDIA</title>
       <description><p>We’re looking for a passionate technologist with quantum expertise to join our Quantum Developer Relations team. In this role you will be responsible for defining strategic partnerships, leading collaborations, driving SDK adoption, and evangelizing the NVIDIA platform for quantum computing with developers and customers.  Evangelizing and engaging with customers and developers is what this role is all about. You’ll do this by getting into the ecosystem, attending conferences, holding meetups, and building a network of influencers. As a DevRel, you&#x27;ll champion the evolving landscape of quantum computing. By listening to the customer, you understand immediately what they’re trying to do, the technologies they are using, as well as how they map to internally-developed libraries, tools, algorithms, and SDKs.</p>
 <p><strong>Location:</strong> Remote Various USA</p>
@@ -109,17 +87,6 @@ One of the largest applications the group develops and maintains is the NCCS cus
       <pubDate>Sat, 15 Nov 2025 05:00:00 -0000</pubDate>
       <link>https://jobs.chronicle.com/apply/37914242/director-i-research-core-facility-genomics-core?LinkSource=JobDetails</link>
       <guid isPermaLink="false">job-6</guid>
-    </item>
-
-    <item>
-      <title>Director of Data Science Products - Novartis</title>
-      <description><p>Step into a leadership role where innovation meets purpose. As Director of Data Science Products, you’ll drive the adoption of open-source tools that transform clinical trial reporting across Novartis. You’ll lead a strategic team focused on building scalable, high-impact solutions that empower clinical analysts and elevate reporting standards. With a strong focus on agile development, collaboration, and modernization, this role offers the opportunity to shape the future of data science in pharma—while fostering open-source engagement across the industry.</p>
-<p><strong>Location:</strong> Dublin IE</p>
-<p><strong>Categories:</strong> Data Science/ML/AI, Industry, Data Management/Governance, Product Manager, Biomedical</p>
-<p><a href="https://www.linkedin.com/jobs/view/4315443295/?alternateChannel=search&amp;eBP=NOT_ELIGIBLE_FOR_CHARGING&amp;refId=uvxro9NnEecXjBlg8Wwfgw%3D%3D&amp;trackingId=h21J/qp5MLNwniXeAc7UKg%3D%3D&amp;trk=d_flagship3_search_srp_jobs">View Job Posting</a></p></description>
-      <pubDate>Sat, 15 Nov 2025 05:00:00 -0000</pubDate>
-      <link>https://www.linkedin.com/jobs/view/4315443295/?alternateChannel=search&amp;eBP=NOT_ELIGIBLE_FOR_CHARGING&amp;refId=uvxro9NnEecXjBlg8Wwfgw%3D%3D&amp;trackingId=h21J/qp5MLNwniXeAc7UKg%3D%3D&amp;trk=d_flagship3_search_srp_jobs</link>
-      <guid isPermaLink="false">job-14</guid>
     </item>
 
     <item>
@@ -167,17 +134,6 @@ One of the largest applications the group develops and maintains is the NCCS cus
     </item>
 
     <item>
-      <title>High Performance Computing Team Lead, Harvard Medical School - Harvard University</title>
-      <description><p>As the High Performance Computing Team Lead, you will lead the design, engineering, operation, and lifecycle management of high-performance computing (HPC) environments that support scalable and secure research workflows across HMS. You will administer compute clusters, manage workload scheduling systems such as Slurm, support secure and policy-compliant compute platforms, and oversee user access and software environments. In this role, you will set technical direction and execute with operational oversight and collaborating across research and infrastructure teams, to establish and maintain a robust foundation for computational activities and research across the institution.</p>
-<p><strong>Location:</strong> Boston MA USA</p>
-<p><strong>Categories:</strong> HPC, Academia, IC Leadership, Biomedical</p>
-<p><a href="https://careers.harvard.edu/job/high-performance-computing-team-lead-in-boston-ma-united-states-jid-726">View Job Posting</a></p></description>
-      <pubDate>Sat, 15 Nov 2025 05:00:00 -0000</pubDate>
-      <link>https://careers.harvard.edu/job/high-performance-computing-team-lead-in-boston-ma-united-states-jid-726</link>
-      <guid isPermaLink="false">job-32</guid>
-    </item>
-
-    <item>
       <title>Manager, HPC Support Engineering - Lambda Labs</title>
       <description><p>We are looking for a hands-on and customer-focused HPC Support Engineering Manager to lead our Tier III Support Engineering team supporting customers on Lambda’s Private Cloud GPU clusters.  You’ll be responsible for guiding a team of HPC Support Support Engineers, ensuring escalations are handled with speed and consistency, and driving a high standard of technical excellence and customer experience. This role requires both strong technical depth in HPC and the ability to lead, mentor, and collaborate across Support, Product, Engineering, and Sales. You’ll also play a critical role in shaping the supportability of Lambda’s products by representing customer experience in internal discussion</p>
 <p><strong>Location:</strong> Remote USA</p>
@@ -186,17 +142,6 @@ One of the largest applications the group develops and maintains is the NCCS cus
       <pubDate>Sat, 15 Nov 2025 05:00:00 -0000</pubDate>
       <link>https://jobs.ashbyhq.com/lambda/e64d58fe-5ffb-4508-8e18-c99969cca020</link>
       <guid isPermaLink="false">job-22</guid>
-    </item>
-
-    <item>
-      <title>Manager, Innovation Lab, AI - Novartis</title>
-      <description><p>Join our Innovation Lab and be at the forefront of designing and delivering cutting-edge The Manager AI Innovation Lab, Program Design &amp; Delivery sits within the Innovation Lab (iLab), a part of the Marketing Technology Product Management team. The position reports to the Director Innovation Lab, AI Innovation. In this role, you will join a highly innovative and entrepreneurial group with a focus on accelerating Marketing AI Use Cases in supporting the US. With a deep expertise in AI, large language models (LLM), and natural language processing (NLP) you will help execute on our AI Innovation Strategy and be accountable to design and develop AI solutions lead the experimentation of innovative AI-driven solutions and services aligned to Integrated Marketing organisation objectives. We think differently here; we are constantly thinking about tomorrow, and we are designing the future— today.</p>
-<p><strong>Location:</strong> Dublin IE</p>
-<p><strong>Categories:</strong> Data Science/ML/AI, Industry, Biomedical</p>
-<p><a href="https://www.linkedin.com/jobs/view/4339766163/?alternateChannel=search&amp;eBP=NOT_ELIGIBLE_FOR_CHARGING&amp;refId=Tts/+SfXzq6gH0oTGx+W9A%3D%3D&amp;trackingId=+I+HVb0VG8xUoT7+iUrIyw%3D%3D&amp;trk=d_flagship3_search_srp_jobs">View Job Posting</a></p></description>
-      <pubDate>Sat, 15 Nov 2025 05:00:00 -0000</pubDate>
-      <link>https://www.linkedin.com/jobs/view/4339766163/?alternateChannel=search&amp;eBP=NOT_ELIGIBLE_FOR_CHARGING&amp;refId=Tts/+SfXzq6gH0oTGx+W9A%3D%3D&amp;trackingId=+I+HVb0VG8xUoT7+iUrIyw%3D%3D&amp;trk=d_flagship3_search_srp_jobs</link>
-      <guid isPermaLink="false">job-12</guid>
     </item>
 
     <item>
@@ -266,17 +211,6 @@ One of the largest applications the group develops and maintains is the NCCS cus
     </item>
 
     <item>
-      <title>R&amp;D Senior Scientific Data Architect and Product Owner - Chiesi Group (Recruiter)</title>
-      <description><p>As part of Chiesi’s global R&amp;D transformation, we are building a unified R&amp;D Data Ecosystem anchored by the creation of a next-generation central repository, data governance, and semantic platforms. This strategic initiative aims to bring together people, platforms, and processes to establish a trusted, connected, and intelligent data foundation for entire R&amp;D.</p>
-<p><strong>Location:</strong> Various EU</p>
-<p><strong>Categories:</strong> Industry, Data Management/Governance, Biomedical</p>
-<p><a href="https://www.linkedin.com/jobs/view/4331493921/?alternateChannel=search&amp;eBP=NOT_ELIGIBLE_FOR_CHARGING&amp;refId=uvxro9NnEecXjBlg8Wwfgw%3D%3D&amp;trackingId=DeyHfHeoul++oO0uvgXqZA%3D%3D&amp;trk=d_flagship3_search_srp_jobs">View Job Posting</a></p></description>
-      <pubDate>Sat, 15 Nov 2025 05:00:00 -0000</pubDate>
-      <link>https://www.linkedin.com/jobs/view/4331493921/?alternateChannel=search&amp;eBP=NOT_ELIGIBLE_FOR_CHARGING&amp;refId=uvxro9NnEecXjBlg8Wwfgw%3D%3D&amp;trackingId=DeyHfHeoul++oO0uvgXqZA%3D%3D&amp;trk=d_flagship3_search_srp_jobs</link>
-      <guid isPermaLink="false">job-13</guid>
-    </item>
-
-    <item>
       <title>Research Program Manager, Genetics &amp; Genome Biology - Hospital for Sick Children</title>
       <description><p>National and International collaborations are important in research, especially when integrating basic, translational and clinical research in the field of childhood, adolescent and young adult oncology. We are currently seeking a Program Manager to join our team. In this role you will be a key member of a national team and will be responsible for the facilitation, coordination and management of collaborations within Canada and Internationally.  The national team includes experts in clinical care, genomics, proteomics, biomarker analysis, pathology, biobanking, bioinformatics, drug development, clinical trials, regulatory affairs, patient advocacy, and bioethics. Working closely with Leadership Committee Members, the Program Manager will be responsible for the day-to-day operations that are needed to accomplish tasks and deliverables needed for the success of the collaborations. This will involve liaising and coordinating with and supporting staff, and maintaining and developing relationships with collaborating institutions, consortium and networks across Canada and internationally. The Program Manager position requires a proactive and action-oriented individual with excellent organizational, interpersonal, and problem-solving skills. The ideal candidate is familiar with the current state of cancer genetics and genomics, research ethics, data completion, privacy, protection and sharing, and stakeholder management.</p>
 <p><strong>Location:</strong> Toronto ON CA</p>
@@ -338,17 +272,6 @@ leadership.</p>
     </item>
 
     <item>
-      <title>Sr Manager Bioinformatics, Chip Design - Thermo Fisher Scientific</title>
-      <description><p>As the Senior Manager, Bioinformatics, you will manage and provide technical leadership to our genetic sciences bioinformatics team responsible for custom array designs for genetic analysis in research, human health, and agricultural genomics. Leading this team requires a good understanding of both population-scale studies as well as an understanding of the importance of a variety of individual markers that might be important in a given study. You will partner with R&amp;D bioinformatics leaders to ensure we are applying the state-of-the-art array design capabilities in a consistent high throughput setting. This position reports directly to the Director, Microarray Laboratory and Bioinformatics Services.</p>
-<p><strong>Location:</strong> Santa Clara CA USA</p>
-<p><strong>Categories:</strong> Data Science/ML/AI, Industry, Biomedical</p>
-<p><a href="https://jobs.thermofisher.com/global/en/job/R-01329152/Sr-Manager-Bioinformatics-Chip-Design">View Job Posting</a></p></description>
-      <pubDate>Sat, 15 Nov 2025 05:00:00 -0000</pubDate>
-      <link>https://jobs.thermofisher.com/global/en/job/R-01329152/Sr-Manager-Bioinformatics-Chip-Design</link>
-      <guid isPermaLink="false">job-20</guid>
-    </item>
-
-    <item>
       <title>Sr. Product Manager, Genomics Software - Agilent</title>
       <description><p>Agilent’s Genomics Division develops high-quality, innovative product offerings, and we are looking for a Senior Product Manager to join our NGS Team.  The Product Manager in this role will be responsible for developing and managing our NGS software partnerships (for secondary and tertiary analysis) in support of Agilent’s SureSelect and Avida NGS target enrichment products with a focus on development and execution of strategies in the oncology market.</p>
 <p><strong>Location:</strong> Santa Clara CA USA</p>
@@ -368,17 +291,6 @@ leadership.</p>
       <pubDate>Sat, 15 Nov 2025 05:00:00 -0000</pubDate>
       <link>https://careers.rpi.edu/en-us/job/495570/technical-lead-hpc-ai</link>
       <guid isPermaLink="false">job-9</guid>
-    </item>
-
-    <item>
-      <title>Director, Research IT - University at Buffalo</title>
-      <description><p>The University at Buffalo (UB), a leading public research university and member of the SUNY system, seeks a strategic and collaborative leader to serve as Director for Research IT. This role will advance UB’s research mission by aligning cutting-edge information technologies with the university’s research priorities, fostering innovation, and enhancing digital infrastructure in close partnership with the Office of the Vice President for Research and Economic Development. This is a campus based position with the possibility of hybrid work.</p>
-<p><strong>Location:</strong> Buffalo NY USA</p>
-<p><strong>Categories:</strong> Data Systems, HPC, Data Management/Governance</p>
-<p><a href="https://www.ubjobs.buffalo.edu/postings/59873">View Job Posting</a></p></description>
-      <pubDate>Fri, 07 Nov 2025 05:00:00 -0000</pubDate>
-      <link>https://www.ubjobs.buffalo.edu/postings/59873</link>
-      <guid isPermaLink="false">job-33</guid>
     </item>
 
     <item>
@@ -456,17 +368,6 @@ leadership.</p>
       <pubDate>Sun, 20 Apr 2025 04:00:00 -0000</pubDate>
       <link>https://www.nature.com/naturecareers/job/12838939#application-form</link>
       <guid isPermaLink="false">job-42</guid>
-    </item>
-
-    <item>
-      <title>Director - Responsible AI - Microsoft</title>
-      <description><p>As a Senior Program Director for Responsible AI you will work hand in hand with the safety, engineering and product management teams building and deploying Copilot across the Microsoft product suite, and liaise colleagues in the Office of Responsible AI to ensure that our principles and commitments are met in a timely and product-first manner enabling execution at pace, deployment at scale and good governance throughout. You will define industry leading process and partner on creative engineering solutions that will set the benchmark for the future.</p>
-<p><strong>Location:</strong> Redmond WA USA or London UK</p>
-<p><strong>Categories:</strong> Cloud, Data Science/ML/AI, Industry, Data Management/Governance</p>
-<p><a href="https://microsoftai.eightfold.ai/careers/job/1970324837008618?domain=microsoftai.com">View Job Posting</a></p></description>
-      <pubDate>Sun, 13 Apr 2025 04:00:00 -0000</pubDate>
-      <link>https://microsoftai.eightfold.ai/careers/job/1970324837008618?domain=microsoftai.com</link>
-      <guid isPermaLink="false">job-53</guid>
     </item>
 
     <item>
@@ -1012,17 +913,6 @@ Continuously focus on technology improvement, optimization, and process enhancem
     </item>
 
     <item>
-      <title>Core Facility Manager (SRI) - Biological Sciences - Sunnybrook Health Sciences Centre</title>
-      <description><p>A position is available for a Core Facility Manager of a Stem Cell and Organoid Core Facility in an academic research hospital that offers a collaborative environment with diverse expertise. We are looking for a dynamic and motivated individual to be responsible for the organization and smooth running of the facility, overseeing pluripotent stem cell production and maintenance and organoid production, ensuring that required safety standards are met, and supporting and assisting academic researchers with ongoing research projects.</p>
-<p><strong>Location:</strong> Toronto ON CA</p>
-<p><strong>Categories:</strong> Biomedical, Core Facility</p>
-<p><a href="https://sunnybrook.ca/content/?JobId=10284&amp;session=1e6bd5e0e21d4ad98d48ba67a106b21c&amp;p=/Cands/Job.aspx&amp;page=careers-search#careersIFrame">View Job Posting</a></p></description>
-      <pubDate>Sun, 26 Jan 2025 05:00:00 -0000</pubDate>
-      <link>https://sunnybrook.ca/content/?JobId=10284&amp;session=1e6bd5e0e21d4ad98d48ba67a106b21c&amp;p=/Cands/Job.aspx&amp;page=careers-search#careersIFrame</link>
-      <guid isPermaLink="false">job-147</guid>
-    </item>
-
-    <item>
       <title>Data Lead/Bioinformatician - Queen Mary University of London</title>
       <description><p>An exciting opportunity has arisen for a person to lead Data Management requirements for the Barts BioResource in preparation for relaunch, expansion and beyond. They will plan and deliver data management initiatives to address retrospective and prospective data for legacy cohorts. The successful candidate will be responsible for overseeing and managing those data systems, ensuring the integrity, availability and security of Barts Bioresource data.</p>
 <p><strong>Location:</strong> London UK</p>
@@ -1342,17 +1232,6 @@ Continuously focus on technology improvement, optimization, and process enhancem
     </item>
 
     <item>
-      <title>Executive Director, Princeton Quantum Initiative - Princeton University</title>
-      <description><p>The Princeton Quantum Initiative (PQI), a newly established administrative support structure, seeks an Executive Director (ED) to advance its mission of facilitating quantum research initiatives at Princeton. PQI&#x27;s mission is to bring together the vibrant community of faculty and students across engineering and the natural sciences who work on a wide range of topics in quantum information science.  The Executive Director (ED) will work with two co-Directors in devising and executing the strategic direction of the initiative. The ED will act as a creative problem solver, will help to envision and develop new programming, coordinate new interdisciplinary initiatives, and establish and manage marketing and branding strategies. The ED will develop and manage the initiative&#x27;s budget in coordination with the Directors, oversee grant proposal production, and handle day-to-day operations. Responsibilities also include cultivating research collaborations, managing communications, representing the Directors at meetings and public events, and overseeing reporting for both University and external stakeholders.</p>
-<p><strong>Location:</strong> Princeton NJ USA</p>
-<p><strong>Categories:</strong> Quantum Computing, Academia</p>
-<p><a href="https://main-princeton.icims.com/jobs/20229/executive-director%2c-princeton-quantum-initiative/job?hub=15&amp;_gl=1*c5pztd*_ga*NTAxMDAyNDkwLjE2ODEyNDExOTQ.*_ga_5Y2BYGL910*MTczMzY2MzE1Ni4xMTQuMS4xNzMzNjYzMjQxLjQyLjAuMA..">View Job Posting</a></p></description>
-      <pubDate>Sun, 08 Dec 2024 05:00:00 -0000</pubDate>
-      <link>https://main-princeton.icims.com/jobs/20229/executive-director%2c-princeton-quantum-initiative/job?hub=15&amp;_gl=1*c5pztd*_ga*NTAxMDAyNDkwLjE2ODEyNDExOTQ.*_ga_5Y2BYGL910*MTczMzY2MzE1Ni4xMTQuMS4xNzMzNjYzMjQxLjQyLjAuMA..</link>
-      <guid isPermaLink="false">job-209</guid>
-    </item>
-
-    <item>
       <title>Principal GPU Software Engineer - Roche</title>
       <description><p>Roche Sequencing is developing ground-breaking next-generation sequencing products that allow scientists/clinicians powerful new avenues to investigate DNA, the blueprint of any lifeforms, in days, giving them the ability to understand health conditions such as cancer, HIV, COVID19 and more!  Work closely with research and algorithm experts, accelerating bioinformatics techniques using GPU hardware.  Proficient in developing GPU-accelerated software in C/C++, with familiarity in Python for signal processing numerical analytics. Support software development lifecycle and Design Control process, working closely with team members to continuously improve quality and feature sets of the software products, based on technical design and requirements specifications</p>
 <p><strong>Location:</strong> Santa Clara CA USA or Mississauga ON CA</p>
@@ -1586,17 +1465,6 @@ The Head of Data (TransiT) will lead on the hubs data and software applications 
     </item>
 
     <item>
-      <title>Senior Director, New Technology Deployments (Data Centers) - Microsoft Azure</title>
-      <description><p>The Senior Director, New Technology Deployments (Data Centers) is a critical role within the Data Center Operations team reporting to the VP, Datacenter Operations Americas.  In this role you will be driving the adoption and implementation of cutting-edge liquid-cooled AI Super-Clusters, these solutions are a part of the industry’s transition towards energy-efficient technology.</p>
-<p><strong>Location:</strong> Various USA</p>
-<p><strong>Categories:</strong> Cloud, Datacentres, Ops/Automation</p>
-<p><a href="https://jobs.careers.microsoft.com/global/en/share/1779921/">View Job Posting</a></p></description>
-      <pubDate>Sun, 03 Nov 2024 04:00:00 -0000</pubDate>
-      <link>https://jobs.careers.microsoft.com/global/en/share/1779921/</link>
-      <guid isPermaLink="false">job-260</guid>
-    </item>
-
-    <item>
       <title>Assistant Director, Research Collaborative Services - Technology Services - University of Illinois Urbana Champaign</title>
       <description><p>The Assistant Director of Research Collaborative Services is a strategic leadership role focused on enhancing research productivity and innovation through cross-campus collaboration. Unlike traditional service-driven roles, this position prioritizes building partnerships and facilitating collaboration across various research support units, including engaging with fellow directors and key stakeholders throughout the university. The Assistant Director plays a vital role in creating a unified approach to research support, fostering a culture of cooperation, and integrating services that directly support the university&#x27;s strategic goals.</p>
 <p><strong>Location:</strong> Urbana IL USA</p>
@@ -1751,17 +1619,6 @@ The Head of Data (TransiT) will lead on the hubs data and software applications 
     </item>
 
     <item>
-      <title>Staff Technical Program Manager - IonQ</title>
-      <description><p>We are looking for a Staff-level Technical Program Manager. As such, you’ll be part of a cross-functional team whose mission is to lead IonQ on its journey to build the world’s best quantum computers to solve the world’s most complex problems.   In this role, you will facilitate the successful execution of research and development projects by overseeing project planning, coordination, risk management, technical oversight, and stakeholder management. Your leadership and expertise will play a crucial role in driving innovation and ensuring the successful development of groundbreaking technologies in quantum computing.</p>
-<p><strong>Location:</strong> College Park MD USA</p>
-<p><strong>Categories:</strong> Quantum Computing, IC Leadership, Project/Program Manager</p>
-<p><a href="https://ionq.com/careers/5309228004">View Job Posting</a></p></description>
-      <pubDate>Mon, 14 Oct 2024 04:00:00 -0000</pubDate>
-      <link>https://ionq.com/careers/5309228004</link>
-      <guid isPermaLink="false">job-284</guid>
-    </item>
-
-    <item>
       <title>Artificial Intelligence (AI) Accelerator Lead Technical Program Manager (TPM) - Microsoft</title>
       <description><p>You will collaborate deeply with leaders across the Commercial Solution Areas to prioritize and build AI (Artificial Intelligence) solutions grounded in consistent architectures that have proven repeatability with customers. These solutions will mature our sales motions in the field. You will work with AI engineering product groups to advocate for customers and partners in relevant product strategy. Similarly, you will work closely with AI marketing, sales excellence teams, and customer success + delivery organizations to integrate gold standard assets and methodologies into existing go-to-market motions and prioritization of key AI use cases that drive differentiated business outcomes.</p>
 <p><strong>Location:</strong> Various USA</p>
@@ -1781,17 +1638,6 @@ The Head of Data (TransiT) will lead on the hubs data and software applications 
       <pubDate>Sun, 06 Oct 2024 04:00:00 -0000</pubDate>
       <link>https://vcu.csod.com/ux/ats/careersite/1/home/requisition/5465?c=vcu</link>
       <guid isPermaLink="false">job-293</guid>
-    </item>
-
-    <item>
-      <title>Floods and Droughts Research Infrastructure (FDRI) Innovation Manager - Imperial College London</title>
-      <description><p>Duties will include the scoping and identification of relevant new technologies for flood and drought monitoring and analysis, the development and implementation of an innovation testbed programme, and the development and delivery of training, community engagement, and innovation activities such as hackatons and early tester opportunities.</p>
-<p><strong>Location:</strong> London UK</p>
-<p><strong>Categories:</strong> Academia, Core Facility</p>
-<p><a href="https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=21003&amp;jobTitle=Floods+and+Droughts+Research+Infrastructure+(FDRI)+Innovation+Manager">View Job Posting</a></p></description>
-      <pubDate>Sun, 06 Oct 2024 04:00:00 -0000</pubDate>
-      <link>https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=21003&amp;jobTitle=Floods+and+Droughts+Research+Infrastructure+(FDRI)+Innovation+Manager</link>
-      <guid isPermaLink="false">job-295</guid>
     </item>
 
     <item>
@@ -1836,17 +1682,6 @@ The Head of Data (TransiT) will lead on the hubs data and software applications 
       <pubDate>Sun, 06 Oct 2024 04:00:00 -0000</pubDate>
       <link>https://jobs.bostonscientific.com/job/Waltham-Senior-R&amp;D-Software-Manager-%28Visualization-&amp;-Workflow%29-Electrophysiology-MA-02138/1220007400/</link>
       <guid isPermaLink="false">job-306</guid>
-    </item>
-
-    <item>
-      <title>Technical Project Manager - Optiver</title>
-      <description><p>Optiver is seeking a Technical Project Manager to support and drive the company&#x27;s technology strategy. This role involves managing some of the firm&#x27;s most complex projects in a highly technical environment where every nanosecond counts.  In this role, you will bring a solid theoretical foundation and/or proven track record in engineering. You have demonstrated success in efficiently leading complex projects to completion in your previous roles. Your project management skills ensure that you can guide a project team to success, even when facing ambiguity. You approach complex problems with pragmatic solutions and are eager to understand the technical context of the projects you manage. You communicate clearly and effectively, tailoring your messaging to suit both engineers on your project teams and the management board.</p>
-<p><strong>Location:</strong> Chicago IL USA</p>
-<p><strong>Categories:</strong> Industry, Project/Program Manager</p>
-<p><a href="https://optiver.com/working-at-optiver/career-opportunities/7536312002/">View Job Posting</a></p></description>
-      <pubDate>Sun, 06 Oct 2024 04:00:00 -0000</pubDate>
-      <link>https://optiver.com/working-at-optiver/career-opportunities/7536312002/</link>
-      <guid isPermaLink="false">job-305</guid>
     </item>
 
     <item>
@@ -1971,17 +1806,6 @@ The Head of Data (TransiT) will lead on the hubs data and software applications 
     </item>
 
     <item>
-      <title>Principal Applied Researcher, Microsoft Quantum - Microsoft</title>
-      <description><p>Microsoft Quantum has assembled a talented and diverse international team to create the world’s first scalable quantum computing system. Our full-stack approach involves exciting innovation from the physics at the quantum plane to providing global quantum services. You will help develop novel approaches to fault-tolerance in quantum computing in collaboration with our world-class team of theorists and experimentalists, with the goal of accelerating our trajectory towards useful and resilient quantum computers. You will thrive in this role if you love qubits (logical and physical), quantum error correction codes, collaboration, creative problem solving, and if you are excited about building a scalable quantum computer.</p>
-<p><strong>Location:</strong> Redmond WA USA</p>
-<p><strong>Categories:</strong> Cloud, Quantum Computing, Industry, IC Leadership</p>
-<p><a href="https://jobs.careers.microsoft.com/global/en/share/1767902/">View Job Posting</a></p></description>
-      <pubDate>Sun, 29 Sep 2024 04:00:00 -0000</pubDate>
-      <link>https://jobs.careers.microsoft.com/global/en/share/1767902/</link>
-      <guid isPermaLink="false">job-333</guid>
-    </item>
-
-    <item>
       <title>Program Manager, AI &amp; Society - CIFAR</title>
       <description><p>Reporting to the Director, Pan-Canadian AI Strategy, the Program Manager, AI &amp; Society, will lead the management of the AI &amp; Society program and its related activities, as part of the Pan-Canadian AI Strategy.  Provide institutional support and guidance to CIFAR Solution Networks and their related activities. Support and maintain relationships with network co-directors, and network members through attending meetings and other formal and informal network meetings.  Work with the Director, Pan-Canadian AI Strategy and Network leadership to develop and implement network engagement meetings and activities</p>
 <p><strong>Location:</strong> Toronto ON CA</p>
@@ -2034,17 +1858,6 @@ The Head of Data (TransiT) will lead on the hubs data and software applications 
       <pubDate>Sun, 22 Sep 2024 04:00:00 -0000</pubDate>
       <link>https://hr.myu.umn.edu/jobs/ext/363926</link>
       <guid isPermaLink="false">job-345</guid>
-    </item>
-
-    <item>
-      <title>Data Science Program Manager - Imperial College of London</title>
-      <description><p>We are seeking a Program Manager to support a newly appointed BHF Chair of Cardiovascular AI and the operation of a Cardiovascular Data Science Hub.  You will be working with Prof O’Regan and his team to support a program of research using cardiovascular imaging, genetics and health data to discover disease mechanisms and predict outcomes. You will work within a diverse multidisciplinary team of computer scientists, geneticists and clinicians exploring large and complex datasets.  You will have a key role in the team managing data science resources and analysis pipelines, providing expert support to researchers, and liaising with our research partners.</p>
-<p><strong>Location:</strong> London UK</p>
-<p><strong>Categories:</strong> Data Science/ML/AI, Academia, Biomedical</p>
-<p><a href="https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=20854&amp;jobTitle=Data+Science+Program+Manager">View Job Posting</a></p></description>
-      <pubDate>Sun, 22 Sep 2024 04:00:00 -0000</pubDate>
-      <link>https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=20854&amp;jobTitle=Data+Science+Program+Manager</link>
-      <guid isPermaLink="false">job-341</guid>
     </item>
 
     <item>
@@ -2633,17 +2446,6 @@ Brook is undertaking high-profile initiatives. These include becoming a flagship
     </item>
 
     <item>
-      <title>Senior Technical Program Manager, High Performance Computing (HPC) and Artificial Intelligence (AI) - Microsoft</title>
-      <description><p>The Azure High Performance Computing (HPC) and Artificial Intelligence (AI) product team drives the hardware roadmap, software, and services that enable our users and partners to run technical computing workloads in Azure - HPC simulations, AI &amp; machine learning, remote visualization, and immersive gaming experiences. The Customer Solutions and Innovations (CSI) team is part of the HPC and AI product team in Azure Engineering and focuses on in-bound product feedback born from hands-on customer and partner engagements. The CSI team works closely with important customers, ISVs and system integrators on some of the largest and most interesting development and delivery projects for Microsoft. This role is fully remote, and successful candidates can be located anywhere within the USA. Travel would eventually be 25-50% and the role requires the ability to work with clients remotely.</p>
-<p><strong>Location:</strong> Remote USA</p>
-<p><strong>Categories:</strong> Cloud, Data Science/ML/AI, HPC, Industry</p>
-<p><a href="https://jobs.careers.microsoft.com/global/en/share/1745712/">View Job Posting</a></p></description>
-      <pubDate>Sun, 11 Aug 2024 04:00:00 -0000</pubDate>
-      <link>https://jobs.careers.microsoft.com/global/en/share/1745712/</link>
-      <guid isPermaLink="false">job-484</guid>
-    </item>
-
-    <item>
       <title>Director, Quantum Computing Applied Research - NVIDIA</title>
       <description><p>At NVIDIA, we’re solving the world’s most exciting problems with our unique approach to accelerated computing. We’re looking for passionate technologists with deep quantum computing domain expertise to lead technical path-finding. As Director for Quantum Computing Applied Research, you&#x27;ll lead our technical path-finding efforts, working with cross functional teams in Product, Engineering and Applied Research to develop innovative technologies that advance the state of Quantum Computing and intercept NVIDIA products.  The Quantum Computing organization is a small, strong, and visible group both inside and outside of NVIDIA while Quantum Information Science is an exciting area to drive strategy. We need a self-starting leader to continue to grow this area. Do you have the rare blend of both technical and product skills with a passion for groundbreaking technology? If so, we would love to learn more about you!</p>
 <p><strong>Location:</strong> Santa Clara CA USA</p>
@@ -3202,18 +3004,6 @@ Brook is undertaking high-profile initiatives. These include becoming a flagship
       <pubDate>Sat, 15 Jun 2024 04:00:00 -0000</pubDate>
       <link>https://careers.adelaide.edu.au/cw/en/job/514135/engineering-manager-australian-institute-for-machine-learning</link>
       <guid isPermaLink="false">job-634</guid>
-    </item>
-
-    <item>
-      <title>Principal Data Science Manager - Microsoft</title>
-      <description><p>The Industry Solutions Engineering (ISE) team is a global engineering organization that works directly with customers looking to leverage the latest technologies to address their toughest challenges. As a part of ISE, at the AI Acceleration Studio we work closely with senior executives and cross-functional teams as we bring design, data science, and engineering to jointly develop cloud-based solutions that have high impact and can accelerate the organization. In this role, you will be working with engineers and designers, while managing a data science group to apply your skills, perspectives, and creativity to trailblaze new ground and build first-of-a-kind AI solutions.
-  We are hiring Principal Data Science Manager with broad experience and deep expertise in applying machine learning to real-world problems. You will develop and communicate hypotheses, analyses, results, ecosystem trends and ultimately innovative solutions to various stakeholders.</p>
-<p><strong>Location:</strong> San Francisco CA USA</p>
-<p><strong>Categories:</strong> Cloud, Data Science/ML/AI, Industry, Consulting</p>
-<p><a href="https://jobs.careers.microsoft.com/global/en/share/1727931/">View Job Posting</a></p></description>
-      <pubDate>Sat, 15 Jun 2024 04:00:00 -0000</pubDate>
-      <link>https://jobs.careers.microsoft.com/global/en/share/1727931/</link>
-      <guid isPermaLink="false">job-644</guid>
     </item>
 
     <item>
