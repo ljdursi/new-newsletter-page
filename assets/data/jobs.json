@@ -1,7 +1,801 @@
 {
-  "generated": "2025-12-28T09:58:18.869383",
-  "count": 340,
+  "generated": "2025-12-29T21:18:45.569257",
+  "count": 368,
   "jobs": [
+    {
+      "id": 3475,
+      "title": "AI Network Development Manager",
+      "company": "University of Leeds",
+      "location": "Leeds UK",
+      "city": "Leeds",
+      "state": "",
+      "country": "UK",
+      "description": "We are seeking a creative, motivated, and proactive AI Network Development Manager with excellent organisational skills to coordinate the day-to-day operations of a recently awarded AI Researcher Development Network Plus (AI.RDN+) grant, funded by the Research England Development Fund. This initiative aims to unite doctoral ecosystem stakeholders across more than 20 universities and external organisations throughout the UK. The postholder is expected to work closely with the wider project team based in the University of Leeds and Aston University.     As AI Network Manager, you will take responsibility for developing and implementing detailed project plans, managing timelines and milestones, and ensuring successful delivery across all work packages. You will act as the primary point of contact for internal and external stakeholders, fostering collaboration and providing strategic guidance to partners and consortia. A key aspect of the role will involve maintaining effective communication with project partners, coordinating engagement activities, and promoting the project through newsletters, social media, and strategic communications.",
+      "url": "https://jobs.leeds.ac.uk/Vacancy.aspx?ref=AHCDE1314",
+      "posted": "2025-12-29",
+      "categories": [
+        "Data Science/ML/AI",
+        "Academia",
+        "Project/Program Manager"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Data Science/ML/AI"
+        ],
+        "sector": [
+          "Academia"
+        ],
+        "role": [
+          "Project/Program Manager"
+        ]
+      }
+    },
+    {
+      "id": 3479,
+      "title": "Associate Director, High-Performance Computing",
+      "company": "Takeda",
+      "location": "Boston MA USA",
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA",
+      "description": "As a recognized expert within your business or function, you possess comprehensive expertise in high-performance computing and AWS architecture, with broad knowledge across related areas. You excel at anticipating internal/external challenges, recommending improvements, and providing leadership and consultative expertise in HPC across the business, regions, or functions. Your role involves shaping company policies, solving unique, far-reaching problems affecting operations, disciplines, or other business units/functional areas/regions. You frequently interact with equivalent-level managers and customer representatives, conducting briefings and technical meetings. Operating independently, you provide guidance in the most complex situations, lead functional teams or projects, and serve as a best practice/quality resource for scientific computing initiatives.  Architect and implement scalable high-performance computing (HPC) solutions on AWS for computational chemistry, molecular dynamics, and large-scale genomics workflows.",
+      "url": "https://jobs.takeda.com/job/-/-/1113/88587924576",
+      "posted": "2025-12-29",
+      "categories": [
+        "Cloud",
+        "Data Science/ML/AI",
+        "HPC",
+        "Industry",
+        "Biomedical"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Cloud",
+          "Data Science/ML/AI",
+          "HPC"
+        ],
+        "sector": [
+          "Industry"
+        ],
+        "domain": [
+          "Biomedical"
+        ]
+      }
+    },
+    {
+      "id": 3458,
+      "title": "Director of the Center for Advanced Research Computing (CARC)",
+      "company": "University of New Mexico",
+      "location": "Albuquerque NM USA",
+      "city": "Albuquerque",
+      "state": "NM",
+      "country": "USA",
+      "description": "The University of New Mexico (UNM) seeks a dynamic, innovative, results-oriented, and proven leader for the position of Director of the Center for Advanced Research Computing (CARC), one of UNM’s premier strategic research centers. The selected candidate will report directly to the Vice President for Research (VPR) and will be open rank determined by the individual’s academic background.  CARC is an internationally recognized center of excellence in advanced computing systems with a long history of research, innovation, and service in computing systems and computational science. The center’s mission is to facilitate cross-disciplinary computational research at UNM and nation-wide by leading multi-disciplinary research and educational initiatives and by providing advanced computing services to the University community.",
+      "url": "https://unm.csod.com/ux/ats/careersite/18/home/requisition/35099?c=unm&sq=req35099",
+      "posted": "2025-12-29",
+      "categories": [
+        "Data Science/ML/AI",
+        "HPC",
+        "Academia"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Data Science/ML/AI",
+          "HPC"
+        ],
+        "sector": [
+          "Academia"
+        ]
+      }
+    },
+    {
+      "id": 3478,
+      "title": "Engineering Manager, ML Acceleration",
+      "company": "Anthropic",
+      "location": "San Francisco CA or Seattle WA or New York NY USA",
+      "city": "San Francisco CA or Seattle WA or New York",
+      "state": "NY",
+      "country": "USA",
+      "description": "Provide front-line leadership of engineering efforts to improve model performance and scale our inference and training systems.  Become familiar with the team’s technical stack enough to make targeted contributions as an individual contributor.  Manage day-to-day execution of the team's work.  Prioritize the team’s work and manage projects in a highly dynamic, fast paced environment.  Coach and support your reports in understanding, and pursuing, their professional growth.  Maintain a deep understanding of the team's technical work and its implications for AI safety",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4741104008",
+      "posted": "2025-12-29",
+      "categories": [
+        "Data Science/ML/AI",
+        "HPC",
+        "Industry"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Data Science/ML/AI",
+          "HPC"
+        ],
+        "sector": [
+          "Industry"
+        ]
+      }
+    },
+    {
+      "id": 3457,
+      "title": "Executive Director, High Performance & Research Computing",
+      "company": "Mississippi State University",
+      "location": "Starkville MS USA",
+      "city": "Starkville",
+      "state": "MS",
+      "country": "USA",
+      "description": "The Executive Director of High Performance and Research Computing provides vision, leadership, and oversight for Mississippi State University’s high performance computing and research computing resources and services. This position directs strategic investments in HPC technologies, ensures compliance with federal and institutional requirements, and manages staff supporting HPC and enterprise research computing infrastructure for MSU. The Executive Director serves as the primary institutional liaison with federal agencies and partners for HPC-related grants, contracts, and collaborations, including NOAA, USDA, NSF, DoD, and other sponsoring organizations. The Executive Director also serves as the primary point of contact for MSU’s high performance computing data center, overseeing strategic and operational decisions for the facility. The role requires balancing long-term strategic planning with operational excellence to support MSU’s research mission and government partnerships.",
+      "url": "https://explore.msujobs.msstate.edu/en-us/job/509904/executive-director-high-performance-research-computing",
+      "posted": "2025-12-29",
+      "categories": [
+        "HPC",
+        "Academia",
+        "Executive"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "HPC"
+        ],
+        "sector": [
+          "Academia"
+        ],
+        "role": [
+          "Executive"
+        ]
+      }
+    },
+    {
+      "id": 3477,
+      "title": "HPC & AI Engineering Program Manager",
+      "company": "Hewlett Packard Enterprises",
+      "location": "Chippawa Falls WI USA",
+      "city": "Chippawa Falls",
+      "state": "WI",
+      "country": "USA",
+      "description": "The Engineering Program Manager (EPM) within the High-Performance Computing & AI Business Unit is responsible for overseeing and managing project controls for key R & D programs on the product roadmap.  This role ensures that product development initiatives are delivered on time, within scope, and within budget, while meeting quality and business requirements. The EPM works cross-functionally with engineering, product management, product lifecycle management, quality, finance, and operations teams to establish project plans, monitor progress, identify risks, and implement mitigation strategies. The EPM leverages strong organizational, analytical, and communication skills to drive execution, resolve issues, and keep stakeholders informed throughout the program lifecycle. This position plays a critical role in enabling the successful delivery of innovative HPC and AI solutions to market.",
+      "url": "https://careers.hpe.com/us/en/job/1198880/HPC--AI-Engineering-Program-Manager",
+      "posted": "2025-12-29",
+      "categories": [
+        "HPC",
+        "Industry",
+        "Project/Program Manager"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "HPC"
+        ],
+        "sector": [
+          "Industry"
+        ],
+        "role": [
+          "Project/Program Manager"
+        ]
+      }
+    },
+    {
+      "id": 3481,
+      "title": "HPC Storage Systems Group Leader",
+      "company": "Berkeley Lab",
+      "location": "Berkeley CA USA",
+      "city": "Berkeley",
+      "state": "CA",
+      "country": "USA",
+      "description": "The Storage Systems Group lead is responsible for understanding existing and new emerging requirements, and deploying storage solutions in collaboration with other NERSC teams to support NERSC’s broad user base of today and tomorrow. In doing so, the SSG Lead will drive the development and implementation of a holistic storage strategy to support changing scientific workflows and new technologies as part of Doudna and future NERSC system roadmaps. To accomplish this, the SSG Lead will be responsible for investigating new storage technologies and engaging with the vendor community on future roadmaps. The SSG Lead will work with the Data Center Department Head to provide guidance and priorities for the group based on NERSC’s strategic plan and its goals.",
+      "url": "https://jobs.lbl.gov/jobs/hpc-storage-systems-group-leader-7272",
+      "posted": "2025-12-29",
+      "categories": [
+        "HPC",
+        "Storage",
+        "Public sector"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "HPC",
+          "Storage"
+        ],
+        "sector": [
+          "Public sector"
+        ]
+      }
+    },
+    {
+      "id": 3470,
+      "title": "Informatics Project Lead, Faculty of Arts & Sciences",
+      "company": "Harvard University",
+      "location": "Boston MA USA",
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA",
+      "description": "The Informatics Project Lead position will supervise a project to design, develop, and disseminate an online venom knowledge base, to build a cutting-edge online repository that collates venom data across taxa and integrates -omic, morphological, and functional datasets. This is a highly multidisciplinary project that requires strong communication skills to connect researchers of different backgrounds, including evolutionary biologists, chemists, neuroscientists, engineers, aquarists, artists and vendors.",
+      "url": "https://careers.harvard.edu/job/informatics-project-lead-in-cambridge-ma-united-states-jid-811",
+      "posted": "2025-12-29",
+      "categories": [
+        "Data Systems",
+        "Academia",
+        "IC Leadership",
+        "Software Development",
+        "Biomedical"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Data Systems",
+          "Software Development"
+        ],
+        "sector": [
+          "Academia"
+        ],
+        "role": [
+          "IC Leadership"
+        ],
+        "domain": [
+          "Biomedical"
+        ]
+      }
+    },
+    {
+      "id": 3473,
+      "title": "Linux Engineering Manager",
+      "company": "G-Research",
+      "location": "London UK",
+      "city": "London",
+      "state": "",
+      "country": "UK",
+      "description": "As part of our engineering team, you’ll shape the platforms and tools that drive high-impact research - designing systems that scale, accelerate discovery and support innovation across the firm.  As a Linux Engineering Manager, you will lead a team responsible for delivering and maintaining the core Linux operating systems (RHEL and Ubuntu) that power G-Research’s compute platforms.  You will oversee the entire Linux platform stack - from OS builds and provisioning systems, through to database services, custom tooling and observability frameworks. This role requires balancing technical leadership, people management and strategic platform ownership, ensuring that our Linux infrastructure remains consistent, scalable and secure.",
+      "url": "https://www.linkedin.com/jobs/view/linux-engineering-manager-at-g-research-4350030697/",
+      "posted": "2025-12-29",
+      "categories": [
+        "HPC",
+        "Finance",
+        "Industry"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "HPC"
+        ],
+        "domain": [
+          "Finance"
+        ],
+        "sector": [
+          "Industry"
+        ]
+      }
+    },
+    {
+      "id": 3464,
+      "title": "Manager AI and Applied Research",
+      "company": "Thomson Reuters",
+      "location": "Eagan MN or Frisco TX or New York NY Ann Arbour MI USA",
+      "city": "Eagan MN or Frisco TX or New York NY Ann Arbour",
+      "state": "MI",
+      "country": "USA",
+      "description": "In this opportunity as Manager, Applied Research you will:    Manage: Direct the efforts of a team of Applied Scientists and Research Engineers, ensuring a high-performance culture. Nurture your team’s career development and manage performance expectations through servant leadership and active coaching. Lead and Inspire: Build, mentor, and grow a high-performing team of applied scientists. Drive Research to Production: Translate state-of-the-art AI research into scalable, production-ready solutions.\r\nShape Strategy: Partner with Product and Engineering leaders to define and execute the AI-driven product roadmap. Ensure Operational Excellence: Oversee scaling of experiment and LLMOps platforms, balancing reusability and innovation Champion Innovation: Explore emerging technologies, foster experimentation, and share impact and ideas to both technical and non-technical audiences.",
+      "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Manager-AI-and-Applied-Research_JREQ194816-4",
+      "posted": "2025-12-29",
+      "categories": [
+        "Data Science/ML/AI",
+        "Finance",
+        "Industry",
+        "Software Development"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Data Science/ML/AI",
+          "Software Development"
+        ],
+        "domain": [
+          "Finance"
+        ],
+        "sector": [
+          "Industry"
+        ]
+      }
+    },
+    {
+      "id": 3480,
+      "title": "Manager, Cloud & Research Computing Platforms, MANIAC Lab",
+      "company": "University of Chicago",
+      "location": "Chicago IL USA",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "description": "The MANIAC Lab, within the Enrico Fermi Institute of the Physical Sciences Division at the University of Chicago, designs, deploys, and operates advanced cyberinfrastructure in support of forefront particle physics research. The Lab operates one of the three sites of the Midwest Tier-2 (MWT2) federation, a data-intensive, high-throughput computing center that appears to ATLAS as a unified logical facility through harmonized services, federated operations, and shared configuration management.  As Manager, Cloud & Research Computing Platforms, you will report directly to the Principal Investigator of the MANIAC Lab and lead a technical team of systems administrators and research software engineers. In this role, you will develop high-level programmatic plans across multiple workstreams and translate them into detailed technical roadmaps for the Lab’s systems engineering efforts. You will collaborate extensively with the U.S. ATLAS Computing operations program, the international ATLAS software and computing community, IRIS-HEP partners, and IT teams within the Physical Sciences Division.",
+      "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Manager--Cloud---Research-Computing-Platforms_JR32320",
+      "posted": "2025-12-29",
+      "categories": [
+        "Cloud",
+        "HPC",
+        "Academia"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Cloud",
+          "HPC"
+        ],
+        "sector": [
+          "Academia"
+        ]
+      }
+    },
+    {
+      "id": 3468,
+      "title": "Principal Software Engineer - AI Engineering",
+      "company": "Dell",
+      "location": "Hopkinton MA USA",
+      "city": "Hopkinton",
+      "state": "MA",
+      "country": "USA",
+      "description": "As a Principal Software Developer with Dell, your primary responsibility will be to develop new AI applications from concept to production to advance Dell’s technology into the future. We are looking for technologists who are comfortable learning and adapting easily to meet the needs of our rapidly evolving business. One day we may be working on low level code, the next we may be prototyping new user interface design. As a part of the Dell Technologies Office of the CTO, we innovate on the future of technology in a high visibility, collaborative team. You will work with product managers, leadership, engineers and data scientists, tech leads, strategy, and/or stakeholders to execute technology development using an agile, fast-fail mentality.By working on small cross functional teams and using pair programming, you will have the ability to work in all layers of the stack and collaborate constantly, continually growing your skills while also leading and mentoring within the team.",
+      "url": "https://jobs.dell.com/en/job/hopkinton/principal-software-engineer-ai-engineering/375/90043356400",
+      "posted": "2025-12-29",
+      "categories": [
+        "Data Science/ML/AI",
+        "Industry",
+        "IC Leadership",
+        "Software Development"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Data Science/ML/AI",
+          "Software Development"
+        ],
+        "sector": [
+          "Industry"
+        ],
+        "role": [
+          "IC Leadership"
+        ]
+      }
+    },
+    {
+      "id": 3465,
+      "title": "Project Manager, Health AI Implementation",
+      "company": "Vector Institute",
+      "location": "Toronto ON CA",
+      "city": "Toronto",
+      "state": "ON",
+      "country": "Canada",
+      "description": "Reporting to the Director, Health AI Implementation, the Project Manager, Health AI Implementation (12-month contract) will play a key role in driving the successful planning and delivery of Vector’s health AI implementation projects. The Project Manager, Health AI Implementation will also act as an interface between Vector team members, health partners, and researchers.",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=9200420850870_2&lang=en_CA&selectedMenuKey=CareerCenter&jobId=562124&source=LI",
+      "posted": "2025-12-29",
+      "categories": [
+        "Data Science/ML/AI",
+        "Nonprofit",
+        "Data Management/Governance",
+        "Software Development",
+        "Biomedical"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Data Science/ML/AI",
+          "Data Management/Governance",
+          "Software Development"
+        ],
+        "sector": [
+          "Nonprofit"
+        ],
+        "domain": [
+          "Biomedical"
+        ]
+      }
+    },
+    {
+      "id": 3483,
+      "title": "Quantum Simulation Team Lead",
+      "company": "Barrington James",
+      "location": "QC CA",
+      "city": "",
+      "state": "QC",
+      "country": "Canada",
+      "description": "In this role, you’ll mentor a dynamic team, collaborate across disciplines, and lead research in Quantum Error Correction (QEC) and cQED system modeling. Your work will bridge theory with real-world application, helping to solve some of the most complex challenges in the quantum space.",
+      "url": "https://www.linkedin.com/jobs/view/4341294339/",
+      "posted": "2025-12-29",
+      "categories": [
+        "Quantum Computing",
+        "Finance",
+        "Industry"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Quantum Computing"
+        ],
+        "domain": [
+          "Finance"
+        ],
+        "sector": [
+          "Industry"
+        ]
+      }
+    },
+    {
+      "id": 3463,
+      "title": "Research Computing Manager - Sunnybrook Research Institute (SRI)",
+      "company": "SunnyBrook Health Sciences Centre",
+      "location": "Toronto ON CA",
+      "city": "Toronto",
+      "state": "ON",
+      "country": "Canada",
+      "description": "The Research Computing Manager serves as a technical expert on SRI’s research and high-performance computing infrastructure and is responsible for maintaining existing capabilities, developing new functionality, and supporting SRI faculty and student work.\r\n \r\nThe Research Computing Manager will maintain core systems and software along with supporting the specialized needs of campus researchers and instructors via individual consultations and group presentations. This position will collaborate closely with the hospital IT workforce as well as SRI scientists, staff, students, and partners at other institutions to provide broad technology support for operational issues, research, and teaching. The position will be responsible for managing our deskside support team, system administration team and clinical research applications team.",
+      "url": "http://sunnybrook.jobis.ca/bj8c?lang=en-US",
+      "posted": "2025-12-29",
+      "categories": [
+        "Data Science/ML/AI",
+        "Data Systems",
+        "Public sector",
+        "Software Development",
+        "Biomedical"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Data Science/ML/AI",
+          "Data Systems",
+          "Software Development"
+        ],
+        "sector": [
+          "Public sector"
+        ],
+        "domain": [
+          "Biomedical"
+        ]
+      }
+    },
+    {
+      "id": 3467,
+      "title": "Scientific Computing Manager",
+      "company": "GDIT",
+      "location": "MD or VA or DC USA",
+      "city": "MD or VA or",
+      "state": "DC",
+      "country": "USA",
+      "description": "As our Scientific Computing Manager, you will be responsible for developing and delivering comprehensive infrastructure and application/end user support services to the NIAID research community. This includes architecture, implementation and ongoing operations of multiple HPC clusters, scientific storage, scientific instrumentations, and application support services for a catalog of over 600 open source, COTS, and custom applications. Your team will provide high-touch, consultative end user support to a research community of approximately 4500. You must be able to simultaneously manage various duties such as project management, operations and maintenance, and team management to ensure customer satisfaction while enhancing the caliber of services delivered.",
+      "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Scientific-Computing-Manager_RQ210426-2",
+      "posted": "2025-12-29",
+      "categories": [
+        "HPC",
+        "Public sector",
+        "Support"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "HPC",
+          "Support"
+        ],
+        "sector": [
+          "Public sector"
+        ]
+      }
+    },
+    {
+      "id": 3462,
+      "title": "Senior Applied Science Manager, Applied AI",
+      "company": "Amazon",
+      "location": "Bellvue WA USA",
+      "city": "Bellvue",
+      "state": "WA",
+      "country": "USA",
+      "description": "We are seeking a passionate, talented, and inventive individual to join the Applied AI team and help build industry-leading technologies that customers will love. This team offers a unique opportunity to make a significant impact on the customer experience and contribute to the design, architecture, and implementation of a highly innovative product.  On our team you will push the boundaries of ML and Generative AI techniques to scale the inputs for hundreds of billions of dollars of annual revenue for our eCommerce business. If you have a passion for AI technologies, a drive to innovate and a desire to make a meaningful impact, we invite you to become a valued member of our team.",
+      "url": "https://www.amazon.jobs/en/jobs/3112181/senior-applied-science-manager-applied-ai",
+      "posted": "2025-12-29",
+      "categories": [
+        "Cloud",
+        "Data Science/ML/AI",
+        "Industry"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Cloud",
+          "Data Science/ML/AI"
+        ],
+        "sector": [
+          "Industry"
+        ]
+      }
+    },
+    {
+      "id": 3466,
+      "title": "Senior Manager Data Science and Engineering",
+      "company": "Royal Bank of Canada",
+      "location": "Vancouver BC CA",
+      "city": "Vancouver",
+      "state": "BC",
+      "country": "Canada",
+      "description": "Developing predictive data models, quantitative analyses and visualization of targeted, big data sources. Overseeing the acquisition and ingestion of data from structured and unstructured sources, while ensuring quality and comprehensiveness of data. Leading data exploration and analytic projects and providing on-going coaching of big data topics (visualization, data mining, analytic techniques). Exploring and implementing semantic data capabilities through NLP, text mining and machine learning techniques.",
+      "url": "https://jobs.rbc.com/ca/en/job/R-0000151905/Senior-Manager-Data-Science-and-Engineering",
+      "posted": "2025-12-29",
+      "categories": [
+        "Data Science/ML/AI",
+        "Finance",
+        "Industry",
+        "Software Development"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Data Science/ML/AI",
+          "Software Development"
+        ],
+        "domain": [
+          "Finance"
+        ],
+        "sector": [
+          "Industry"
+        ]
+      }
+    },
+    {
+      "id": 3471,
+      "title": "Senior Manager – Gene Reading Bioinformatics",
+      "company": "Danaher",
+      "location": "Sunnyvale CA USA",
+      "city": "Sunnyvale",
+      "state": "CA",
+      "country": "USA",
+      "description": "Manage and direct staff, including hiring, training, coaching, performance management, talent development, and in collaboration with direct reports, sets annual performance objectives and development goals. Plan resources and achieve project milestones and timelines. Collaborate with the business unit to engage with NGS customers, identify new projects, manage project priority, and protect IDT patent positions. Establish productive collaborations with key opinion leaders and other Danaher operating companies to drive innovative technology and product development. Support the integration of R&D activities with global business plans and serve as an advisor to executive leadership.",
+      "url": "https://jobs.danaher.com/global/en/job/DANAGLOBALR1300747EXTERNALENGLOBAL/Senior-Manager-Gene-Reading-Bioinformatics",
+      "posted": "2025-12-29",
+      "categories": [
+        "Data Science/ML/AI",
+        "Industry",
+        "Biomedical"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Data Science/ML/AI"
+        ],
+        "sector": [
+          "Industry"
+        ],
+        "domain": [
+          "Biomedical"
+        ]
+      }
+    },
+    {
+      "id": 3484,
+      "title": "Senior Manager, Technical Solutions / Quantum Computing",
+      "company": "Quantinuum",
+      "location": "Remote USA",
+      "city": "",
+      "state": "",
+      "country": "USA",
+      "description": "We are seeking a Senior Manager, Technical Solutions who will drive the company’s pre-sales technical strategy for quantum computing solutions with clients, leading multiple project teams and overseeing large-scale, complex projects. This role will shape the future vision of the company’s quantum offerings, working with senior leadership and key clients to align pre-sales technical initiatives with business objectives.",
+      "url": "https://jobs.eu.lever.co/quantinuum/e75e9cc7-faca-4de4-8930-c0c9e9d23895",
+      "posted": "2025-12-29",
+      "categories": [
+        "Quantum Computing",
+        "Industry",
+        "Consulting"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Quantum Computing"
+        ],
+        "sector": [
+          "Industry"
+        ],
+        "role": [
+          "Consulting"
+        ]
+      }
+    },
+    {
+      "id": 3459,
+      "title": "Senior Product Manager - Technical, HPC and Visualization",
+      "company": "Amazon",
+      "location": "Vancouver BC CA",
+      "city": "Vancouver",
+      "state": "BC",
+      "country": "Canada",
+      "description": "The High Performance Computing (HPC) team is looking for a talented product manager to help us develop the HPC portfolio of products within AWS, which includes products like AWS Batch and AWS ParallelCluster, as well as network interfaces like Elastic Fabric Adapter (EFA). You will work closely with teams in EC2 as well as on new technology from Annapurna Labs. As a Senior Product Manager Technical - External Services, you will own product development from strategy/product vision through feature definition, prioritization, positioning, naming, and GTM/adoption. We are looking for an experienced product manager who is passionate about solving customer problems, and has demonstrated success working backwards from ambiguous customer needs, translating them into disruptive, successful products that delight customers. You will have the curiosity to dig into complex business problems, challenge the status quo, and bias towards using data to simplify the customer experience.",
+      "url": "https://www.amazon.jobs/en/jobs/3120003/senior-product-manager-technical-hpc-and-visualization",
+      "posted": "2025-12-29",
+      "categories": [
+        "Cloud",
+        "HPC",
+        "Industry",
+        "Product Manager"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Cloud",
+          "HPC"
+        ],
+        "sector": [
+          "Industry"
+        ],
+        "role": [
+          "Product Manager"
+        ]
+      }
+    },
+    {
+      "id": 3472,
+      "title": "Senior Product Manager, Quantum Product, Quantum AI, Hardware",
+      "company": "Google",
+      "location": "Goleta or Los Angeles CA USA",
+      "city": "Goleta or Los Angeles",
+      "state": "CA",
+      "country": "USA",
+      "description": "Conduct market research and engaged analysis to identify user needs and emerging trends, utilizing these insights to shape the product goal and prioritize the hardware roadmap.  Collaborate with engineering and research teams to translate technical capabilities into detailed product requirements, balancing technical innovation with delivery feasibility.  Define the go-to-market strategy and contribute to the cross-functional implementation of the plan, coordinating with Marketing and Sales to develop pricing, positioning, and technical enablement materials.  Manage the full product life-cycle, defining requirements for operational readiness, reliability, and serviceability to ensure successful adoption and long-term maintenance.  Act as a product subject matter expert, staying abreast of technical and business developments in the quantum computing and related quantum technology industries.",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/102254994459108038-senior-product-manager-quantum-product-quantum-ai-hardware",
+      "posted": "2025-12-29",
+      "categories": [
+        "Cloud",
+        "Quantum Computing",
+        "Industry",
+        "Product Manager"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Cloud",
+          "Quantum Computing"
+        ],
+        "sector": [
+          "Industry"
+        ],
+        "role": [
+          "Product Manager"
+        ]
+      }
+    },
+    {
+      "id": 3469,
+      "title": "Senior Program Manager, Clinical Research Informatics",
+      "company": "Columbia University",
+      "location": "New York NY USA",
+      "city": "New York",
+      "state": "NY",
+      "country": "USA",
+      "description": "The Irving Institute seeks a Senior Program Manager for Clinical Research Informatics. The Senior Program Manager is charged with development, implementation, and coordination of research support services and instructional programs to facilitate clinical research informatics. The candidate will work independently and proactively towards the development, implementation, coordination and management of research support services and instructional programs to facilitate clinical research informatics. With direction from the Co-Directors, the Senior Program Manager will coordinate, monitor and report on Clinical Research Informatics projects with participating faculty. In coordination with research administration leaders, the Senior Program Manager will assist institutional research programs to simplify and enhance research processes.",
+      "url": "https://opportunities.columbia.edu/jobs/senior-program-manager-clinical-research-informatics-columbia-university-medical-center-new-york-united-states",
+      "posted": "2025-12-29",
+      "categories": [
+        "Data Science/ML/AI",
+        "Academia",
+        "Project/Program Manager",
+        "Biomedical"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Data Science/ML/AI"
+        ],
+        "sector": [
+          "Academia"
+        ],
+        "role": [
+          "Project/Program Manager"
+        ],
+        "domain": [
+          "Biomedical"
+        ]
+      }
+    },
+    {
+      "id": 3460,
+      "title": "Software Development Manager, Amazon FSx for Lustre",
+      "company": "Amazon",
+      "location": "Boston MA USA",
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA",
+      "description": "We are looking for an exceptional software development leader to help revolutionize cloud file storage for workloads like GPU-heavy AI/ML workloads, high-performance computing (HPC), and enterprise applications. Launched in 2018, Amazon FSx for Lustre is an AWS service that provides fully managed, and high-performance file storage that powers some of the most critical and largest-scale workloads running on AWS today.  As a Software Development Manager, you will lead a team designing and building transformative new customers experiences on Amazon FSx for Lustre. Delivering reliable and high-performance services and features at AWS scale requires technical leaders with extraordinary expertise and boundless creativity. At Amazon, managers will interact with customers, understand our business goals, and innovate rapidly, delivering high-quality and ground-breaking functionality.",
+      "url": "https://www.amazon.jobs/en/jobs/3125702/software-development-manager-amazon-fsx-for-lustre",
+      "posted": "2025-12-29",
+      "categories": [
+        "Cloud",
+        "Storage",
+        "Software Development"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Cloud",
+          "Storage",
+          "Software Development"
+        ]
+      }
+    },
+    {
+      "id": 3461,
+      "title": "Software Engineering Manager, Control Stack, AWS Center for Quantum Computing",
+      "company": "Amazon",
+      "location": "Pasadena CA USA",
+      "city": "Pasadena",
+      "state": "CA",
+      "country": "USA",
+      "description": "he Amazon Web Services (AWS) Center for Quantum Computing (CQC) is a multi-disciplinary team of scientists, engineers, and technicians, on a mission to develop a fault-tolerant quantum computer.  You will lead a team of interdisciplinary scientists and software engineers, focused on developing software and infrastructure to support the development and operation of scalable fault-tolerant quantum computers. You will interface directly with our experimental physics and control hardware teams to develop and drive a vision for the experimental quantum computing software-hardware interface. The ideal candidate will (1) have strong technical breadth across low-level programming, scientific instrumentation, and computer architecture, (2) have excellent communication skills and a proven track record of collaborating with scientists and hardware engineers, and (3) be excited about empowering and growing a team of scientists and software engineers.",
+      "url": "https://www.amazon.jobs/en/jobs/3072257/software-engineering-manager-control-stack-aws-center-for-quantum-computing",
+      "posted": "2025-12-29",
+      "categories": [
+        "Cloud",
+        "Quantum Computing",
+        "Industry",
+        "Software Development"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Cloud",
+          "Quantum Computing",
+          "Software Development"
+        ],
+        "sector": [
+          "Industry"
+        ]
+      }
+    },
+    {
+      "id": 3482,
+      "title": "Systems Tools Manager - Data Center GPU",
+      "company": "AMD",
+      "location": "Markham ON CA",
+      "city": "Markham",
+      "state": "ON",
+      "country": "Canada",
+      "description": "We are looking for a dynamic, upbeat Systems Tools Manager to join our growing Datacenter GPU validation team passionate about delivering leading-edge technology.",
+      "url": "https://www.linkedin.com/jobs/view/4317607136/",
+      "posted": "2025-12-29",
+      "categories": [
+        "HPC",
+        "Industry",
+        "Software Development"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "HPC",
+          "Software Development"
+        ],
+        "sector": [
+          "Industry"
+        ]
+      }
+    },
+    {
+      "id": 3474,
+      "title": "Technical Manager - Core Facilities",
+      "company": "Manchester Metropolitan University",
+      "location": "Manchester UK",
+      "city": "Manchester",
+      "state": "",
+      "country": "UK",
+      "description": "As Technical Manager for Core Facilities, you'll lead a team of technical staff, delivering high-quality support for research innovation, research informed teaching and commercial activity. You'll oversee specialist spaces and equipment, manage health and safety, and ensure services are aligned with academic needs and university strategy.  Working in close partnership with academic and professional services colleagues, you'll help shape our future technical strategy—keeping our services adaptable, aligned to university priorities, and responsive to sector developments.  You'll also represent Manchester Met in external networks and user groups, ensuring we remain at the forefront of innovation.",
+      "url": "https://www.jobs.ac.uk/job/DPW509/technical-manager-core-facilities",
+      "posted": "2025-12-29",
+      "categories": [
+        "Academia",
+        "Biomedical",
+        "Core Facility"
+      ],
+      "categoryTypes": {
+        "sector": [
+          "Academia"
+        ],
+        "domain": [
+          "Biomedical",
+          "Core Facility"
+        ]
+      }
+    },
+    {
+      "id": 3476,
+      "title": "Technical Program Manager, HPC, Research Computing, SLED (State, Local, and Education), Google Public Sector",
+      "company": "Google",
+      "location": "Cambridge MA or New York NY USA",
+      "city": "Cambridge MA or New York",
+      "state": "NY",
+      "country": "USA",
+      "description": "As a Technical Program Manager, you will be at the forefront of orchestrating and optimizing a portfolio of large-scale, multi-year technical transformation engagements that drive significant value and improve constituent experience. You will provide thought leadership, technical goal, and delivery management expertise, collaborating extensively with cross-functional Google executives, sales teams, and key technical leaders including Architects, Engineers, and stakeholders like CTOs and CIOs. You will be a leader who operates with a high degree of autonomy and trust, taking ownership and driving outcomes through clear strategic intent.",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/142955288356364998-technical-program-manager-hpc-research-computing-sled-google-public-sector",
+      "posted": "2025-12-29",
+      "categories": [
+        "Cloud",
+        "HPC",
+        "Industry"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Cloud",
+          "HPC"
+        ],
+        "sector": [
+          "Industry"
+        ]
+      }
+    },
     {
       "id": 1,
       "title": "Group Leader, Software Services Development",
@@ -21,7 +815,7 @@
         "sector": [
           "Public sector"
         ],
-        "role": [
+        "technical": [
           "Software Development"
         ]
       }
@@ -46,13 +840,11 @@
       "categoryTypes": {
         "technical": [
           "HPC",
-          "Storage"
+          "Storage",
+          "Support"
         ],
         "sector": [
           "Academia"
-        ],
-        "role": [
-          "Support"
         ]
       }
     },
@@ -78,7 +870,9 @@
           "Academia"
         ],
         "role": [
-          "IC Leadership",
+          "IC Leadership"
+        ],
+        "technical": [
           "Software Development"
         ],
         "domain": [
@@ -156,13 +950,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Quantum Computing"
+          "Quantum Computing",
+          "Software Development"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Software Development"
         ]
       }
     },
@@ -316,13 +1108,11 @@
       "categoryTypes": {
         "technical": [
           "Data Science/ML/AI",
-          "HPC"
+          "HPC",
+          "Support"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Support"
         ]
       }
     },
@@ -440,13 +1230,11 @@
       "categoryTypes": {
         "technical": [
           "Cloud",
-          "HPC"
+          "HPC",
+          "Software Development"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Software Development"
         ]
       }
     },
@@ -469,14 +1257,14 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Quantum Computing"
+          "Quantum Computing",
+          "Software Development"
         ],
         "sector": [
           "Industry"
         ],
         "role": [
-          "Product Manager",
-          "Software Development"
+          "Product Manager"
         ]
       }
     },
@@ -551,7 +1339,7 @@
         "sector": [
           "Academia"
         ],
-        "role": [
+        "technical": [
           "Software Development"
         ]
       }
@@ -606,13 +1394,11 @@
       "categoryTypes": {
         "technical": [
           "Cloud",
-          "Networking"
+          "Networking",
+          "Software Development"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Software Development"
         ]
       }
     },
@@ -635,13 +1421,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Data Science/ML/AI"
+          "Data Science/ML/AI",
+          "Software Development"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Software Development"
         ],
         "domain": [
           "Biomedical"
@@ -669,14 +1453,14 @@
       "categoryTypes": {
         "technical": [
           "Data Science/ML/AI",
-          "HPC"
+          "HPC",
+          "Software Development"
         ],
         "sector": [
           "Academia"
         ],
         "role": [
-          "IC Leadership",
-          "Software Development"
+          "IC Leadership"
         ]
       }
     },
@@ -722,11 +1506,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Data Science/ML/AI"
+          "Data Science/ML/AI",
+          "Software Development"
         ],
         "role": [
-          "IC Leadership",
-          "Software Development"
+          "IC Leadership"
         ]
       }
     },
@@ -797,7 +1581,7 @@
         "sector": [
           "Academia"
         ],
-        "role": [
+        "technical": [
           "Ops/Automation"
         ]
       }
@@ -819,8 +1603,10 @@
         "Biomedical"
       ],
       "categoryTypes": {
+        "technical": [
+          "Ops/Automation"
+        ],
         "role": [
-          "Ops/Automation",
           "Project/Program Manager"
         ],
         "domain": [
@@ -847,13 +1633,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Data Science/ML/AI"
+          "Data Science/ML/AI",
+          "Data Management/Governance"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Data Management/Governance"
         ],
         "domain": [
           "Biomedical"
@@ -932,13 +1716,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Data Science/ML/AI"
+          "Data Science/ML/AI",
+          "Software Development"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Software Development"
         ]
       }
     },
@@ -961,13 +1743,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "HPC"
+          "HPC",
+          "Support"
         ],
         "sector": [
           "Academia"
-        ],
-        "role": [
-          "Support"
         ],
         "domain": [
           "Biomedical"
@@ -993,13 +1773,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "HPC"
+          "HPC",
+          "Support"
         ],
         "sector": [
           "Academia"
-        ],
-        "role": [
-          "Support"
         ],
         "domain": [
           "Biomedical"
@@ -1175,8 +1953,10 @@
       "categoryTypes": {
         "sector": [
           "Academia",
-          "Finance",
           "Industry"
+        ],
+        "domain": [
+          "Finance"
         ]
       }
     },
@@ -1301,14 +2081,12 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Data Science/ML/AI"
+          "Data Science/ML/AI",
+          "Data Management/Governance",
+          "Software Development"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Data Management/Governance",
-          "Software Development"
         ]
       }
     },
@@ -1524,9 +2302,7 @@
       "categoryTypes": {
         "technical": [
           "Cloud",
-          "Data Science/ML/AI"
-        ],
-        "role": [
+          "Data Science/ML/AI",
           "Ops/Automation",
           "Software Development"
         ]
@@ -1854,13 +2630,11 @@
         "technical": [
           "Cloud",
           "Data Science/ML/AI",
-          "HPC"
+          "HPC",
+          "Ops/Automation"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Ops/Automation"
         ]
       }
     },
@@ -1883,13 +2657,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "HPC"
+          "HPC",
+          "Software Development"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Software Development"
         ],
         "domain": [
           "Biomedical"
@@ -1916,7 +2688,7 @@
         "sector": [
           "Industry"
         ],
-        "role": [
+        "technical": [
           "Data Management/Governance"
         ],
         "domain": [
@@ -1944,7 +2716,7 @@
         "sector": [
           "Nonprofit"
         ],
-        "role": [
+        "technical": [
           "Software Development"
         ],
         "domain": [
@@ -1996,7 +2768,7 @@
         "sector": [
           "Industry"
         ],
-        "role": [
+        "technical": [
           "Software Development"
         ],
         "domain": [
@@ -2051,14 +2823,14 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Data Science/ML/AI"
+          "Data Science/ML/AI",
+          "Training/Education"
         ],
         "sector": [
           "Academia"
         ],
         "role": [
-          "Project/Program Manager",
-          "Training/Education"
+          "Project/Program Manager"
         ]
       }
     },
@@ -2109,13 +2881,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Data Science/ML/AI"
+          "Data Science/ML/AI",
+          "Data Management/Governance"
         ],
         "sector": [
           "Academia"
-        ],
-        "role": [
-          "Data Management/Governance"
         ],
         "domain": [
           "Biomedical"
@@ -2142,7 +2912,7 @@
         "sector": [
           "Industry"
         ],
-        "role": [
+        "technical": [
           "Software Development"
         ],
         "domain": [
@@ -2169,7 +2939,7 @@
         "sector": [
           "Industry"
         ],
-        "role": [
+        "technical": [
           "Software Development"
         ]
       }
@@ -2196,8 +2966,10 @@
         "sector": [
           "Academia"
         ],
+        "technical": [
+          "Data Management/Governance"
+        ],
         "role": [
-          "Data Management/Governance",
           "IC Leadership",
           "Project/Program Manager"
         ],
@@ -2303,14 +3075,14 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Data Science/ML/AI"
+          "Data Science/ML/AI",
+          "Software Development"
         ],
         "sector": [
           "Academia"
         ],
         "role": [
-          "IC Leadership",
-          "Software Development"
+          "IC Leadership"
         ]
       }
     },
@@ -2433,13 +3205,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Data Science/ML/AI"
+          "Data Science/ML/AI",
+          "Data Management/Governance"
         ],
         "sector": [
           "Public sector"
-        ],
-        "role": [
-          "Data Management/Governance"
         ],
         "domain": [
           "Biomedical"
@@ -2551,7 +3321,7 @@
         "sector": [
           "Industry"
         ],
-        "role": [
+        "technical": [
           "Software Development"
         ]
       }
@@ -2651,14 +3421,14 @@
       ],
       "categoryTypes": {
         "technical": [
-          "HPC"
+          "HPC",
+          "Software Development"
         ],
         "sector": [
           "Academia"
         ],
         "role": [
-          "IC Leadership",
-          "Software Development"
+          "IC Leadership"
         ]
       }
     },
@@ -2950,13 +3720,11 @@
       "categoryTypes": {
         "technical": [
           "Data Science/ML/AI",
-          "HPC"
+          "HPC",
+          "Ops/Automation"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Ops/Automation"
         ]
       }
     },
@@ -3012,13 +3780,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Data Systems"
+          "Data Systems",
+          "Data Management/Governance"
         ],
         "sector": [
           "Academia"
-        ],
-        "role": [
-          "Data Management/Governance"
         ]
       }
     },
@@ -3041,13 +3807,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Data Science/ML/AI"
+          "Data Science/ML/AI",
+          "Software Development"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Software Development"
         ],
         "domain": [
           "Biomedical"
@@ -3349,7 +4113,7 @@
         "sector": [
           "Academia"
         ],
-        "role": [
+        "technical": [
           "Software Development"
         ]
       }
@@ -3498,13 +4262,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Quantum Computing"
+          "Quantum Computing",
+          "Software Development"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Software Development"
         ]
       }
     },
@@ -3528,7 +4290,7 @@
         "sector": [
           "Nonprofit"
         ],
-        "role": [
+        "technical": [
           "Software Development"
         ],
         "domain": [
@@ -3575,14 +4337,14 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Cloud"
+          "Cloud",
+          "Software Development"
         ],
         "sector": [
           "Public sector"
         ],
         "role": [
-          "IC Leadership",
-          "Software Development"
+          "IC Leadership"
         ]
       }
     },
@@ -3747,7 +4509,7 @@
         "sector": [
           "Industry"
         ],
-        "role": [
+        "technical": [
           "Data Management/Governance"
         ]
       }
@@ -3826,7 +4588,7 @@
         "Biomedical"
       ],
       "categoryTypes": {
-        "role": [
+        "technical": [
           "Data Management/Governance"
         ],
         "domain": [
@@ -3917,7 +4679,7 @@
         "sector": [
           "Academia"
         ],
-        "role": [
+        "technical": [
           "Software Development"
         ]
       }
@@ -4025,7 +4787,9 @@
           "Industry"
         ],
         "role": [
-          "Project/Program Manager",
+          "Project/Program Manager"
+        ],
+        "technical": [
           "Software Development"
         ]
       }
@@ -4080,7 +4844,7 @@
         "sector": [
           "Industry"
         ],
-        "role": [
+        "technical": [
           "Software Development"
         ],
         "domain": [
@@ -4270,13 +5034,11 @@
       "categoryTypes": {
         "technical": [
           "Data Science/ML/AI",
-          "Robotics"
+          "Robotics",
+          "Software Development"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Software Development"
         ]
       }
     },
@@ -4301,7 +5063,7 @@
         "sector": [
           "Academia"
         ],
-        "role": [
+        "technical": [
           "Ops/Automation"
         ],
         "domain": [
@@ -4385,8 +5147,10 @@
         "sector": [
           "Academia"
         ],
+        "technical": [
+          "Data Management/Governance"
+        ],
         "role": [
-          "Data Management/Governance",
           "Project/Program Manager"
         ],
         "domain": [
@@ -4412,13 +5176,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Data Science/ML/AI"
+          "Data Science/ML/AI",
+          "Data Management/Governance"
         ],
         "sector": [
           "Nonprofit"
-        ],
-        "role": [
-          "Data Management/Governance"
         ]
       }
     },
@@ -4440,13 +5202,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Quantum Computing"
+          "Quantum Computing",
+          "Training/Education"
         ],
         "sector": [
           "Academia"
-        ],
-        "role": [
-          "Training/Education"
         ]
       }
     },
@@ -4496,8 +5256,10 @@
         "technical": [
           "Data Science/ML/AI"
         ],
+        "domain": [
+          "Finance"
+        ],
         "sector": [
-          "Finance",
           "Industry"
         ]
       }
@@ -4523,7 +5285,7 @@
         "sector": [
           "Academia"
         ],
-        "role": [
+        "technical": [
           "Ops/Automation"
         ],
         "domain": [
@@ -4574,13 +5336,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Data Science/ML/AI"
+          "Data Science/ML/AI",
+          "Ops/Automation"
         ],
         "sector": [
           "Academia"
-        ],
-        "role": [
-          "Ops/Automation"
         ]
       }
     },
@@ -4604,7 +5364,7 @@
         "sector": [
           "Academia"
         ],
-        "role": [
+        "technical": [
           "Ops/Automation"
         ],
         "domain": [
@@ -4662,13 +5422,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Data Science/ML/AI"
+          "Data Science/ML/AI",
+          "Software Development"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Software Development"
         ]
       }
     },
@@ -4802,8 +5560,10 @@
         "technical": [
           "HPC"
         ],
+        "domain": [
+          "Finance"
+        ],
         "sector": [
-          "Finance",
           "Industry"
         ]
       }
@@ -4857,14 +5617,12 @@
       "categoryTypes": {
         "technical": [
           "Data Science/ML/AI",
-          "HPC"
+          "HPC",
+          "Ops/Automation",
+          "Software Development"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Ops/Automation",
-          "Software Development"
         ]
       }
     },
@@ -4958,9 +5716,7 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Quantum Computing"
-        ],
-        "role": [
+          "Quantum Computing",
           "Ops/Automation"
         ],
         "domain": [
@@ -5014,13 +5770,11 @@
       "categoryTypes": {
         "technical": [
           "Data Science/ML/AI",
-          "Robotics"
+          "Robotics",
+          "Software Development"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Software Development"
         ]
       }
     },
@@ -5074,11 +5828,11 @@
         "technical": [
           "Cloud",
           "Data Science/ML/AI",
-          "HPC"
+          "HPC",
+          "Software Development"
         ],
         "role": [
-          "IC Leadership",
-          "Software Development"
+          "IC Leadership"
         ]
       }
     },
@@ -5136,7 +5890,7 @@
           "Academia",
           "Nonprofit"
         ],
-        "role": [
+        "technical": [
           "Software Development"
         ],
         "domain": [
@@ -5212,7 +5966,7 @@
         "sector": [
           "Academia"
         ],
-        "role": [
+        "technical": [
           "Software Development"
         ],
         "domain": [
@@ -5271,13 +6025,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Data Science/ML/AI"
+          "Data Science/ML/AI",
+          "Data Management/Governance"
         ],
         "sector": [
           "Public sector"
-        ],
-        "role": [
-          "Data Management/Governance"
         ],
         "domain": [
           "Biomedical"
@@ -5303,13 +6055,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Data Science/ML/AI"
+          "Data Science/ML/AI",
+          "Data Management/Governance"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Data Management/Governance"
         ],
         "domain": [
           "Biomedical"
@@ -5530,13 +6280,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Data Science/ML/AI"
+          "Data Science/ML/AI",
+          "Software Development"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Software Development"
         ]
       }
     },
@@ -5588,13 +6336,11 @@
         "technical": [
           "Cloud",
           "Data Science/ML/AI",
-          "HPC"
+          "HPC",
+          "Software Development"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Software Development"
         ]
       }
     },
@@ -5643,7 +6389,7 @@
           "Academia",
           "Public sector"
         ],
-        "role": [
+        "technical": [
           "Software Development"
         ]
       }
@@ -5866,13 +6612,11 @@
       "categoryTypes": {
         "technical": [
           "Cloud",
-          "HPC"
+          "HPC",
+          "Software Development"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Software Development"
         ]
       }
     },
@@ -5924,13 +6668,11 @@
       "categoryTypes": {
         "technical": [
           "Data Science/ML/AI",
-          "HPC"
+          "HPC",
+          "Software Development"
         ],
         "sector": [
           "Academia"
-        ],
-        "role": [
-          "Software Development"
         ]
       }
     },
@@ -5955,8 +6697,10 @@
         "technical": [
           "Quantum Computing"
         ],
+        "domain": [
+          "Finance"
+        ],
         "sector": [
-          "Finance",
           "Industry"
         ],
         "role": [
@@ -6034,13 +6778,11 @@
       "categoryTypes": {
         "technical": [
           "HPC",
-          "Quantum Computing"
+          "Quantum Computing",
+          "Software Development"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Software Development"
         ]
       }
     },
@@ -6162,13 +6904,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Data Science/ML/AI"
+          "Data Science/ML/AI",
+          "Software Development"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Software Development"
         ]
       }
     },
@@ -6190,13 +6930,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Data Systems"
+          "Data Systems",
+          "Software Development"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Software Development"
         ]
       }
     },
@@ -6246,13 +6984,11 @@
       "categoryTypes": {
         "technical": [
           "Data Science/ML/AI",
-          "HPC"
+          "HPC",
+          "Ops/Automation"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Ops/Automation"
         ]
       }
     },
@@ -6332,7 +7068,9 @@
           "Industry"
         ],
         "role": [
-          "Project/Program Manager",
+          "Project/Program Manager"
+        ],
+        "technical": [
           "Software Development"
         ],
         "domain": [
@@ -6361,7 +7099,9 @@
           "Academia"
         ],
         "role": [
-          "IC Leadership",
+          "IC Leadership"
+        ],
+        "technical": [
           "Software Development"
         ]
       }
@@ -6384,13 +7124,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "HPC"
+          "HPC",
+          "Software Development"
         ],
         "sector": [
           "Academia"
-        ],
-        "role": [
-          "Software Development"
         ]
       }
     },
@@ -6471,7 +7209,7 @@
           "Academia",
           "Nonprofit"
         ],
-        "role": [
+        "technical": [
           "Software Development"
         ]
       }
@@ -6524,13 +7262,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "HPC"
+          "HPC",
+          "Software Development"
         ],
         "sector": [
           "Academia"
-        ],
-        "role": [
-          "Software Development"
         ]
       }
     },
@@ -6605,13 +7341,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Data Science/ML/AI"
+          "Data Science/ML/AI",
+          "Data Management/Governance"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Data Management/Governance"
         ],
         "domain": [
           "Biomedical"
@@ -6638,15 +7372,17 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Data Science/ML/AI"
+          "Data Science/ML/AI",
+          "Software Development"
+        ],
+        "domain": [
+          "Finance"
         ],
         "sector": [
-          "Finance",
           "Industry"
         ],
         "role": [
-          "IC Leadership",
-          "Software Development"
+          "IC Leadership"
         ]
       }
     },
@@ -6669,14 +7405,14 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Cloud"
+          "Cloud",
+          "Software Development"
         ],
         "sector": [
           "Industry"
         ],
         "role": [
-          "IC Leadership",
-          "Software Development"
+          "IC Leadership"
         ]
       }
     },
@@ -6699,7 +7435,7 @@
         "sector": [
           "Academia"
         ],
-        "role": [
+        "technical": [
           "Software Development"
         ]
       }
@@ -6803,7 +7539,7 @@
         "sector": [
           "Academia"
         ],
-        "role": [
+        "technical": [
           "Ops/Automation"
         ]
       }
@@ -6827,14 +7563,14 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Data Science/ML/AI"
+          "Data Science/ML/AI",
+          "Data Management/Governance"
         ],
         "sector": [
           "Industry"
         ],
         "role": [
-          "Consulting",
-          "Data Management/Governance"
+          "Consulting"
         ]
       }
     },
@@ -6905,7 +7641,7 @@
         "sector": [
           "Academia"
         ],
-        "role": [
+        "technical": [
           "Software Development"
         ]
       }
@@ -6959,13 +7695,13 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Cloud"
+          "Cloud",
+          "Ops/Automation"
         ],
         "sector": [
           "Industry"
         ],
         "role": [
-          "Ops/Automation",
           "Project/Program Manager"
         ]
       }
@@ -6990,13 +7726,11 @@
       "categoryTypes": {
         "technical": [
           "Cloud",
-          "Data Systems"
+          "Data Systems",
+          "Ops/Automation"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Ops/Automation"
         ]
       }
     },
@@ -7196,7 +7930,7 @@
         "sector": [
           "Academia"
         ],
-        "role": [
+        "technical": [
           "Data Management/Governance"
         ],
         "domain": [
@@ -7246,13 +7980,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "HPC"
+          "HPC",
+          "Ops/Automation"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Ops/Automation"
         ]
       }
     },
@@ -7322,13 +8054,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "HPC"
+          "HPC",
+          "Ops/Automation"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Ops/Automation"
         ]
       }
     },
@@ -7350,13 +8080,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "HPC"
+          "HPC",
+          "Software Development"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Software Development"
         ]
       }
     },
@@ -7402,13 +8130,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "HPC"
+          "HPC",
+          "Ops/Automation"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Ops/Automation"
         ]
       }
     },
@@ -7431,14 +8157,14 @@
       ],
       "categoryTypes": {
         "technical": [
-          "HPC"
+          "HPC",
+          "Ops/Automation"
         ],
         "sector": [
           "Industry"
         ],
         "role": [
-          "Consulting",
-          "Ops/Automation"
+          "Consulting"
         ]
       }
     },
@@ -7460,13 +8186,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "HPC"
+          "HPC",
+          "Software Development"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Software Development"
         ]
       }
     },
@@ -7523,14 +8247,14 @@
       "categoryTypes": {
         "technical": [
           "Cloud",
-          "Data Systems"
+          "Data Systems",
+          "Data Management/Governance"
         ],
         "sector": [
           "Industry"
         ],
         "role": [
-          "Consulting",
-          "Data Management/Governance"
+          "Consulting"
         ]
       }
     },
@@ -7613,14 +8337,14 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Data Science/ML/AI"
+          "Data Science/ML/AI",
+          "Software Development"
         ],
         "sector": [
           "Industry"
         ],
         "role": [
-          "Product Manager",
-          "Software Development"
+          "Product Manager"
         ]
       }
     },
@@ -7670,7 +8394,7 @@
         "sector": [
           "Academia"
         ],
-        "role": [
+        "technical": [
           "Software Development"
         ],
         "domain": [
@@ -7698,13 +8422,11 @@
       "categoryTypes": {
         "technical": [
           "Data Science/ML/AI",
-          "HPC"
+          "HPC",
+          "Software Development"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Software Development"
         ]
       }
     },
@@ -7751,14 +8473,14 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Quantum Computing"
+          "Quantum Computing",
+          "Software Development"
+        ],
+        "domain": [
+          "Finance"
         ],
         "sector": [
-          "Finance",
           "Industry"
-        ],
-        "role": [
-          "Software Development"
         ]
       }
     },
@@ -7810,13 +8532,11 @@
       "categoryTypes": {
         "technical": [
           "Cloud",
-          "Data Science/ML/AI"
+          "Data Science/ML/AI",
+          "Software Development"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Software Development"
         ]
       }
     },
@@ -7840,8 +8560,10 @@
         "technical": [
           "Data Science/ML/AI"
         ],
+        "domain": [
+          "Finance"
+        ],
         "sector": [
-          "Finance",
           "Industry"
         ]
       }
@@ -7866,13 +8588,11 @@
       "categoryTypes": {
         "technical": [
           "Cloud",
-          "Data Science/ML/AI"
+          "Data Science/ML/AI",
+          "Software Development"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Software Development"
         ]
       }
     },
@@ -7978,15 +8698,13 @@
       "categoryTypes": {
         "technical": [
           "Data Science/ML/AI",
-          "HPC"
-        ],
-        "sector": [
-          "Nonprofit"
-        ],
-        "role": [
+          "HPC",
           "Data Management/Governance",
           "Ops/Automation",
           "Software Development"
+        ],
+        "sector": [
+          "Nonprofit"
         ]
       }
     },
@@ -8038,8 +8756,10 @@
         "technical": [
           "Data Science/ML/AI"
         ],
+        "domain": [
+          "Finance"
+        ],
         "sector": [
-          "Finance",
           "Industry"
         ]
       }
@@ -8065,8 +8785,10 @@
         "technical": [
           "Data Science/ML/AI"
         ],
+        "domain": [
+          "Finance"
+        ],
         "sector": [
-          "Finance",
           "Industry"
         ],
         "role": [
@@ -8166,8 +8888,10 @@
         "technical": [
           "Data Science/ML/AI"
         ],
+        "domain": [
+          "Finance"
+        ],
         "sector": [
-          "Finance",
           "Industry"
         ]
       }
@@ -8364,13 +9088,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Cloud"
+          "Cloud",
+          "Ops/Automation"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Ops/Automation"
         ]
       }
     },
@@ -8446,13 +9168,11 @@
       "categoryTypes": {
         "technical": [
           "Data Science/ML/AI",
-          "HPC"
+          "HPC",
+          "Ops/Automation"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Ops/Automation"
         ]
       }
     },
@@ -8475,13 +9195,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Data Science/ML/AI"
+          "Data Science/ML/AI",
+          "Software Development"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Software Development"
         ],
         "domain": [
           "Biomedical"
@@ -8536,15 +9254,15 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Data Science/ML/AI"
+          "Data Science/ML/AI",
+          "Training/Education"
         ],
         "sector": [
           "Industry"
         ],
         "role": [
           "Consulting",
-          "Project/Program Manager",
-          "Training/Education"
+          "Project/Program Manager"
         ]
       }
     },
@@ -8570,7 +9288,9 @@
           "Academia"
         ],
         "role": [
-          "Product Manager",
+          "Product Manager"
+        ],
+        "technical": [
           "Software Development"
         ],
         "domain": [
@@ -8600,7 +9320,9 @@
           "Academia"
         ],
         "role": [
-          "IC Leadership",
+          "IC Leadership"
+        ],
+        "technical": [
           "Training/Education"
         ],
         "domain": [
@@ -8628,14 +9350,14 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Data Science/ML/AI"
+          "Data Science/ML/AI",
+          "Software Development"
         ],
         "sector": [
           "Industry"
         ],
         "role": [
-          "IC Leadership",
-          "Software Development"
+          "IC Leadership"
         ],
         "domain": [
           "Biomedical"
@@ -8664,7 +9386,9 @@
           "Academia"
         ],
         "role": [
-          "IC Leadership",
+          "IC Leadership"
+        ],
+        "technical": [
           "Software Development"
         ],
         "domain": [
@@ -8691,13 +9415,13 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Data Systems"
+          "Data Systems",
+          "Data Management/Governance"
         ],
         "sector": [
           "Academia"
         ],
         "role": [
-          "Data Management/Governance",
           "Project/Program Manager"
         ]
       }
@@ -8776,8 +9500,10 @@
         "technical": [
           "Data Science/ML/AI"
         ],
+        "domain": [
+          "Finance"
+        ],
         "sector": [
-          "Finance",
           "Industry"
         ]
       }
@@ -8855,13 +9581,13 @@
       "categoryTypes": {
         "technical": [
           "Data Science/ML/AI",
-          "HPC"
+          "HPC",
+          "Data Management/Governance"
         ],
         "sector": [
           "Academia"
         ],
         "role": [
-          "Data Management/Governance",
           "IC Leadership"
         ]
       }
@@ -8886,7 +9612,7 @@
         "sector": [
           "Nonprofit"
         ],
-        "role": [
+        "technical": [
           "Software Development"
         ],
         "domain": [
@@ -9095,13 +9821,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Cloud"
+          "Cloud",
+          "Software Development"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Software Development"
         ],
         "domain": [
           "Geospatial"
@@ -9126,13 +9850,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Cloud"
+          "Cloud",
+          "Software Development"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Software Development"
         ]
       }
     },
@@ -9155,13 +9877,11 @@
       ],
       "categoryTypes": {
         "technical": [
-          "Data Science/ML/AI"
+          "Data Science/ML/AI",
+          "Ops/Automation"
         ],
         "sector": [
           "Academia"
-        ],
-        "role": [
-          "Ops/Automation"
         ],
         "domain": [
           "Biomedical"
@@ -9188,13 +9908,11 @@
       "categoryTypes": {
         "technical": [
           "Cloud",
-          "HPC"
+          "HPC",
+          "Ops/Automation"
         ],
         "sector": [
           "Industry"
-        ],
-        "role": [
-          "Ops/Automation"
         ]
       }
     },
