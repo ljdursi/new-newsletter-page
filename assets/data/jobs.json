@@ -1,7 +1,297 @@
 {
-  "generated": "2025-12-29T21:18:45.569257",
-  "count": 368,
+  "generated": "2026-01-01T10:22:00.592241",
+  "count": 378,
   "jobs": [
+    {
+      "id": 3494,
+      "title": "Collaboration Manager, UK AI Factory Antenna, EPCC",
+      "company": "University of Edinburgh",
+      "location": "Edinburgh UK",
+      "city": "Edinburgh",
+      "state": "",
+      "country": "UK",
+      "description": "We are seeking a project manager to be in charge of activities that will identify and engage with new users and organisations for UKAIFA. Engagement and outreach work will involve a range of approaches, from roadshows at industry events and specific industry bodies, workshops with individual organisations (including research organisations) or sectors, and one-on-one discussions. Part of the activities will simply be promotional, raising awareness of UKAIFA, the resources available through UKAIFA and the wider AI ecosystem within the UK and European Union, and the services available (from training through to consultancy) to help organisations benefit from AI technologies.\r\nHowever, they will also involve more in-depth engagements, including events such as hackathons and development sprints, where AI approaches can be developed, and requirements and desired solutions can be prototyped and storyboarded.",
+      "url": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13540",
+      "posted": "2025-12-31",
+      "categories": [
+        "Data Science/ML/AI",
+        "Academia",
+        "Project/Program Manager"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Data Science/ML/AI"
+        ],
+        "sector": [
+          "Academia"
+        ],
+        "role": [
+          "Project/Program Manager"
+        ]
+      }
+    },
+    {
+      "id": 3485,
+      "title": "Associate VP for Research Computing",
+      "company": "University of Rochester",
+      "location": "Rochester NY USA",
+      "city": "Rochester",
+      "state": "NY",
+      "country": "USA",
+      "description": "The Associate Vice President (AVP) for Research Computing serves as the senior executive responsible for the vision, strategy, and execution of institution-wide research computing infrastructure and services. As a member of the University’s IT and research leadership, the AVP oversees the High Performance Computing (HPC) and data-intensive research environments that enable world-class, interdisciplinary research across all academic disciplines. The AVP provides thought leadership in advanced computing infrastructure, leads enterprise-scale research computing initiatives, and ensures alignment with evolving faculty needs, regulatory requirements, and national standards. The role engages faculty, research leadership, and external agencies to position the university as a national leader in computational science and digital research infrastructure.",
+      "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Collegetown-Building-3/Associate-VP-for-Research-Computing_R267472",
+      "posted": "2025-12-30",
+      "categories": [
+        "HPC",
+        "Academia",
+        "Executive"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "HPC"
+        ],
+        "sector": [
+          "Academia"
+        ],
+        "role": [
+          "Executive"
+        ]
+      }
+    },
+    {
+      "id": 3493,
+      "title": "Associate Vice President, Research Computing and Data - Office of the Vice President for Research (OVPR)",
+      "company": "Carnegie Mellon University",
+      "location": "Pittsburgh PA USA",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "country": "USA",
+      "description": "Carnegie Mellon University (CMU), a global leader in research and innovation, invites candidates to apply for the newly created role of Associate Vice President for Research Computing and Data (AVP RCD). This role, which will serve in a leadership capacity in both the Office of the Vice President for Research and the Office of the Vice President and Chief Information Officer, offers a unique opportunity to elevate and transform CMU’s research computing ecosystem so that it supports groundbreaking research, enhances collaboration, and enables leading-edge innovation across the university’s research enterprise. After careful study led by university leaders, CMU has committed to significant investment in research computing resources, forming the Office of Research Computing and Data to design, develop, and oversee this initiative.",
+      "url": "https://cmu.wd5.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Associate-Vice-President--Research-Computing-and-Data---Office-of-the-Vice-President-for-Research--OVPR-_2023266",
+      "posted": "2025-12-30",
+      "categories": [
+        "HPC",
+        "Storage",
+        "Academia",
+        "Data Management/Governance",
+        "Executive"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "HPC",
+          "Storage",
+          "Data Management/Governance"
+        ],
+        "sector": [
+          "Academia"
+        ],
+        "role": [
+          "Executive"
+        ]
+      }
+    },
+    {
+      "id": 3487,
+      "title": "Development Manager (m/f/d) - Optimization & Quantum Algorithms",
+      "company": "SAP",
+      "location": "Garching DE",
+      "city": "Garching",
+      "state": "DE",
+      "country": "",
+      "description": "SAP is launching a bold, long-term initiative to explore the transformative potential of Quantum Technologies in enterprise software. Anchored within the Office of the CTO and led by a dedicated Head of Quantum, we are building a world-class team of experts across physics, algorithms, engineering, and enterprise domains. This effort aims to develop quantum-enabled applications, foster collaboration across business units, and grow an ecosystem of partners, start-ups, and research institutions. The Development Manager Optimization & Quantum will play a pivotal leadership role within the SCM Optimization organization, managing a team high-performing of developers and architects to evolve the algorithms of the SCM Optimization & Data Science technology to become truly “quantum-native”. In this position you are responsible for building-up a team of experts that executes on  SAP’s vision of Quantum Optimization in future quantum algorithms for Optimization and Data Science. In your role you will collaborate with leading experts in the field of High-Performance Computing, Operations Research and Quantum Computing across domains and jurisdictions",
+      "url": "https://jobs.sap.com/job/Garching-Development-Manager-%28mfd%29-Optimization-&-Quantum-Algorithms-85748/1244139601/?feedId=384233",
+      "posted": "2025-12-30",
+      "categories": [
+        "Quantum Computing",
+        "Industry",
+        "IC Leadership",
+        "Software Development"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Quantum Computing",
+          "Software Development"
+        ],
+        "sector": [
+          "Industry"
+        ],
+        "role": [
+          "IC Leadership"
+        ]
+      }
+    },
+    {
+      "id": 3486,
+      "title": "Director of Research Computing - Radiology",
+      "company": "Washington University Saint Louis",
+      "location": "Saint Louis MO USA",
+      "city": "Saint Louis",
+      "state": "MO",
+      "country": "USA",
+      "description": "Position manages the administration, support, operational, and developmental functions for Research Imaging Division facilities’ specialized computing systems and resources. Coordinates with Senior Director of IT regarding overall Department and University policies and procedures, standards, processes, and projects.",
+      "url": "https://wustl.wd1.myworkdayjobs.com/External/job/Washington-University-Medical-Campus/Director-of-Research-Computing---Radiology_JR91004",
+      "posted": "2025-12-30",
+      "categories": [
+        "HPC",
+        "Academia",
+        "Biomedical"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "HPC"
+        ],
+        "sector": [
+          "Academia"
+        ],
+        "domain": [
+          "Biomedical"
+        ]
+      }
+    },
+    {
+      "id": 3491,
+      "title": "Director of Software Engineering",
+      "company": "Infleqtion",
+      "location": "Chicago IL USA",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "description": "Manage, develop, build, and lead a team of software developers & DevOps engineers. Mentor and guide direct reports, fostering their growth and enhancing the team's technical expertise. Develop, communicate, and enforce software development standards and processes.  Maintain a comprehensive understanding of the Infleqtion quantum computing software systems, their operational principles, their requirements, the broad technical stack, etc.; architect and design control system software; hands-on application of deep subject matter expertise in building software systems.  In collaboration with programmatic leadership and adjacent engineering disciplines, develop and execute a technical roadmap for software deliverables across the control stack to support given high-level quantum computing performance targets and system deliverables\r\nCommunicate software feature roadmaps and resource needs between the control software team, adjacent stakeholders, and executive management",
+      "url": "https://www.linkedin.com/jobs/view/4343070912/",
+      "posted": "2025-12-30",
+      "categories": [
+        "Quantum Computing",
+        "Industry",
+        "Software Development"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Quantum Computing",
+          "Software Development"
+        ],
+        "sector": [
+          "Industry"
+        ]
+      }
+    },
+    {
+      "id": 3489,
+      "title": "Director, Genomics Data",
+      "company": "Baylor Genetics",
+      "location": "Remote USA",
+      "city": "",
+      "state": "",
+      "country": "USA",
+      "description": "Baylor Genetics is seeking an accomplished and visionary leader to accelerate future growth within the Bioinformatics R&D and Data Science organization. The Director, Genomics Data will serve as a technical and people leader, driving the innovation in genomics data analysis, data platform architecture design, data commercialization, and enterprise data ETL and storage.   The successful candidate will lead a group of Sr. Data Engineers and Bioinformatics data scientists to integrate genomics, clinical, and business information into a cohesive data ecosystem, advancing genomic insights discovery, knowledge management, data analytics, and data product development.",
+      "url": "https://recruiting2.ultipro.com/BAY1006BML/JobBoard/0669eed3-5441-4f8e-a7b1-c5df596a4dfe/OpportunityDetail?opportunityId=7a00e641-47ec-4bab-8fac-054974315063",
+      "posted": "2025-12-30",
+      "categories": [
+        "Storage",
+        "Industry",
+        "Data Management/Governance",
+        "Biomedical"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Storage",
+          "Data Management/Governance"
+        ],
+        "sector": [
+          "Industry"
+        ],
+        "domain": [
+          "Biomedical"
+        ]
+      }
+    },
+    {
+      "id": 3492,
+      "title": "HPC Storage Systems Team Lead",
+      "company": "Argonne National Laboratories",
+      "location": "Argonne IL USA",
+      "city": "Argonne",
+      "state": "IL",
+      "country": "USA",
+      "description": "The HPC Storage Systems Team Lead provides team leadership and overall technical planning for projects related to the HPC Storage team of the Argonne Leadership Computing Facility (ALCF).",
+      "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/HPC-Storage-Systems-Team-Lead_421536?source=Linkedin",
+      "posted": "2025-12-30",
+      "categories": [
+        "HPC",
+        "Storage",
+        "Public sector",
+        "IC Leadership"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "HPC",
+          "Storage"
+        ],
+        "sector": [
+          "Public sector"
+        ],
+        "role": [
+          "IC Leadership"
+        ]
+      }
+    },
+    {
+      "id": 3490,
+      "title": "Senior Director, Advanced Systems (HPC)",
+      "company": "Princeton University",
+      "location": "Princeton NJ",
+      "city": "Princeton",
+      "state": "NJ",
+      "country": "",
+      "description": "The Senior Director of Advanced Systems in the Research Computing department within the Office of the Dean for Research, leads a team of technical experts and system administrators that design, deploy, maintain, and support Princeton’s centralized high performance computing (HPC) systems. Based on the strategic vision defined by University leadership and campus partners, the Senior Director of Advanced Systems sets the strategic roadmap for advanced HPC systems, provides technical leadership to their team and campus partners, and is ultimately responsible for cluster design, implementation, schedule efficiency, and administration. The Senior Director monitors research and technology trends in the computational research space and spearheads the technical design and implementation of services that meet campus needs This requires the Senior Director to remain current with trends in data science, machine learning, deep learning and AI technologies while anticipating faculty needs and strategically advocating for growth in Princeton-offered services. Responsible for understanding changes to campus need and technology evolution, the Senior Director of Advanced Systems plays a crucial role in balancing institutional investment with campus demand and new technology trends to meet the needs of our world class research community.",
+      "url": "https://main-princeton.icims.com/jobs/21296/senior-director%2c-advanced-systems-%28hpc%29/job",
+      "posted": "2025-12-30",
+      "categories": [
+        "HPC",
+        "Academia"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "HPC"
+        ],
+        "sector": [
+          "Academia"
+        ]
+      }
+    },
+    {
+      "id": 3488,
+      "title": "Senior HPC for Earth Sciences Team Leader",
+      "company": "Barcelona Supercomputing Center",
+      "location": "Barcelona ES",
+      "city": "Barcelona",
+      "state": "ES",
+      "country": "",
+      "description": "The successful candidate will join the Computational Earth Sciences group to co-lead the activities of the HPC for Earth Sciences team, which is responsible for the good scalability and efficient hardware resource usage of Earth models and applications by identifying computational bottlenecks and optimizing them using cutting-edge performance tools and HPC techniques, including from more efficient numerical algorithms to architecture-aware approaches.  The HPC for Earth Sciences team plays a crucial role in the research to operations cycle, including initiatives such as Destination Earth and the European Digital Twin of the Ocean. It has strong links with the other teams in the Computational Earth Sciences group and with the research groups in the department.",
+      "url": "https://www.bsc.es/join-us/job-opportunities/45725eshpcre3",
+      "posted": "2025-12-30",
+      "categories": [
+        "HPC",
+        "Academia",
+        "IC Leadership",
+        "Software Development",
+        "Weather/Climate"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "HPC",
+          "Software Development"
+        ],
+        "sector": [
+          "Academia"
+        ],
+        "role": [
+          "IC Leadership"
+        ],
+        "domain": [
+          "Weather/Climate"
+        ]
+      }
+    },
     {
       "id": 3475,
       "title": "AI Network Development Manager",
