@@ -8,7 +8,51 @@
     <description>Active job postings for research computing team leaders and managers</description>
     <link>https://www.researchcomputingteams.org/jobs</link>
     <atom:link href="https://www.researchcomputingteams.org/jobs.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 01 Jan 2026 15:22:00 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 15:47:32 -0000</lastBuildDate>
+
+    <item>
+      <title>Associate Director of AI - AstraZenica</title>
+      <description><p>You will join a dynamic Predictive AI and Data team that partners with experts across both pre-clinical and clinical stages. Your work will focus on translating complex scientific data into actionable insights, demonstrating value by accelerating existing research processes, and helping build robust AI solutions in production alongside other data science and software engineering teams. This is a forward-deployed role, giving you the opportunity to work hands-on with end users, configure AI tools to meet their needs, and see your solutions move from concept to real-world application.</p>
+<p><strong>Location:</strong> Barcelona ES</p>
+<p><strong>Categories:</strong> Data Science/ML/AI, Industry, Biomedical</p>
+<p><a href="https://careers.astrazeneca.com/job/-/-/7684/89801830128?source=LinkedIn">View Job Posting</a></p></description>
+      <pubDate>Sat, 03 Jan 2026 05:00:00 -0000</pubDate>
+      <link>https://careers.astrazeneca.com/job/-/-/7684/89801830128?source=LinkedIn</link>
+      <guid isPermaLink="false">job-3497</guid>
+    </item>
+
+    <item>
+      <title>Head of AI Core Unit / Data Scientist - BioSysteM - Technical University of Munich</title>
+      <description><p>We are looking for an Independent junior research group leader (m/f/d) with knowledge of data / AI science to set up and lead the AI Core Unit of the BioSysteM Cluster of Excellence as soon as possible. The position is initially for 4 years and can be extended until 31.12.2032</p>
+<p><strong>Location:</strong> Munich DE</p>
+<p><strong>Categories:</strong> Data Science/ML/AI, Academia, Biomedical, Core Facility</p>
+<p><a href="https://portal.mytum.de/jobs/wissenschaftler/NewsArticle_20251204_155309">View Job Posting</a></p></description>
+      <pubDate>Sat, 03 Jan 2026 05:00:00 -0000</pubDate>
+      <link>https://portal.mytum.de/jobs/wissenschaftler/NewsArticle_20251204_155309</link>
+      <guid isPermaLink="false">job-3496</guid>
+    </item>
+
+    <item>
+      <title>Head of Quantum Customer Solutions - Silicon Quantum Computing</title>
+      <description><p>As Head of Quantum Customer Solutions, you will build and lead SQC’s customer-facing technical team to drive the adoption and commercialisation of our quantum computing products. This strategic, high-impact role sits at the intersection of technology, customer engagement, and business growth.</p>
+<p><strong>Location:</strong> Sydney NSW AU</p>
+<p><strong>Categories:</strong> Quantum Computing, Industry, Consulting</p>
+<p><a href="https://careers.sqc.com.au/jobs/6951978-head-of-quantum-customer-solutions">View Job Posting</a></p></description>
+      <pubDate>Sat, 03 Jan 2026 05:00:00 -0000</pubDate>
+      <link>https://careers.sqc.com.au/jobs/6951978-head-of-quantum-customer-solutions</link>
+      <guid isPermaLink="false">job-3498</guid>
+    </item>
+
+    <item>
+      <title>Manager, Data Science &amp; Artificial Intelligence - British Columbia Institute of Technology</title>
+      <description><p>BCIT’s Information Technology Services department is seeking a regular, full-time (1.0 FTE) Manager, Data Science &amp; Artificial Intelligence. This position establishes and implements a corporate data model, data management, data governance, data warehousing and architecture programs for the Institute in alignment with the organizational priorities, plans, goals and strategic decision making. Oversees the Institute’s operational reporting systems, including IBM Cognos, IBM TM1, and Millennium FAST Reports and associated Oracle and Microsoft SQL databases. Leads the development and governance of Artificial Intelligence (AI) initiatives across the Institute ensuring ethical, transparent, and responsible use of AI technologies are in alignment with institutional goals and regulatory standards.</p>
+<p><strong>Location:</strong> Burnaby BC CA</p>
+<p><strong>Categories:</strong> Data Science/ML/AI, Academia, Data Management/Governance</p>
+<p><a href="https://careers.bcit.ca/postings/9960">View Job Posting</a></p></description>
+      <pubDate>Sat, 03 Jan 2026 05:00:00 -0000</pubDate>
+      <link>https://careers.bcit.ca/postings/9960</link>
+      <guid isPermaLink="false">job-3495</guid>
+    </item>
 
     <item>
       <title>Collaboration Manager, UK AI Factory Antenna, EPCC - University of Edinburgh</title>
