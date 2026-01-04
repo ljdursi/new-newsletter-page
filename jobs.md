@@ -94,6 +94,26 @@ Email me a job link to have it added to the job board for free; listings will ap
     margin-bottom: 0.75rem;
   }
 
+  .job-description.collapsed {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+  }
+
+  .job-description-toggle {
+    color: #1E63BD;
+    cursor: pointer;
+    font-size: 0.9rem;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 0.25rem;
+  }
+
+  .job-description-toggle:hover {
+    text-decoration: underline;
+  }
+
   .job-categories {
     display: flex;
     flex-wrap: wrap;
@@ -222,7 +242,10 @@ Email me a job link to have it added to the job board for free; listings will ap
           </div>
           <div class="job-company">${job.company}</div>
           ${job.location ? `<div class="job-location">📍 ${job.location}</div>` : ''}
-          ${job.description ? `<div class="job-description">${job.description}</div>` : ''}
+          ${job.description ? `
+            <div class="job-description collapsed" data-job-id="${job.id}">${job.description}</div>
+            <a class="job-description-toggle" data-job-id="${job.id}">Show more</a>
+          ` : ''}
           ${job.categories.length ? `
             <div class="job-categories">
               ${job.categories.map(cat => `<span class="job-category">${cat}</span>`).join('')}
@@ -232,6 +255,23 @@ Email me a job link to have it added to the job board for free; listings will ap
         </div>
       `;
     }).join('');
+
+    // Add click handlers for description toggles
+    document.querySelectorAll('.job-description-toggle').forEach(toggle => {
+      toggle.addEventListener('click', function(e) {
+        e.preventDefault();
+        const jobId = this.getAttribute('data-job-id');
+        const description = document.querySelector(`.job-description[data-job-id="${jobId}"]`);
+
+        if (description.classList.contains('collapsed')) {
+          description.classList.remove('collapsed');
+          this.textContent = 'Show less';
+        } else {
+          description.classList.add('collapsed');
+          this.textContent = 'Show more';
+        }
+      });
+    });
   }
 
   // Event listeners
