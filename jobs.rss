@@ -8,7 +8,51 @@
     <description>Active job postings for research computing team leaders and managers</description>
     <link>https://www.researchcomputingteams.org/jobs</link>
     <atom:link href="https://www.researchcomputingteams.org/jobs.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 04 Jan 2026 15:47:32 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 00:33:04 -0000</lastBuildDate>
+
+    <item>
+      <title>Director, Artificial Intelligence - Saskatchewan Research Council</title>
+      <description><p>The Saskatchewan Research Council’s (SRC) Corporate Services team is seeking a Director, Artificial Intelligence to set up and lead SRC’s Artificial Intelligence (AI) function. This role will develop and deliver SRC’s AI strategy and organizational AI framework. The Director will work closely with SRC Divisions to deliver high-value AI projects and services that improve internal performance and applied AI offerings for external clients.</p>
+<p><strong>Location:</strong> Saskatoon SK USA</p>
+<p><strong>Categories:</strong> Data Science/ML/AI, Public sector, Project/Program Manager</p>
+<p><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&amp;jobId=556591">View Job Posting</a></p></description>
+      <pubDate>Tue, 06 Jan 2026 05:00:00 -0000</pubDate>
+      <link>https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&amp;jobId=556591</link>
+      <guid isPermaLink="false">job-3501</guid>
+    </item>
+
+    <item>
+      <title>HPC Storage Systems Team Lead - Argonne National Laboratory</title>
+      <description><p>The HPC Storage Systems Team Lead provides team leadership and overall technical planning for projects related to the HPC Storage team of the Argonne Leadership Computing Facility (ALCF). This role involves: The technical operation, administration, and maintenance of hardware and software components of disk storage and file systems for the facility’s supercomputing resources. The team lead will also lead efforts in the design and planning for future machine upgrades and recommend improved approaches for providing disk storage and file system services. Provide rigorous oversight of design, testing, and deployment for storage solutions while mentoring team members and stakeholders on emerging storage technologies.</p>
+<p><strong>Location:</strong> Lemont IL USA</p>
+<p><strong>Categories:</strong> HPC, Storage, Public sector, IC Leadership</p>
+<p><a href="https://argonne.wd1.myworkdayjobs.com/en-US/Argonne_Careers/job/Lemont-IL-USA/HPC-Storage-Systems-Team-Lead_421536">View Job Posting</a></p></description>
+      <pubDate>Tue, 06 Jan 2026 05:00:00 -0000</pubDate>
+      <link>https://argonne.wd1.myworkdayjobs.com/en-US/Argonne_Careers/job/Lemont-IL-USA/HPC-Storage-Systems-Team-Lead_421536</link>
+      <guid isPermaLink="false">job-3502</guid>
+    </item>
+
+    <item>
+      <title>Lead Research Software Engineer, Princeton AI Lab - Princeton University</title>
+      <description><p>As Lead RSE, you will play a key role in both communities: collaborating with faculty, postdoctoral researchers, and students from diverse disciplines while leading a small team of Research Software Engineers. Your team will design and implement robust, maintainable software solutions for complex research problems and promote best practices in software engineering and reproducible science.</p>
+<p><strong>Location:</strong> Princeton NJ USA</p>
+<p><strong>Categories:</strong> Data Science/ML/AI, Academia, IC Leadership, Software Development</p>
+<p><a href="https://main-princeton.icims.com/jobs/21397/lead-research-software-engineer/job">View Job Posting</a></p></description>
+      <pubDate>Tue, 06 Jan 2026 05:00:00 -0000</pubDate>
+      <link>https://main-princeton.icims.com/jobs/21397/lead-research-software-engineer/job</link>
+      <guid isPermaLink="false">job-3499</guid>
+    </item>
+
+    <item>
+      <title>Software Development Manager, Digital Pathology - Roche</title>
+      <description><p>In this role you will work with a highly collaborative team of imaging scientists, product managers and software developers and build imaging and data analysis algorithms and solutions in the field of Digital Pathology. You will be a technical expert for Software Development in Test and manage a team focused on software verification of image processing algorithms, pattern recognition and integration with platform software. You will provide oversight on software best practices, test automation, verification and release.</p>
+<p><strong>Location:</strong> Mississauga ON CA</p>
+<p><strong>Categories:</strong> Industry, Software Development, Biomedical</p>
+<p><a href="https://careers.roche.com/global/en/job/ROCHGLOBAL202509122770EXTERNALENGLOBAL/Software-Development-Manager">View Job Posting</a></p></description>
+      <pubDate>Tue, 06 Jan 2026 05:00:00 -0000</pubDate>
+      <link>https://careers.roche.com/global/en/job/ROCHGLOBAL202509122770EXTERNALENGLOBAL/Software-Development-Manager</link>
+      <guid isPermaLink="false">job-3500</guid>
+    </item>
 
     <item>
       <title>Associate Director of AI - AstraZenica</title>
