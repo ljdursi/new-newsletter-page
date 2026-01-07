@@ -8,7 +8,7 @@
     <description>Active job postings for research computing team leaders and managers</description>
     <link>https://www.researchcomputingteams.org/jobs</link>
     <atom:link href="https://www.researchcomputingteams.org/jobs.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 07 Jan 2026 00:33:04 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 15:36:18 -0000</lastBuildDate>
 
     <item>
       <title>Director, Artificial Intelligence - Saskatchewan Research Council</title>
@@ -355,17 +355,6 @@ Shape Strategy: Partner with Product and Engineering leaders to define and execu
     </item>
 
     <item>
-      <title>Quantum Simulation Team Lead - Barrington James</title>
-      <description><p>In this role, you’ll mentor a dynamic team, collaborate across disciplines, and lead research in Quantum Error Correction (QEC) and cQED system modeling. Your work will bridge theory with real-world application, helping to solve some of the most complex challenges in the quantum space.</p>
-<p><strong>Location:</strong> QC CA</p>
-<p><strong>Categories:</strong> Quantum Computing, Finance, Industry</p>
-<p><a href="https://www.linkedin.com/jobs/view/4341294339/">View Job Posting</a></p></description>
-      <pubDate>Mon, 29 Dec 2025 05:00:00 -0000</pubDate>
-      <link>https://www.linkedin.com/jobs/view/4341294339/</link>
-      <guid isPermaLink="false">job-3483</guid>
-    </item>
-
-    <item>
       <title>Research Computing Manager - Sunnybrook Research Institute (SRI) - SunnyBrook Health Sciences Centre</title>
       <description><p>The Research Computing Manager serves as a technical expert on SRI’s research and high-performance computing infrastructure and is responsible for maintaining existing capabilities, developing new functionality, and supporting SRI faculty and student work.
  
@@ -445,17 +434,6 @@ The Research Computing Manager will maintain core systems and software along wit
     </item>
 
     <item>
-      <title>Senior Product Manager, Quantum Product, Quantum AI, Hardware - Google</title>
-      <description><p>Conduct market research and engaged analysis to identify user needs and emerging trends, utilizing these insights to shape the product goal and prioritize the hardware roadmap.  Collaborate with engineering and research teams to translate technical capabilities into detailed product requirements, balancing technical innovation with delivery feasibility.  Define the go-to-market strategy and contribute to the cross-functional implementation of the plan, coordinating with Marketing and Sales to develop pricing, positioning, and technical enablement materials.  Manage the full product life-cycle, defining requirements for operational readiness, reliability, and serviceability to ensure successful adoption and long-term maintenance.  Act as a product subject matter expert, staying abreast of technical and business developments in the quantum computing and related quantum technology industries.</p>
-<p><strong>Location:</strong> Goleta or Los Angeles CA USA</p>
-<p><strong>Categories:</strong> Cloud, Quantum Computing, Industry, Product Manager</p>
-<p><a href="https://www.google.com/about/careers/applications/jobs/results/102254994459108038-senior-product-manager-quantum-product-quantum-ai-hardware">View Job Posting</a></p></description>
-      <pubDate>Mon, 29 Dec 2025 05:00:00 -0000</pubDate>
-      <link>https://www.google.com/about/careers/applications/jobs/results/102254994459108038-senior-product-manager-quantum-product-quantum-ai-hardware</link>
-      <guid isPermaLink="false">job-3472</guid>
-    </item>
-
-    <item>
       <title>Senior Program Manager, Clinical Research Informatics - Columbia University</title>
       <description><p>The Irving Institute seeks a Senior Program Manager for Clinical Research Informatics. The Senior Program Manager is charged with development, implementation, and coordination of research support services and instructional programs to facilitate clinical research informatics. The candidate will work independently and proactively towards the development, implementation, coordination and management of research support services and instructional programs to facilitate clinical research informatics. With direction from the Co-Directors, the Senior Program Manager will coordinate, monitor and report on Clinical Research Informatics projects with participating faculty. In coordination with research administration leaders, the Senior Program Manager will assist institutional research programs to simplify and enhance research processes.</p>
 <p><strong>Location:</strong> New York NY USA</p>
@@ -511,17 +489,6 @@ The Research Computing Manager will maintain core systems and software along wit
     </item>
 
     <item>
-      <title>Technical Program Manager, HPC, Research Computing, SLED (State, Local, and Education), Google Public Sector - Google</title>
-      <description><p>As a Technical Program Manager, you will be at the forefront of orchestrating and optimizing a portfolio of large-scale, multi-year technical transformation engagements that drive significant value and improve constituent experience. You will provide thought leadership, technical goal, and delivery management expertise, collaborating extensively with cross-functional Google executives, sales teams, and key technical leaders including Architects, Engineers, and stakeholders like CTOs and CIOs. You will be a leader who operates with a high degree of autonomy and trust, taking ownership and driving outcomes through clear strategic intent.</p>
-<p><strong>Location:</strong> Cambridge MA or New York NY USA</p>
-<p><strong>Categories:</strong> Cloud, HPC, Industry</p>
-<p><a href="https://www.google.com/about/careers/applications/jobs/results/142955288356364998-technical-program-manager-hpc-research-computing-sled-google-public-sector">View Job Posting</a></p></description>
-      <pubDate>Mon, 29 Dec 2025 05:00:00 -0000</pubDate>
-      <link>https://www.google.com/about/careers/applications/jobs/results/142955288356364998-technical-program-manager-hpc-research-computing-sled-google-public-sector</link>
-      <guid isPermaLink="false">job-3476</guid>
-    </item>
-
-    <item>
       <title>Group Leader, Software Services Development - Oak Ridge National Laboratory</title>
       <description><p>We are seeking an individual that will provide leadership to the Software Services Development group. The technical focus of the group&#x27;s work is on internal and external-facing web applications and APIs that are critical to the day-to-day operations of the NCCS, and by extension, ORNL’s aspiration to be the world’s premier R&amp;D institution. 
 
@@ -532,17 +499,6 @@ One of the largest applications the group develops and maintains is the NCCS cus
       <pubDate>Thu, 18 Dec 2025 05:00:00 -0000</pubDate>
       <link>https://jobs.ornl.gov/job/Oak-Ridge-Group-Leader%2C-Software-Services-Development-TN-37830/1341104700/</link>
       <guid isPermaLink="false">job-1</guid>
-    </item>
-
-    <item>
-      <title>Senior Technical Lead of Research Infrastructure - University of Colorado</title>
-      <description><p>This role provides technical leadership and hands-on expertise for research computing infrastructure, including HPC systems (Alpine), research storage (PetaLibrary, scratch), and Blanca clusters. The Lead serves as the senior technical expert and primary mentor for HPC Specialists and Storage System Administrators within the Research Infrastructure Technology (RIT) team. This position also translates architectural direction from the Associate Director into practical implementation, leads complex technical work, and develops team capabilities through direct mentorship and guidance.</p>
-<p><strong>Location:</strong> Boulder CO USA</p>
-<p><strong>Categories:</strong> HPC, Storage, Academia, Support</p>
-<p><a href="https://jobs.colorado.edu/jobs/JobDetail/Senior-Technical-Lead-of-Research-Infrastructure/69042">View Job Posting</a></p></description>
-      <pubDate>Tue, 09 Dec 2025 05:00:00 -0000</pubDate>
-      <link>https://jobs.colorado.edu/jobs/JobDetail/Senior-Technical-Lead-of-Research-Infrastructure/69042</link>
-      <guid isPermaLink="false">job-2</guid>
     </item>
 
     <item>
@@ -824,17 +780,6 @@ leadership.</p>
       <pubDate>Fri, 15 Aug 2025 04:00:00 -0000</pubDate>
       <link>https://main-princeton.icims.com/jobs/19506/lead-research-software-engineer/job?hub=15&amp;_gl=1*1q48gki*_ga*NjM3NDY0NzM4LjE3NTAxNzQ4NDE.*_ga_5Y2BYGL910*czE3NTA5NzA2MzckbzMkZzEkdDE3NTA5NzA3MDQkajU5JGwwJGgw</link>
       <guid isPermaLink="false">job-35</guid>
-    </item>
-
-    <item>
-      <title>Computational Consulting Lead,  Kellogg School of Management - Northwestern University</title>
-      <description><p>As the Computational Computing Lead, you will lead a team of Computational Research Consultants that sits within a dedicated Research Support team at Kellogg. Clients include Kellogg faculty members and doctoral students with a broad spectrum of academic backgrounds, research interests, and technical backgrounds. Consultants typically engage multiple clients at a time, and these engagements may last from a few days to several weeks. As the team leader, you will also consult with clients and manage some projects in addition to providing supervisory and thought leadership to the team.  As the team lead, you will guide the strategic evolution of the research computing environment at Kellogg and the services your team provides. You will set high standards for service and help your team to meet them. You will anticipate emerging needs in the computational social sciences and proactively develop practical plans to address them. You will also build and maintain healthy working relationships with our technology partners.</p>
-<p><strong>Location:</strong> Evanston IL USA</p>
-<p><strong>Categories:</strong> Academia, IC Leadership</p>
-<p><a href="https://careers.northwestern.edu/psc/hrnu_er/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=52325&amp;PostingSeq=1">View Job Posting</a></p></description>
-      <pubDate>Tue, 05 Aug 2025 04:00:00 -0000</pubDate>
-      <link>https://careers.northwestern.edu/psc/hrnu_er/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=52325&amp;PostingSeq=1</link>
-      <guid isPermaLink="false">job-37</guid>
     </item>
 
     <item>

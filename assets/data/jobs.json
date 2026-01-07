@@ -1,6 +1,6 @@
 {
-  "generated": "2026-01-06T19:33:03.984393",
-  "count": 386,
+  "generated": "2026-01-07T10:36:18.060672",
+  "count": 381,
   "jobs": [
     {
       "id": 3501,
@@ -895,34 +895,6 @@
       }
     },
     {
-      "id": 3483,
-      "title": "Quantum Simulation Team Lead",
-      "company": "Barrington James",
-      "location": "QC CA",
-      "city": "",
-      "state": "QC",
-      "country": "Canada",
-      "description": "In this role, you’ll mentor a dynamic team, collaborate across disciplines, and lead research in Quantum Error Correction (QEC) and cQED system modeling. Your work will bridge theory with real-world application, helping to solve some of the most complex challenges in the quantum space.",
-      "url": "https://www.linkedin.com/jobs/view/4341294339/",
-      "posted": "2025-12-29",
-      "categories": [
-        "Quantum Computing",
-        "Finance",
-        "Industry"
-      ],
-      "categoryTypes": {
-        "technical": [
-          "Quantum Computing"
-        ],
-        "domain": [
-          "Finance"
-        ],
-        "sector": [
-          "Industry"
-        ]
-      }
-    },
-    {
       "id": 3463,
       "title": "Research Computing Manager - Sunnybrook Research Institute (SRI)",
       "company": "SunnyBrook Health Sciences Centre",
@@ -1123,36 +1095,6 @@
       }
     },
     {
-      "id": 3472,
-      "title": "Senior Product Manager, Quantum Product, Quantum AI, Hardware",
-      "company": "Google",
-      "location": "Goleta or Los Angeles CA USA",
-      "city": "Goleta or Los Angeles",
-      "state": "CA",
-      "country": "USA",
-      "description": "Conduct market research and engaged analysis to identify user needs and emerging trends, utilizing these insights to shape the product goal and prioritize the hardware roadmap.  Collaborate with engineering and research teams to translate technical capabilities into detailed product requirements, balancing technical innovation with delivery feasibility.  Define the go-to-market strategy and contribute to the cross-functional implementation of the plan, coordinating with Marketing and Sales to develop pricing, positioning, and technical enablement materials.  Manage the full product life-cycle, defining requirements for operational readiness, reliability, and serviceability to ensure successful adoption and long-term maintenance.  Act as a product subject matter expert, staying abreast of technical and business developments in the quantum computing and related quantum technology industries.",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/102254994459108038-senior-product-manager-quantum-product-quantum-ai-hardware",
-      "posted": "2025-12-29",
-      "categories": [
-        "Cloud",
-        "Quantum Computing",
-        "Industry",
-        "Product Manager"
-      ],
-      "categoryTypes": {
-        "technical": [
-          "Cloud",
-          "Quantum Computing"
-        ],
-        "sector": [
-          "Industry"
-        ],
-        "role": [
-          "Product Manager"
-        ]
-      }
-    },
-    {
       "id": 3469,
       "title": "Senior Program Manager, Clinical Research Informatics",
       "company": "Columbia University",
@@ -1289,32 +1231,6 @@
       }
     },
     {
-      "id": 3476,
-      "title": "Technical Program Manager, HPC, Research Computing, SLED (State, Local, and Education), Google Public Sector",
-      "company": "Google",
-      "location": "Cambridge MA or New York NY USA",
-      "city": "Cambridge MA or New York",
-      "state": "NY",
-      "country": "USA",
-      "description": "As a Technical Program Manager, you will be at the forefront of orchestrating and optimizing a portfolio of large-scale, multi-year technical transformation engagements that drive significant value and improve constituent experience. You will provide thought leadership, technical goal, and delivery management expertise, collaborating extensively with cross-functional Google executives, sales teams, and key technical leaders including Architects, Engineers, and stakeholders like CTOs and CIOs. You will be a leader who operates with a high degree of autonomy and trust, taking ownership and driving outcomes through clear strategic intent.",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/142955288356364998-technical-program-manager-hpc-research-computing-sled-google-public-sector",
-      "posted": "2025-12-29",
-      "categories": [
-        "Cloud",
-        "HPC",
-        "Industry"
-      ],
-      "categoryTypes": {
-        "technical": [
-          "Cloud",
-          "HPC"
-        ],
-        "sector": [
-          "Industry"
-        ]
-      }
-    },
-    {
       "id": 1,
       "title": "Group Leader, Software Services Development",
       "company": "Oak Ridge National Laboratory",
@@ -1335,34 +1251,6 @@
         ],
         "technical": [
           "Software Development"
-        ]
-      }
-    },
-    {
-      "id": 2,
-      "title": "Senior Technical Lead of Research Infrastructure",
-      "company": "University of Colorado",
-      "location": "Boulder CO USA",
-      "city": "Boulder",
-      "state": "CO",
-      "country": "USA",
-      "description": "This role provides technical leadership and hands-on expertise for research computing infrastructure, including HPC systems (Alpine), research storage (PetaLibrary, scratch), and Blanca clusters. The Lead serves as the senior technical expert and primary mentor for HPC Specialists and Storage System Administrators within the Research Infrastructure Technology (RIT) team. This position also translates architectural direction from the Associate Director into practical implementation, leads complex technical work, and develops team capabilities through direct mentorship and guidance.",
-      "url": "https://jobs.colorado.edu/jobs/JobDetail/Senior-Technical-Lead-of-Research-Infrastructure/69042",
-      "posted": "2025-12-09",
-      "categories": [
-        "HPC",
-        "Storage",
-        "Academia",
-        "Support"
-      ],
-      "categoryTypes": {
-        "technical": [
-          "HPC",
-          "Storage",
-          "Support"
-        ],
-        "sector": [
-          "Academia"
         ]
       }
     },
@@ -2026,30 +1914,6 @@
         "technical": [
           "Data Science/ML/AI",
           "Software Development"
-        ],
-        "role": [
-          "IC Leadership"
-        ]
-      }
-    },
-    {
-      "id": 37,
-      "title": "Computational Consulting Lead,  Kellogg School of Management",
-      "company": "Northwestern University",
-      "location": "Evanston IL USA",
-      "city": "Evanston",
-      "state": "IL",
-      "country": "USA",
-      "description": "As the Computational Computing Lead, you will lead a team of Computational Research Consultants that sits within a dedicated Research Support team at Kellogg. Clients include Kellogg faculty members and doctoral students with a broad spectrum of academic backgrounds, research interests, and technical backgrounds. Consultants typically engage multiple clients at a time, and these engagements may last from a few days to several weeks. As the team leader, you will also consult with clients and manage some projects in addition to providing supervisory and thought leadership to the team.  As the team lead, you will guide the strategic evolution of the research computing environment at Kellogg and the services your team provides. You will set high standards for service and help your team to meet them. You will anticipate emerging needs in the computational social sciences and proactively develop practical plans to address them. You will also build and maintain healthy working relationships with our technology partners.",
-      "url": "https://careers.northwestern.edu/psc/hrnu_er/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=52325&PostingSeq=1",
-      "posted": "2025-08-05",
-      "categories": [
-        "Academia",
-        "IC Leadership"
-      ],
-      "categoryTypes": {
-        "sector": [
-          "Academia"
         ],
         "role": [
           "IC Leadership"
