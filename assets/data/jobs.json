@@ -1,7 +1,323 @@
 {
-  "generated": "2026-01-07T10:36:18.060672",
-  "count": 381,
+  "generated": "2026-01-19T20:33:39.811800",
+  "count": 387,
   "jobs": [
+    {
+      "id": 3513,
+      "title": "AI Developer Manager",
+      "company": "University of Kentucky",
+      "location": "Lexington KY USA",
+      "city": "Lexington",
+      "state": "KY",
+      "country": "USA",
+      "description": "The AI Developer Manager leads and oversees teams of artificial intelligence (AI) developers in designing, developing, and deploying AI-powered solutions. This role combines technical leadership with people management to ensure successful project delivery, alignment with organizational goals, and the professional growth of team members. The AI Developer Manager collaborates with cross-functional stakeholders, drives innovation, and establishes best practices in AI development within the organization.",
+      "url": "https://www.linkedin.com/jobs/view/4361168179/",
+      "posted": "2026-01-19",
+      "categories": [
+        "Data Science/ML/AI",
+        "Academia",
+        "Software Development"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Data Science/ML/AI",
+          "Software Development"
+        ],
+        "sector": [
+          "Academia"
+        ]
+      }
+    },
+    {
+      "id": 3512,
+      "title": "Director, Research Computing",
+      "company": "Lehigh University",
+      "location": "Bethlehem PA USA",
+      "city": "Bethlehem",
+      "state": "PA",
+      "country": "USA",
+      "description": "Join Lehigh University's Library and Technology Services as Director of Research Computing and lead transformative initiatives that empower world-class research across our dynamic campus. This strategic leadership role offers the opportunity to drive innovation at one of the nation's premier research universities.  Provide strategic leadership and long-term vision for campus research computing and scientific computing services. Develop, implement, and continuously refine a comprehensive Research Computing strategic plan in collaboration with LTS leadership, the Research Computing Steering Committee, and campus stakeholders. Partner with University leadership, faculty, and the Office of Research and Sponsored Programs to support grant development, including defining technical standards and requirements for proposals.",
+      "url": "https://www.linkedin.com/jobs/view/4353571496/",
+      "posted": "2026-01-19",
+      "categories": [
+        "Academia"
+      ],
+      "categoryTypes": {
+        "sector": [
+          "Academia"
+        ]
+      }
+    },
+    {
+      "id": 3514,
+      "title": "Software Engineering Manager - HPC CUDA Processing Libraries",
+      "company": "NVIDIA",
+      "location": "Remote BE or HU or DK or PL",
+      "city": "BE or HU or DK or",
+      "state": "PL",
+      "country": "",
+      "description": "In this role, you will be responsible for managing a team of highly skilled engineers, focusing on the development of an accelerated data processing solutions.  Lead and motivate your team to successfully conduct projects that meet both internal and external customer needs.  Actively collaborate with the deep learning software engineering community to contribute to and improve open source code bases.  Build and maintain a project roadmap that aligns with our daring goals and customer expectations.",
+      "url": "https://www.linkedin.com/jobs/view/4062622741/",
+      "posted": "2026-01-19",
+      "categories": [
+        "HPC",
+        "Industry",
+        "Software Development"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "HPC",
+          "Software Development"
+        ],
+        "sector": [
+          "Industry"
+        ]
+      }
+    },
+    {
+      "id": 3511,
+      "title": "Lead, Technical Support, OnSPARK",
+      "company": "McMaster University",
+      "location": "Hamilton ON CA",
+      "city": "Hamilton",
+      "state": "ON",
+      "country": "Canada",
+      "description": "OnSPARK (https://onspark.ca/) is a health data platform that undertakes research in support of quality improvement and innovation across the long-term care (LTC) sector in Ontario. Operating in close collaboration with health system, government and academic partners, OnSPARK securely integrates and curates real-world data from LTC homes to enable high-impact, evidence-informed and (especially) sector-relevant research involving both de-identified and PHIPA-sensitive data.  The Lead Technical Support position works within CSU and supports the OnSPARK Data Platform, playing an essential role in ensuring smooth and secure day-to-day operations. Main responsibilities: i) providing technical/compute environment compliance leadership for the secure operation of the Platform in accord with McMaster institutional cybersecurity policies, the Personal Health Information Protection Act (PHIPA, 2004), Research Ethics Board requirements, OnSPARK’s Data Governance Framework and other relevant policies/regulations; and ii) leading/managing technical aspects of the OnSPARK platform operations and projects.",
+      "url": "https://www.linkedin.com/jobs/view/4359470939/",
+      "posted": "2026-01-18",
+      "categories": [
+        "Data Systems",
+        "Academia",
+        "Data Management/Governance",
+        "IC Leadership",
+        "Support",
+        "Biomedical"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Data Systems",
+          "Data Management/Governance",
+          "Support"
+        ],
+        "sector": [
+          "Academia"
+        ],
+        "role": [
+          "IC Leadership"
+        ],
+        "domain": [
+          "Biomedical"
+        ]
+      }
+    },
+    {
+      "id": 3506,
+      "title": "Director of Open Technology: Leading Technology for Climate Solution Platforms",
+      "company": "Open Earth Foundation",
+      "location": "Global Remote (North America or Europe Time Zones)",
+      "city": "Global Remote (North America or Europe Time Zones)",
+      "state": "",
+      "country": "",
+      "description": "Join us in our mission to build open-source innovative technology solutions for impactful climate change mitigation.  As a Director of Open Technology on our team, you will : Lead and support a small, distributed engineering team across full-stack, data, and AI work; Help guide technical decisions that keep our platform stable, scalable and easy to evolve; Partner closely with product and leadership to turn real-world needs into shipped features; Strengthen development practices, documentation and collaboration across the team; Support thoughtful, responsible use of AI in both product development and internal workflows; Help shape technical direction and priorities, ensuring decisions support long-term sustainability and real-world impact",
+      "url": "https://www.linkedin.com/jobs/view/4329739466",
+      "posted": "2026-01-17",
+      "categories": [
+        "Data Science/ML/AI",
+        "Data Systems",
+        "Nonprofit",
+        "Data Management/Governance",
+        "Software Development",
+        "Weather/Climate"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Data Science/ML/AI",
+          "Data Systems",
+          "Data Management/Governance",
+          "Software Development"
+        ],
+        "sector": [
+          "Nonprofit"
+        ],
+        "domain": [
+          "Weather/Climate"
+        ]
+      }
+    },
+    {
+      "id": 3508,
+      "title": "Head of AI Ecosystem",
+      "company": "University of New South Wales",
+      "location": "Sydney NSW AU",
+      "city": "Sydney",
+      "state": "NSW",
+      "country": "Australia",
+      "description": "The Head of AI Ecosystem leads the development of a university-wide environment for artificial intelligence and ensures that UNSW is positioned to leverage AI as a catalyst for innovation, education excellence, and societal impact. The role drives strategic collaboration across faculties, professional units, research centres, and external partners, to create condition for AI to be responsibly and sustainably embedded across all aspects of teaching, research, and operations. The Head of AI Ecosystem will report into the Director Innovation Enablement and have several direct reports.",
+      "url": "https://www.linkedin.com/jobs/view/4352163788/",
+      "posted": "2026-01-17",
+      "categories": [
+        "Data Science/ML/AI",
+        "Academia"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Data Science/ML/AI"
+        ],
+        "sector": [
+          "Academia"
+        ]
+      }
+    },
+    {
+      "id": 3504,
+      "title": "Lead Engineer (Digital Library)",
+      "company": "University of Leeds",
+      "location": "Leeds UK",
+      "city": "Leeds",
+      "state": "",
+      "country": "UK",
+      "description": "As the Lead Engineer you will lead the delivery of the technical infrastructure and services of the Digital Library Infrastructure Project (DLIP) during and beyond the project’s lifetime. DLIP is a cornerstone project to support the University in meeting the objectives set out in the Digital Transformation component of the Universal Values, Global Changes, University of Leeds Strategy 2020 to 2030. It implements the Digital Futures strand of the Libraries Vision.  You will be a key project member of DLIP, leading the work of a small technical team in the implementation of:   An updated Cultural Collections website to improve user experience, access, and opportunities for digital creativity and cultures, featuring digital content presented in the International Image Interoperability Framework (IIIF) standard;  A modern data platform to merge data from different sources into a linked data format (Linked Art) and, combined with a graph-based search engine, to improve search, discovery and analysis for research, and teaching;  Improvements to the process for storing and managing digital surrogates and digital born content to reduce risk and increase access in the Oxford Common File Layout (OCFL) standard;  A foundational cloud infrastructure for digital humanities research and teaching.",
+      "url": "https://jobs.leeds.ac.uk/vacancy.aspx?ref=CSUIT1834",
+      "posted": "2026-01-17",
+      "categories": [
+        "Cloud",
+        "Academia",
+        "Data Management/Governance",
+        "IC Leadership",
+        "Software Development",
+        "Digital Humanities"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Cloud",
+          "Data Management/Governance",
+          "Software Development"
+        ],
+        "sector": [
+          "Academia"
+        ],
+        "role": [
+          "IC Leadership"
+        ],
+        "domain": [
+          "Digital Humanities"
+        ]
+      }
+    },
+    {
+      "id": 3509,
+      "title": "Manager, Artificial Intelligence & Innovation",
+      "company": "University of Wollongong",
+      "location": "Wollongong AU",
+      "city": "Wollongong",
+      "state": "",
+      "country": "Australia",
+      "description": "In this role, you will lead the development and implementation of AI and automation solutions to enhance operational efficiency across the University. Working collaboratively with Finance, IT, and other key stakeholders, you will integrate innovative technologies that support the University’s financial objectives. You will also manage AI governance, ensure compliance with relevant standards, and facilitate training to staff on new tools and processes.",
+      "url": "https://www.linkedin.com/jobs/view/4363682738/",
+      "posted": "2026-01-17",
+      "categories": [
+        "Data Science/ML/AI",
+        "Academia",
+        "Project/Program Manager"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Data Science/ML/AI"
+        ],
+        "sector": [
+          "Academia"
+        ],
+        "role": [
+          "Project/Program Manager"
+        ]
+      }
+    },
+    {
+      "id": 3507,
+      "title": "Quantum OS System Architect",
+      "company": "Photonic Inc",
+      "location": "Coquitlam BC CA",
+      "city": "Coquitlam",
+      "state": "BC",
+      "country": "Canada",
+      "description": "As a Quantum OS System Architect, you’ll work within the office of the Chief Quantum Officer to design the distributed hardware and software infrastructure that supports quantum circuits at runtime. Much like a classical operating system provides APIs to manage hardware and software interactions, you will architect a quantum operating system that controls qubit operations, resource scheduling, and system coordination to power Photonic's Entanglement First™ architecture.",
+      "url": "https://www.linkedin.com/jobs/view/4178569913",
+      "posted": "2026-01-17",
+      "categories": [
+        "Quantum Computing",
+        "Industry",
+        "IC Leadership"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Quantum Computing"
+        ],
+        "sector": [
+          "Industry"
+        ],
+        "role": [
+          "IC Leadership"
+        ]
+      }
+    },
+    {
+      "id": 3505,
+      "title": "Workloads and Benchmarking Team Lead",
+      "company": "Microsoft",
+      "location": "Remote USA",
+      "city": "",
+      "state": "",
+      "country": "USA",
+      "description": "As the Workloads and Benchmarking Team Lead, you will lead the Specialized Workloads and Benchmarking group, owning the strategy and execution of benchmarking for Azure HPC and AI infrastructure. You will develop deep expertise in HPC and AI workloads, define representative and credible benchmarking methodologies, and drive external publication of results that influence customer adoption and internal platform design. This role combines hands-on technical leadership with people management, including coaching, mentoring, and growing a high-performing team of engineers.",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556654063?domain=microsoft.com",
+      "posted": "2026-01-17",
+      "categories": [
+        "Cloud",
+        "HPC",
+        "Industry",
+        "IC Leadership",
+        "Software Development"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Cloud",
+          "HPC",
+          "Software Development"
+        ],
+        "sector": [
+          "Industry"
+        ],
+        "role": [
+          "IC Leadership"
+        ]
+      }
+    },
+    {
+      "id": 3503,
+      "title": "Executive Director, Academic Technologies, Innovation & Research Computing",
+      "company": "Georgia Institute of Technology",
+      "location": "Atlanta GA USA",
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "USA",
+      "description": "Provide executive leadership and strategic oversight for High-performance computing (HPC)/AI Infrastructure, & Learning Management platforms ensuring alignment with the university's academic mission, research priorities, and instructional innovation goals.",
+      "url": "https://www.linkedin.com/jobs/view/4351461021/",
+      "posted": "2026-01-07",
+      "categories": [
+        "HPC",
+        "Academia",
+        "Training/Education"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "HPC",
+          "Training/Education"
+        ],
+        "sector": [
+          "Academia"
+        ]
+      }
+    },
     {
       "id": 3501,
       "title": "Director, Artificial Intelligence",
@@ -87,34 +403,6 @@
         ],
         "role": [
           "IC Leadership"
-        ]
-      }
-    },
-    {
-      "id": 3500,
-      "title": "Software Development Manager, Digital Pathology",
-      "company": "Roche",
-      "location": "Mississauga ON CA",
-      "city": "Mississauga",
-      "state": "ON",
-      "country": "Canada",
-      "description": "In this role you will work with a highly collaborative team of imaging scientists, product managers and software developers and build imaging and data analysis algorithms and solutions in the field of Digital Pathology. You will be a technical expert for Software Development in Test and manage a team focused on software verification of image processing algorithms, pattern recognition and integration with platform software. You will provide oversight on software best practices, test automation, verification and release.",
-      "url": "https://careers.roche.com/global/en/job/ROCHGLOBAL202509122770EXTERNALENGLOBAL/Software-Development-Manager",
-      "posted": "2026-01-06",
-      "categories": [
-        "Industry",
-        "Software Development",
-        "Biomedical"
-      ],
-      "categoryTypes": {
-        "sector": [
-          "Industry"
-        ],
-        "technical": [
-          "Software Development"
-        ],
-        "domain": [
-          "Biomedical"
         ]
       }
     },
@@ -833,36 +1121,6 @@
       }
     },
     {
-      "id": 3468,
-      "title": "Principal Software Engineer - AI Engineering",
-      "company": "Dell",
-      "location": "Hopkinton MA USA",
-      "city": "Hopkinton",
-      "state": "MA",
-      "country": "USA",
-      "description": "As a Principal Software Developer with Dell, your primary responsibility will be to develop new AI applications from concept to production to advance Dell’s technology into the future. We are looking for technologists who are comfortable learning and adapting easily to meet the needs of our rapidly evolving business. One day we may be working on low level code, the next we may be prototyping new user interface design. As a part of the Dell Technologies Office of the CTO, we innovate on the future of technology in a high visibility, collaborative team. You will work with product managers, leadership, engineers and data scientists, tech leads, strategy, and/or stakeholders to execute technology development using an agile, fast-fail mentality.By working on small cross functional teams and using pair programming, you will have the ability to work in all layers of the stack and collaborate constantly, continually growing your skills while also leading and mentoring within the team.",
-      "url": "https://jobs.dell.com/en/job/hopkinton/principal-software-engineer-ai-engineering/375/90043356400",
-      "posted": "2025-12-29",
-      "categories": [
-        "Data Science/ML/AI",
-        "Industry",
-        "IC Leadership",
-        "Software Development"
-      ],
-      "categoryTypes": {
-        "technical": [
-          "Data Science/ML/AI",
-          "Software Development"
-        ],
-        "sector": [
-          "Industry"
-        ],
-        "role": [
-          "IC Leadership"
-        ]
-      }
-    },
-    {
       "id": 3465,
       "title": "Project Manager, Health AI Implementation",
       "company": "Vector Institute",
@@ -972,36 +1230,6 @@
         "technical": [
           "Cloud",
           "Data Science/ML/AI"
-        ],
-        "sector": [
-          "Industry"
-        ]
-      }
-    },
-    {
-      "id": 3466,
-      "title": "Senior Manager Data Science and Engineering",
-      "company": "Royal Bank of Canada",
-      "location": "Vancouver BC CA",
-      "city": "Vancouver",
-      "state": "BC",
-      "country": "Canada",
-      "description": "Developing predictive data models, quantitative analyses and visualization of targeted, big data sources. Overseeing the acquisition and ingestion of data from structured and unstructured sources, while ensuring quality and comprehensiveness of data. Leading data exploration and analytic projects and providing on-going coaching of big data topics (visualization, data mining, analytic techniques). Exploring and implementing semantic data capabilities through NLP, text mining and machine learning techniques.",
-      "url": "https://jobs.rbc.com/ca/en/job/R-0000151905/Senior-Manager-Data-Science-and-Engineering",
-      "posted": "2025-12-29",
-      "categories": [
-        "Data Science/ML/AI",
-        "Finance",
-        "Industry",
-        "Software Development"
-      ],
-      "categoryTypes": {
-        "technical": [
-          "Data Science/ML/AI",
-          "Software Development"
-        ],
-        "domain": [
-          "Finance"
         ],
         "sector": [
           "Industry"
@@ -1283,34 +1511,6 @@
         ],
         "domain": [
           "Geospatial"
-        ]
-      }
-    },
-    {
-      "id": 4,
-      "title": "HPC Platforms Program Director (Project-Program Director 5)",
-      "company": "Los Alamos National Laboratory",
-      "location": "Los Alamos NM USA",
-      "city": "Los Alamos",
-      "state": "NM",
-      "country": "USA",
-      "description": "As the HPC Platforms Program Director, you will: Lead the Platforms element of the Advanced Simulation and Computing (ASC) program, managing a sophisticated portfolio of HPC technology investments and high-consequence platform procurements that are tailored to national security computational needs and represent capital investments of hundreds of millions of dollars",
-      "url": "https://lanl.jobs/search/jobdetails/hpc-platforms-program-director-project-program-director-5/09668faf-c18c-4c93-ab5f-e33ccdd0d597",
-      "posted": "2025-12-02",
-      "categories": [
-        "HPC",
-        "Public sector",
-        "Project/Program Manager"
-      ],
-      "categoryTypes": {
-        "technical": [
-          "HPC"
-        ],
-        "sector": [
-          "Public sector"
-        ],
-        "role": [
-          "Project/Program Manager"
         ]
       }
     },
@@ -3730,30 +3930,6 @@
         ],
         "sector": [
           "Industry"
-        ],
-        "domain": [
-          "Biomedical"
-        ]
-      }
-    },
-    {
-      "id": 180,
-      "title": "Group Leader, Functional Genomics",
-      "company": "New Limit",
-      "location": "San Francisco CA USA",
-      "city": "San Francisco",
-      "state": "CA",
-      "country": "USA",
-      "description": "NewLimit is seeking a functional genomics scientist with leadership experience to lead our Functional Genomics team. Our Functional Genomics team is focused on developing and deploying pooled screening methods to discover partial reprogramming targets. Our team has already developed methods sufficient to perform reprogramming screens at >100X the scale of prior art.  Your role will focus on improving the fidelity and scale of these methods, deploying them to new cell types, and reducing the associated costs and turn-around times to optimize the number of discoveries we make per day, per dollar.",
-      "url": "https://job-boards.greenhouse.io/newlimit/jobs/5353229004",
-      "posted": "2025-01-01",
-      "categories": [
-        "Data Science/ML/AI",
-        "Biomedical"
-      ],
-      "categoryTypes": {
-        "technical": [
-          "Data Science/ML/AI"
         ],
         "domain": [
           "Biomedical"
