@@ -8,7 +8,51 @@
     <description>Active job postings for research computing team leaders and managers</description>
     <link>https://www.researchcomputingteams.org/jobs</link>
     <atom:link href="https://www.researchcomputingteams.org/jobs.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 20 Jan 2026 01:33:39 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 14:20:07 -0000</lastBuildDate>
+
+    <item>
+      <title>Research Software Services (AI) Lead - Digital Research Alliance of Canada</title>
+      <description><p>Reporting to the Vice-President, Operations and Cybersecurity, the Lead is responsible for direction, resource planning, stakeholder engagement, project oversight, and the development of a specialized national team of AI-focused research software experts. This role provides subject-matter expertise in scientific software development, AI/ML, HPC, and related computational research workflows, while fostering collaborative innovation and ensuring high-impact, researcher-focused service delivery.</p>
+<p><strong>Location:</strong> Remote CA</p>
+<p><strong>Categories:</strong> Data Science/ML/AI, HPC, Academia, IC Leadership, Software Development</p>
+<p><a href="https://www.alliancecan.ca/en/career-opportunities/research-software-services-ai-lead">View Job Posting</a></p></description>
+      <pubDate>Fri, 30 Jan 2026 05:00:00 -0000</pubDate>
+      <link>https://www.alliancecan.ca/en/career-opportunities/research-software-services-ai-lead</link>
+      <guid isPermaLink="false">job-3518</guid>
+    </item>
+
+    <item>
+      <title>Group Leader, Data Acquisition Software - Oak Ridge National Laboratories</title>
+      <description><p>We are seeking a Group Lead for our Data Acquisition (DAQ) Software Group who will focus on managing and leading a team of control software engineers to develop, maintain and support software for neutron instrument data acquisition, sample environment equipment, and experiment planning. This position resides in the Neutron Instrument Technologies Section, Neutron Technologies Division, Neutron Sciences Directorate at Oak Ridge National Laboratory (ORNL).</p>
+<p><strong>Location:</strong> Oak Ridge TN USA</p>
+<p><strong>Categories:</strong> Data Systems, HPC, Public sector, Software Development</p>
+<p><a href="https://www.linkedin.com/jobs/view/4344003005/">View Job Posting</a></p></description>
+      <pubDate>Mon, 26 Jan 2026 05:00:00 -0000</pubDate>
+      <link>https://www.linkedin.com/jobs/view/4344003005/</link>
+      <guid isPermaLink="false">job-3517</guid>
+    </item>
+
+    <item>
+      <title>Manager, Quantum Computer Science - Sandia National Laboratories</title>
+      <description><p>We are seeking a dedicated leader for Sandia&#x27;s Quantum Computer Science (QCS) department: an R&amp;D team composed of some of Sandia&#x27;s top staff scientists in theoretical quantum information science, postdoctoral researchers, graduate and undergraduate student interns, and university collaborators. The QCS department (1425) is the core of the institution&#x27;s QIS theory efforts, pursuing foundational R&amp;D to create Quantum Computers, spanning from computational modeling of qubits and fault-tolerant architecture design to quantum algorithm development and system performance assessment. The manager is therefore expected to provide management leadership and support for a large, multi-disciplinary team, responsible for R&amp;D development across the full quantum computing architectural stack. A critical additional expectation is significant program development, strategic oversight, and establishing and maintaining key institutional partnerships within and outside Sandia.</p>
+<p><strong>Location:</strong> Albuquerque NM USA</p>
+<p><strong>Categories:</strong> Quantum Computing, Public sector, Software Development</p>
+<p><a href="https://www.linkedin.com/jobs/view/4330561157/">View Job Posting</a></p></description>
+      <pubDate>Mon, 26 Jan 2026 05:00:00 -0000</pubDate>
+      <link>https://www.linkedin.com/jobs/view/4330561157/</link>
+      <guid isPermaLink="false">job-3516</guid>
+    </item>
+
+    <item>
+      <title>Director, Research Security - University of Buffalo</title>
+      <description><p>The Sr. VP for Research, Innovation and Economic Development is hiring a Director of Research Security who will develop and lead UB’s strategy for protecting sensitive research data, overseeing policy, compliance, and risk management. They will work with leadership, faculty and staff to balance data access with robust security and ethical guidelines.  The ideal candidate is a collaborative, strategic leader who will engage directly with our research community to reinforce standard practices, bridge organizational silos, and champion a culture of secure, compliant, and risk-aware research innovation. This position reflects UB’s commitment to integrating cybersecurity, research administration, and compliance culture under a unified, researcher-centric vision.</p>
+<p><strong>Location:</strong> Buffalo NY USA</p>
+<p><strong>Categories:</strong> Academia, Data Management/Governance</p>
+<p><a href="https://www.ubjobs.buffalo.edu/postings/60709">View Job Posting</a></p></description>
+      <pubDate>Wed, 21 Jan 2026 05:00:00 -0000</pubDate>
+      <link>https://www.ubjobs.buffalo.edu/postings/60709</link>
+      <guid isPermaLink="false">job-3515</guid>
+    </item>
 
     <item>
       <title>AI Developer Manager - University of Kentucky</title>
@@ -165,17 +209,6 @@
     </item>
 
     <item>
-      <title>Associate Director of AI - AstraZenica</title>
-      <description><p>You will join a dynamic Predictive AI and Data team that partners with experts across both pre-clinical and clinical stages. Your work will focus on translating complex scientific data into actionable insights, demonstrating value by accelerating existing research processes, and helping build robust AI solutions in production alongside other data science and software engineering teams. This is a forward-deployed role, giving you the opportunity to work hands-on with end users, configure AI tools to meet their needs, and see your solutions move from concept to real-world application.</p>
-<p><strong>Location:</strong> Barcelona ES</p>
-<p><strong>Categories:</strong> Data Science/ML/AI, Industry, Biomedical</p>
-<p><a href="https://careers.astrazeneca.com/job/-/-/7684/89801830128?source=LinkedIn">View Job Posting</a></p></description>
-      <pubDate>Sat, 03 Jan 2026 05:00:00 -0000</pubDate>
-      <link>https://careers.astrazeneca.com/job/-/-/7684/89801830128?source=LinkedIn</link>
-      <guid isPermaLink="false">job-3497</guid>
-    </item>
-
-    <item>
       <title>Head of AI Core Unit / Data Scientist - BioSysteM - Technical University of Munich</title>
       <description><p>We are looking for an Independent junior research group leader (m/f/d) with knowledge of data / AI science to set up and lead the AI Core Unit of the BioSysteM Cluster of Excellence as soon as possible. The position is initially for 4 years and can be extended until 31.12.2032</p>
 <p><strong>Location:</strong> Munich DE</p>
@@ -307,17 +340,6 @@ Communicate software feature roadmaps and resource needs between the control sof
       <pubDate>Tue, 30 Dec 2025 05:00:00 -0000</pubDate>
       <link>https://main-princeton.icims.com/jobs/21296/senior-director%2c-advanced-systems-%28hpc%29/job</link>
       <guid isPermaLink="false">job-3490</guid>
-    </item>
-
-    <item>
-      <title>Senior HPC for Earth Sciences Team Leader - Barcelona Supercomputing Center</title>
-      <description><p>The successful candidate will join the Computational Earth Sciences group to co-lead the activities of the HPC for Earth Sciences team, which is responsible for the good scalability and efficient hardware resource usage of Earth models and applications by identifying computational bottlenecks and optimizing them using cutting-edge performance tools and HPC techniques, including from more efficient numerical algorithms to architecture-aware approaches.  The HPC for Earth Sciences team plays a crucial role in the research to operations cycle, including initiatives such as Destination Earth and the European Digital Twin of the Ocean. It has strong links with the other teams in the Computational Earth Sciences group and with the research groups in the department.</p>
-<p><strong>Location:</strong> Barcelona ES</p>
-<p><strong>Categories:</strong> HPC, Academia, IC Leadership, Software Development, Weather/Climate</p>
-<p><a href="https://www.bsc.es/join-us/job-opportunities/45725eshpcre3">View Job Posting</a></p></description>
-      <pubDate>Tue, 30 Dec 2025 05:00:00 -0000</pubDate>
-      <link>https://www.bsc.es/join-us/job-opportunities/45725eshpcre3</link>
-      <guid isPermaLink="false">job-3488</guid>
     </item>
 
     <item>
@@ -500,17 +522,6 @@ The Research Computing Manager will maintain core systems and software along wit
     </item>
 
     <item>
-      <title>Senior Manager, Technical Solutions / Quantum Computing - Quantinuum</title>
-      <description><p>We are seeking a Senior Manager, Technical Solutions who will drive the company’s pre-sales technical strategy for quantum computing solutions with clients, leading multiple project teams and overseeing large-scale, complex projects. This role will shape the future vision of the company’s quantum offerings, working with senior leadership and key clients to align pre-sales technical initiatives with business objectives.</p>
-<p><strong>Location:</strong> Remote USA</p>
-<p><strong>Categories:</strong> Quantum Computing, Industry, Consulting</p>
-<p><a href="https://jobs.eu.lever.co/quantinuum/e75e9cc7-faca-4de4-8930-c0c9e9d23895">View Job Posting</a></p></description>
-      <pubDate>Mon, 29 Dec 2025 05:00:00 -0000</pubDate>
-      <link>https://jobs.eu.lever.co/quantinuum/e75e9cc7-faca-4de4-8930-c0c9e9d23895</link>
-      <guid isPermaLink="false">job-3484</guid>
-    </item>
-
-    <item>
       <title>Senior Product Manager - Technical, HPC and Visualization - Amazon</title>
       <description><p>The High Performance Computing (HPC) team is looking for a talented product manager to help us develop the HPC portfolio of products within AWS, which includes products like AWS Batch and AWS ParallelCluster, as well as network interfaces like Elastic Fabric Adapter (EFA). You will work closely with teams in EC2 as well as on new technology from Annapurna Labs. As a Senior Product Manager Technical - External Services, you will own product development from strategy/product vision through feature definition, prioritization, positioning, naming, and GTM/adoption. We are looking for an experienced product manager who is passionate about solving customer problems, and has demonstrated success working backwards from ambiguous customer needs, translating them into disruptive, successful products that delight customers. You will have the curiosity to dig into complex business problems, challenge the status quo, and bias towards using data to simplify the customer experience.</p>
 <p><strong>Location:</strong> Vancouver BC CA</p>
@@ -631,17 +642,6 @@ One of the largest applications the group develops and maintains is the NCCS cus
       <pubDate>Sat, 15 Nov 2025 05:00:00 -0000</pubDate>
       <link>https://jobs.chronicle.com/apply/37914242/director-i-research-core-facility-genomics-core?LinkSource=JobDetails</link>
       <guid isPermaLink="false">job-6</guid>
-    </item>
-
-    <item>
-      <title>Director of Research Technology - Wichita University</title>
-      <description><p>This position provides strategic leadership and operational oversight for Wichita State University’s research computing and technology infrastructure. They are responsible for aligning research technology services with the university’s strategic vision and research priorities, ensuring faculty, staff, and students have access to advanced computing resources that enable innovation and discovery. They will develop and implement a comprehensive research computing strategy encompassing high-performance computing (HPC), cloud services, data storage, networking, and operations technology (OT). They will foster collaboration across colleges, research centers, and external partners, promoting shared infrastructure and cost-effective solutions.</p>
-<p><strong>Location:</strong> Wichita KS USA</p>
-<p><strong>Categories:</strong> HPC, Academia</p>
-<p><a href="https://jobs.wichita.edu/jobs/director-of-research-technology-wichita-kansas-united-states">View Job Posting</a></p></description>
-      <pubDate>Sat, 15 Nov 2025 05:00:00 -0000</pubDate>
-      <link>https://jobs.wichita.edu/jobs/director-of-research-technology-wichita-kansas-united-states</link>
-      <guid isPermaLink="false">job-7</guid>
     </item>
 
     <item>
@@ -802,17 +802,6 @@ leadership.</p>
       <pubDate>Sat, 15 Nov 2025 05:00:00 -0000</pubDate>
       <link>https://jobs.careers.microsoft.com/global/en/job/1880471/Senior-Product-Manager?amp;utm_campaign=Copy-job-share</link>
       <guid isPermaLink="false">job-31</guid>
-    </item>
-
-    <item>
-      <title>Software Development Manager, AWS Neuron - Amazon</title>
-      <description><p>We&#x27;re looking for an experienced software development manager to lead a team in the Trainium Collective Communication group. The group delivers the the fundamental operations that enable AI to scale across multiple accelerators &amp; servers.  Most of our stack is C/C++ and relatively low level, in a HW/SW co-designed system so solid knowledge of Linux, kernels, and performant code is important. Experience with embedded systems is valued, and experience with high-speed networking or HPC interconnects is valued highly.</p>
-<p><strong>Location:</strong> Cupertino CA USA</p>
-<p><strong>Categories:</strong> Cloud, Networking, Industry, Software Development</p>
-<p><a href="https://www.amazon.jobs/en/jobs/3011297/software-development-manager-aws-neuron">View Job Posting</a></p></description>
-      <pubDate>Sat, 15 Nov 2025 05:00:00 -0000</pubDate>
-      <link>https://www.amazon.jobs/en/jobs/3011297/software-development-manager-aws-neuron</link>
-      <guid isPermaLink="false">job-30</guid>
     </item>
 
     <item>
@@ -1069,17 +1058,6 @@ Continuously focus on technology improvement, optimization, and process enhancem
       <pubDate>Sat, 15 Mar 2025 04:00:00 -0000</pubDate>
       <link>https://jobs.careers.microsoft.com/global/en/job/1813100</link>
       <guid isPermaLink="false">job-65</guid>
-    </item>
-
-    <item>
-      <title>Manager, Machine Learning Research - Boston Dynamics</title>
-      <description><p>As a Manager for ML Research on the Perception and Safety R&amp;D Team, you will lead a small highly-leveraged group developing ML capabilities for robotic perception technologies that will enable our robots to operate safely around people. Every day you will work to build, lead, and nurture a team that researches, designs, and builds machine learning-based perception models to run on our robots. You will help chart a course for a future where humans and robots can coexist in complex spaces. You will also get hands-on with the team as you develop and integrate your work into the embedded perception systems that make our robots safe and reactive.</p>
-<p><strong>Location:</strong> Waltham MA USA</p>
-<p><strong>Categories:</strong> Computer Vision, Data Science/ML/AI, Robotics, Industry</p>
-<p><a href="https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Manager--Machine-Learning-Research_R1710">View Job Posting</a></p></description>
-      <pubDate>Sat, 15 Mar 2025 04:00:00 -0000</pubDate>
-      <link>https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Manager--Machine-Learning-Research_R1710</link>
-      <guid isPermaLink="false">job-69</guid>
     </item>
 
     <item>
@@ -1775,17 +1753,6 @@ The Head of Data (TransiT) will lead on the hubs data and software applications 
       <pubDate>Wed, 04 Dec 2024 05:00:00 -0000</pubDate>
       <link>https://my.corehr.com/pls/uogrecruit/erq_jobspec_version_4.jobspec?p_id=160751</link>
       <guid isPermaLink="false">job-213</guid>
-    </item>
-
-    <item>
-      <title>Senior Engineering Manager - Formation Bio</title>
-      <description><p>As a Senior Engineering Manager on our Product Engineering teams, you will be accountable for Engineering strategy, design, development, and implementation of one or more of our teams that are responsible for building innovative software products leveraging emerging technologies.</p>
-<p><strong>Location:</strong> New York NY and remote USA</p>
-<p><strong>Categories:</strong> Data Science/ML/AI, Industry, Software Development, Biomedical</p>
-<p><a href="https://boards.greenhouse.io/formationbio/jobs/6232135">View Job Posting</a></p></description>
-      <pubDate>Mon, 02 Dec 2024 05:00:00 -0000</pubDate>
-      <link>https://boards.greenhouse.io/formationbio/jobs/6232135</link>
-      <guid isPermaLink="false">job-214</guid>
     </item>
 
     <item>
