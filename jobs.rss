@@ -8,7 +8,31 @@
     <description>Active job postings for research computing team leaders and managers</description>
     <link>https://www.researchcomputingteams.org/jobs</link>
     <atom:link href="https://www.researchcomputingteams.org/jobs.rss" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 30 Jan 2026 14:20:07 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 19:15:17 -0000</lastBuildDate>
+
+    <item>
+      <title>Manager, Computational Scientific Programming, Research Computing - Empire AI</title>
+      <description><p>Empire AI is establishing New York as the national leader in responsible artificial intelligence. Backed by a consortium of top academic and research institutions including Columbia, Cornell, NYU, CUNY, RPI, SUNY, Rochester Schools, Mount Sinai, Simons Foundation, and the Flatiron Institute. By leveraging the state’s rich academic resources and research institutions, Empire AI is driving innovation in fields like medicine, education, energy, and climate change, all while giving New York’s researchers access to computing resources that are often prohibitively expensive and only available to big tech companies, fueling statewide innovation, driving economic growth, and preparing a future-ready AI workforce to tackle society’s most complex challenges.
+
+The Manager, Research Software Engineering will support AI-driven research across New York State’s public and private research institutions. This position serves as a key technical partner to researchers leveraging Empire AI’s shared infrastructure for machine learning, simulation, data science, and secure computing. Reporting to the Director, AI Research Computing, the Manager, Research Software Engineering (AI Focus) will work directly with faculty, postdocs, and graduate students to design, optimize, and scale computational workflows that span disciplines—from foundational AI model development to large-scale simulations in biomedicine, climate, and materials science. The role also contributes to strategic initiatives in support of workforce development, proposal writing, and infrastructure planning.</p>
+<p><strong>Location:</strong> New York City NY USA</p>
+<p><strong>Categories:</strong> Data Science/ML/AI, Academia, IC Leadership, Software Development</p>
+<p><a href="https://www.linkedin.com/jobs/view/4370561599">View Job Posting</a></p></description>
+      <pubDate>Mon, 09 Feb 2026 05:00:00 -0000</pubDate>
+      <link>https://www.linkedin.com/jobs/view/4370561599</link>
+      <guid isPermaLink="false">job-3520</guid>
+    </item>
+
+    <item>
+      <title>Director of Computing Innovation - Colby College</title>
+      <description><p>The Director of Computing Innovation is a key technical leadership role within Colby College’s newly established McVey Center for Computational and Data Sciences. The McVey Center serves as an integrated academic initiative focused on advancing computational thinking, data science, and high-level research across the liberal arts, leveraging the College’s investments in High Performance Computing (HPC) within Academic Technology Services (ATS) and the Davis Institute for Artificial Intelligence (DAI).  The Director of Computing Innovation plays a central role in advancing the Center’s mission by enabling advanced computational research and instructional solutions that support faculty and students across disciplines. Working collaboratively across the College, this position ensures that computational resources, tools, and services are welcoming, accessible, and scalable, supporting inclusive excellence in teaching, learning, and research.</p>
+<p><strong>Location:</strong> Waterville ME USA</p>
+<p><strong>Categories:</strong> Data Science/ML/AI, HPC, Academia</p>
+<p><a href="https://colby.wd5.myworkdayjobs.com/en-US/ColbyCareers/job/Director-of-Computing-Innovation_R0006631-2">View Job Posting</a></p></description>
+      <pubDate>Fri, 30 Jan 2026 05:00:00 -0000</pubDate>
+      <link>https://colby.wd5.myworkdayjobs.com/en-US/ColbyCareers/job/Director-of-Computing-Innovation_R0006631-2</link>
+      <guid isPermaLink="false">job-3519</guid>
+    </item>
 
     <item>
       <title>Research Software Services (AI) Lead - Digital Research Alliance of Canada</title>

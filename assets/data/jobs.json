@@ -1,7 +1,63 @@
 {
-  "generated": "2026-01-30T09:20:07.521876",
-  "count": 384,
+  "generated": "2026-02-09T14:15:17.125178",
+  "count": 386,
   "jobs": [
+    {
+      "id": 3520,
+      "title": "Manager, Computational Scientific Programming, Research Computing",
+      "company": "Empire AI",
+      "location": "New York City NY USA",
+      "city": "New York City",
+      "state": "NY",
+      "country": "USA",
+      "description": "Empire AI is establishing New York as the national leader in responsible artificial intelligence. Backed by a consortium of top academic and research institutions including Columbia, Cornell, NYU, CUNY, RPI, SUNY, Rochester Schools, Mount Sinai, Simons Foundation, and the Flatiron Institute. By leveraging the state’s rich academic resources and research institutions, Empire AI is driving innovation in fields like medicine, education, energy, and climate change, all while giving New York’s researchers access to computing resources that are often prohibitively expensive and only available to big tech companies, fueling statewide innovation, driving economic growth, and preparing a future-ready AI workforce to tackle society’s most complex challenges.\r\n\r\nThe Manager, Research Software Engineering will support AI-driven research across New York State’s public and private research institutions. This position serves as a key technical partner to researchers leveraging Empire AI’s shared infrastructure for machine learning, simulation, data science, and secure computing. Reporting to the Director, AI Research Computing, the Manager, Research Software Engineering (AI Focus) will work directly with faculty, postdocs, and graduate students to design, optimize, and scale computational workflows that span disciplines—from foundational AI model development to large-scale simulations in biomedicine, climate, and materials science. The role also contributes to strategic initiatives in support of workforce development, proposal writing, and infrastructure planning.",
+      "url": "https://www.linkedin.com/jobs/view/4370561599",
+      "posted": "2026-02-09",
+      "categories": [
+        "Data Science/ML/AI",
+        "Academia",
+        "IC Leadership",
+        "Software Development"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Data Science/ML/AI",
+          "Software Development"
+        ],
+        "sector": [
+          "Academia"
+        ],
+        "role": [
+          "IC Leadership"
+        ]
+      }
+    },
+    {
+      "id": 3519,
+      "title": "Director of Computing Innovation",
+      "company": "Colby College",
+      "location": "Waterville ME USA",
+      "city": "Waterville",
+      "state": "ME",
+      "country": "USA",
+      "description": "The Director of Computing Innovation is a key technical leadership role within Colby College’s newly established McVey Center for Computational and Data Sciences. The McVey Center serves as an integrated academic initiative focused on advancing computational thinking, data science, and high-level research across the liberal arts, leveraging the College’s investments in High Performance Computing (HPC) within Academic Technology Services (ATS) and the Davis Institute for Artificial Intelligence (DAI).  The Director of Computing Innovation plays a central role in advancing the Center’s mission by enabling advanced computational research and instructional solutions that support faculty and students across disciplines. Working collaboratively across the College, this position ensures that computational resources, tools, and services are welcoming, accessible, and scalable, supporting inclusive excellence in teaching, learning, and research.",
+      "url": "https://colby.wd5.myworkdayjobs.com/en-US/ColbyCareers/job/Director-of-Computing-Innovation_R0006631-2",
+      "posted": "2026-01-30",
+      "categories": [
+        "Data Science/ML/AI",
+        "HPC",
+        "Academia"
+      ],
+      "categoryTypes": {
+        "technical": [
+          "Data Science/ML/AI",
+          "HPC"
+        ],
+        "sector": [
+          "Academia"
+        ]
+      }
+    },
     {
       "id": 3518,
       "title": "Research Software Services (AI) Lead",
